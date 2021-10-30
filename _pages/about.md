@@ -10,26 +10,27 @@ redirect_from:
 
 # Aporee
 Try projects
-<iframe width="100%" height="450" src="https://aporee.org/maps/work/projects.php?project=soocroeselare"></iframe>
+<iframe width="100%" height="33%" src="https://aporee.org/maps/work/projects.php?project=soocroeselare"></iframe>
 
 ## to create a map of the current Location, copy the following code to your webpage: (preview)
 
 content_copy
-<iframe src='https://aporee.org/maps/work/export/?loc=54724&m=satellite' width='500' height='300' />
+<iframe width="100%" height="33% src="https://aporee.org/maps/work/export/?loc=54724&m=satellite""></iframe>
 
 ## to create a link to the current location, copy the following code to your webpage:
 
 content_copy
 <a href='https://aporee.org/maps/?loc=54724&m=satellite'>radio aporee ::: maps - Kaaistraat 5, 8800 Roeselare, Belgium</a>
-you can also copy/bookmark this location by right-clicking the following link: radio aporee ::: maps - Kaaistraat 5, 8800 Roeselare, Belgium , or you can send it per email
 
 # Pluggy
+Current experimentation: 3D sound with Earpods
 <iframe width="100%" height="450" src="https://beta.pluggy.eu/exhibitions/plugin/5ca1e3cbf0adadd7c66b31e8/5fd225713f3bc48e5750299b"></iframe>
 
-Dropbox
-
+# Dropbox
+Video embed works slower than YouTube, consider transfering the video? 
 <iframe width="100%" height="500" src="https://www.dropbox.com/s/85yuhsf6c435fzp/MANOEUVRES-5-TIN-CAN.mp4?raw=1"></iframe>
 
+# Academic 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
