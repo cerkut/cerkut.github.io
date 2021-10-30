@@ -10,12 +10,12 @@ redirect_from:
 
 # Aporee
 Try projects
-<iframe width="100%" height="33%" src="https://aporee.org/maps/work/projects.php?project=soocroeselare"></iframe>
+<iframe width="100%" height="100%" src="https://aporee.org/maps/work/projects.php?project=soocroeselare"></iframe>
 
 ## to create a map of the current Location, copy the following code to your webpage: (preview)
 
 content_copy
-<iframe width="100%" height="33% src="https://aporee.org/maps/work/export/?loc=54724&m=satellite""></iframe>
+<iframe width="100%" height="100%" src="https://aporee.org/maps/work/export/?loc=54724&m=satellite""></iframe>
 
 ## to create a link to the current location, copy the following code to your webpage:
 
