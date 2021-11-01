@@ -32,7 +32,7 @@ Video embed works slower than YouTube, consider transfering the video?
 
 # YouTube
 How does this look? 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/SiLQofd-Tzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="325" src="https://www.youtube.com/embed/SiLQofd-Tzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # Academic 
