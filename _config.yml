@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cumhur Erkut, Dr. Sc.(Tech)"
+title                    : "Cumhur Erkut, Dr. Sc. (Tech)"
 title_separator          : "-"
 name                     : &name "Cumhur Erkut"
 description              : &description "Associate Professor of Sonic and Embodied Interaction"
-url                      : https://cerkut.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cerkut.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cerkut/cerkut.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,40 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cumhur Erkut, Dr. Sc.(Tech)"
+  name             : "Cumhur Erkut, Dr. Sc. (Tech)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "I received my PhD in acoustics and audio signal processing from Helsinki University of Technology, Finland, with minor studies on Information Systems (Machine Learning). During my post-doc, I contributed to national and international projects (EU FPs 5&6). Between 2007 and 2012, I conducted independent research as an Academy Research Fellow on sonic interaction design (Schema-SID, #120583, Academy of Finland), together with the FP7 IC601 SID project on the same theme. During this period, I worked on the emerging theme of rhythmic interaction, with shallow learning algorithms using inductive biases. Since 2013, I work on sonic and embodied interaction design at Aalborg University Copenhagen, currently as an Associate Professor, by combining the theory and the methods of human computer interaction and audio signal processing. More recently I focus on differentiable programming and physics-based learning, advocating that this interpretable and explainable approach to machine learning will eventually solve the fundamental problems of deep learning: reasoning instead of mere mapping, and focus on optimizing well-understood classical signal processing algorithms by inductive, structural biases instead of a generic black-box approach."
+  location         : "Copenhagen, Denmark"
+  employer         : "Aalborg University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "cer@create.aau.dk"
+  researchgate     : "https://www.researchgate.net/profile/Cumhur-Erkut" 
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : 
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "cerkut"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : cerkut_dsmc
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : "cerkut"
+  linkedin         : 
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  pinterest        : 
+  soundcloud       : "cerkut"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "cerkut1"
   vine             :
   weibo            :
-  xing             :
-  youtube          :
+  xing             : 
+  youtube          : "Cumhur Erkut"
   wikipedia        :
 
 
