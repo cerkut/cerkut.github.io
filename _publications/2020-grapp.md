@@ -13,3 +13,7 @@ citation: 'Esbern Torgard Kaspersen, David Gzórny, Cumhur Erkut, and George Pal
 
 # Abstract
 This paper presents an approach for a full body interactive environment in which performers manipulate virtual actors in order to augment a live performance. The aim of this research is to explore the role of generative animation to serve an interactive performance, as a dramaturgical approach in new media. The proposed system consists of three machine learning modules encoding a human’s movement into generative dance, performed by an avatar in a virtual world. First, we provide a detailed description of the technical aspects of the system. Afterwards, we discuss the critical aspects summarized on the basis of dance practice and new media technologies. In the process of this discussion, we emphasize the ability of the system to conform with a movement style and communicate choreographic semiotics, affording artists with new ways of engagement with their audiences.
+
+Watch a draft video of the workshop described in the paper.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GEtlw_vDISg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

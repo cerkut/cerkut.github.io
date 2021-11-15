@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ßc# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -91,7 +91,7 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Cumhur-Erkut" 
   uri              : "https://vbn.aau.dk/en/persons/130223"
   bitbucket        :
-  codepen          : "@cerkut"
+  codepen          : "cerkut"
   dribbble         :
   flickr           :
   facebook         : "cumhur.erkut"
