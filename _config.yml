@@ -82,27 +82,27 @@ analytics:
 author:
   name             : "Cumhur Erkut, Dr. Sc. (Tech)"
   avatar           : "profile.png"
-  bio              : "I work on sonic and embodied interaction. I focus on interpretable and explainable approaches of differentiable programming and physics-based learning for neural audio and motion synthesis."
+  bio              : "I work on sonic and embodied interaction. Currently I am focused on interactive, model-based, neural sound and motion synthesis."
   location         : "Copenhagen, Denmark"
-  employer         : "https://melcph.create.aau.dk"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : # "https://melcph.create.aau.dk"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cumhur+erkut"
   googlescholar    : "https://scholar.google.dk/citations?user=NPYFs5EAAAAJ&hl=en"
   email            : "cer@create.aau.dk"
   researchgate     : "https://www.researchgate.net/profile/Cumhur-Erkut" 
   uri              : "https://vbn.aau.dk/en/persons/130223"
   bitbucket        :
-  codepen          : 
+  codepen          : "@cerkut"
   dribbble         :
   flickr           :
   facebook         : "cumhur.erkut"
   foursquare       :
   github           : "cerkut"
-  google_plus      : "https://patents.google.com/?inventor=Cumhur+Erkut"
+  google_plus      : #"https://patents.google.com/?inventor=Cumhur+Erkut"
   keybase          :
   instagram        : cerkut_dsmc
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : "cerkut"
-  linkedin         : 
+  linkedin         : "cerkut"
   orcid            : "http://orcid.org/0000-0003-0750-1919"
   pinterest        : 
   soundcloud       : "cerkut"
