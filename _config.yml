@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &cerkut1
 facebook:
-  username               :
+  username               : cumhur.erkut
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,19 +82,19 @@ analytics:
 author:
   name             : "Cumhur Erkut, Dr. Sc. (Tech)"
   avatar           : "profile.png"
-  bio              : "I received my PhD in acoustics and audio signal processing from Helsinki University of Technology, Finland, with minor studies on Information Systems (Machine Learning). During my post-doc, I contributed to national and international projects (EU FPs 5&6). Between 2007 and 2012, I conducted independent research as an Academy Research Fellow on sonic interaction design (Schema-SID, #120583, Academy of Finland), together with the FP7 IC601 SID project on the same theme. During this period, I worked on the emerging theme of rhythmic interaction, with shallow learning algorithms using inductive biases. Since 2013, I work on sonic and embodied interaction design at Aalborg University Copenhagen, currently as an Associate Professor, by combining the theory and the methods of human computer interaction and audio signal processing. More recently I focus on differentiable programming and physics-based learning, advocating that this interpretable and explainable approach to machine learning will eventually solve the fundamental problems of deep learning: reasoning instead of mere mapping, and focus on optimizing well-understood classical signal processing algorithms by inductive, structural biases instead of a generic black-box approach."
+  bio              : "I work on sonic and embodied interaction. I focus on interpretable and explainable approaches of differentiable programming and physics-based learning for neural audio and motion synthesis."
   location         : "Copenhagen, Denmark"
   employer         : "Aalborg University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "cer@create.aau.dk"
   researchgate     : "https://www.researchgate.net/profile/Cumhur-Erkut" 
-  uri              :
+  uri              : "https://vbn.aau.dk/en/persons/130223"
   bitbucket        :
   codepen          : 
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "cumhur.erkut"
   foursquare       :
   github           : "cerkut"
   google_plus      :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : "cerkut"
   linkedin         : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0750-1919"
   pinterest        : 
   soundcloud       : "cerkut"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
