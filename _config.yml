@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "I work on sonic and embodied interaction. I focus on interpretable and explainable approaches of differentiable programming and physics-based learning for neural audio and motion synthesis."
   location         : "Copenhagen, Denmark"
-  employer         : "Aalborg University"
+  employer         : "https://melcph.create.aau.dk"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.dk/citations?user=NPYFs5EAAAAJ&hl=en"
   email            : "cer@create.aau.dk"
   researchgate     : "https://www.researchgate.net/profile/Cumhur-Erkut" 
   uri              : "https://vbn.aau.dk/en/persons/130223"
@@ -97,7 +97,7 @@ author:
   facebook         : "cumhur.erkut"
   foursquare       :
   github           : "cerkut"
-  google_plus      :
+  google_plus      : "https://patents.google.com/?inventor=Cumhur+Erkut"
   keybase          :
   instagram        : cerkut_dsmc
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             : 
-  youtube          : "Cumhur Erkut"
+  youtube          : "Cumhur.Erkut"
   wikipedia        :
 
 

@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2020-grapp
 excerpt: '*Movement generation driven by the real-time MoCap sensor data*'
 date: 2020-02-29
-venue: 'Valletta, Malta'
+venue: '15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, Valletta, Malta'
 paperurl: 'http://doi.org/10.5220/0008990403190326'
-citation: 'Esbern Torgard Kaspersen, David Gzórny, Cumhur Erkut, and George Palamas, G. (2020). Proc. 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1, 319–326.'
+citation: 'Esbern Torgard Kaspersen, David Gzórny, Cumhur Erkut, and George Palamas, G. (2020). Proc. Intl. Joint Conf. Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 1, 319–326.'
 
 ---
 
