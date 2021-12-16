@@ -7,6 +7,7 @@ venue: "Danish Sound Cluster"
 date: 2021-12-07
 location: "Online"
 ---
+Recent work at the [Multisensory Experience Lab](https://melcph.create.aau.dk/) pertaining the topic with physics-based audio and movement models beyond deep learning. Hints what's to come: graphical and physics-based deep learning. Click to learn more about our viewpoint and to watch the talk.
 
 In the Multisensory Experience Lab we investigate the combination of different input and output modalities in interactive applications. We are interested in both development of novel hardware and software technologies, as well as evaluation of user experience. We apply our technologies in a variety of areas such as health, rehabilitation, education, art and entertainment. We are particularly interested in researching topics related to sonic interaction design for multimodal environments, simulating walking experiences, sound rendering and spatialization, haptic interfaces, cinematic VR and evaluation of user experience in multimodal environments.
 
