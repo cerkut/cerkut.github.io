@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Curriculum Design"
+collection: 
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: //2014-spring--1
 venue: "Aalborg University, Department of Architecture, Design, and Media Technology"
 date: 2014-01-01
 location: "Copenhagen, Denmark"
@@ -12,7 +12,7 @@ Because of the new study guide in Medialogy {>*BSc in 2014*<}, I have been invol
 
 “Introduction to Programming” for MED1 B.Sc. students (semester 1, 5 ECTS) 
 ======
-13 double lectures for two groups (2x2x45), and exercise sessions (group work on given programming and written exercises, with four teaching assistants). The total number of students: 240 (2013) / 130 (2014). Co-organization with research assistant Dannie M. Korsgaard. Since 2014, Dannie runs the course with the help of bachelor student assistants. It is one of the most popular courses in our Medialogy Education.
+13 double lectures for two groups (2x2x45), and exercise sessions (group work on given programming and written exercises, with four  assistants). The total number of students: 240 (2013) / 130 (2014). Co-organization with research assistant Dannie M. Korsgaard. Since 2014, Dannie runs the course with the help of bachelor student assistants. It is one of the most popular courses in our Medialogy Education.
 
 # "Embodied Interaction” for MED8/SMC8 M.Sc. students (semester 8, 5 ECTS)
 
