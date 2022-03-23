@@ -8,7 +8,7 @@ date: 2022-02-01
 location: "Copenhagen, Denmark"
 ---
 
-I joined the [https://www.create.aau.dk/education/study-boards/media-technology/](CREATE Media Technology Study Board), effective 2022-02-01. 
+I joined the [AAU CREATE Media Technology Study Board](https://www.create.aau.dk/education/study-boards/media-technology/), effective 2022-02-01. 
 
 I hope to have an impact on the following issues
 
