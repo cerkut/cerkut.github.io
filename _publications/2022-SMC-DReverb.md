@@ -14,6 +14,6 @@ citation: 'Søren V K Lyster and Cumhur Erkut, 2022. A Differentiable Neural Net
 - [Run the examples on a Jupyter Notebook](https://github.com/VoggLyster/ReverberatorEstimator/tree/SMC)
 - [Listen to the sound examples](https://vogglyster.github.io/ReverberatorEstimator/)
 
-Watch the SMC'22 presentation
+Watch the SMC'22 presentation: https://youtu.be/_Qv0kIafRN0?t=1069
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cS3mii1rJMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[comment]: # <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cS3mii1rJMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
