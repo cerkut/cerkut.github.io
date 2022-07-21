@@ -3,7 +3,7 @@ title: "Multisensory Processing at MEL"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-12-07-Danish-Sound
-venue: "Danish Sound Cluster"
+venue: "Danish Sound Cluster, Struer, Denmark"
 date: 2021-12-07
 location: "Online"
 ---
