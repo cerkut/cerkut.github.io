@@ -1,4 +1,4 @@
 _site/
-
 /Gemfile.lock
-/*.~undo-tree~
+*.~undo-tree~
+
