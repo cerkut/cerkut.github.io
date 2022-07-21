@@ -1,9 +1,7 @@
 ---
-title: "Interactive Online Teaching Material"
-excerpt: "An excerpt of MED4 Audio Processing Repository"<br/><img src='/images/PORT_APPD.png'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-C. Erkut, “PD patches for MED4 SMC”, http://dx.doi.org/10.5281/zenodo.11594 
-
-
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

@@ -2,3 +2,4 @@ _site/
 /Gemfile.lock
 *.~undo-tree~
 
+/.jekyll-metadata
