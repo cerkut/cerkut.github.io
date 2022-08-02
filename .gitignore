@@ -3,3 +3,4 @@ _site/
 *.~undo-tree~
 
 /.jekyll-metadata
+.DS_Store
