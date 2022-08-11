@@ -1,6 +1,6 @@
 ---
 title: "ImorovAIze"
-excerpt: "AR-enabled, rich multimedia digital interface to SooC project, supported by Creative Europe <br/><img src='/images/improvaize.jpg'>"
+excerpt: "An AAU AI Bridging project that combines machine learning and wearable sensing devices to develop intuitive audiovisual displays that accurately reflect physical activity and the felt experience of human movement. <br/><img src='/images/improvaize.jpg'>"
 collection: portfolio
 ---
 
