@@ -19,8 +19,8 @@ Helsinki University of Technology (HUT/TKK, now part of Aalto University), Finla
 
 EUROPEAN PROJECT EXPERIENCE
 ======
-* 2019		COST Action CA18232 – Mathematics of Nonlinear Dynamic Networks (MAT-DYN-NET):  Management Committee Member (DK), by appointment
-* 2019		607397-CREA-1-2019-1-BE-CULT-COOP1 - Sounds of Our Cities, led by City of Roeselare, Belgium. Danish partner.
+* 2019		COST Action CA18232 – Mathematics of Nonlinear Dynamic Networks ([MAT-DYN-NET](https://www.mat-dyn-net.eu/)):  Management Committee Member (DK), by appointment
+* 2019- 2021	607397-CREA-1-2019-1-BE-CULT-COOP1 - Sounds of Our Cities, led by City of Roeselare, Belgium. Danish partner.
 * 2007– 2011	FP7, COST IC0601 Action Sonic Interaction Design (SID): Finnish Delegate 
 * 2004– 2005	FP6, FET, IST-2004-03773 Coordination Action Sound to Sense, Sense to Sound (S2S2): Audio Working Group Leader 
 * 2002– 2004	FP5, IST-2001-33059, Algorithms for the modeling of acoustic interactions (ALMA), Post-Doc Researcher

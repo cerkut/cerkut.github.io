@@ -4,7 +4,7 @@ excerpt: "AR-enabled, rich multimedia digital interface to SooC project, support
 collection: portfolio
 ---
 
-SOUNDS OF OUR CITIES wass a CREATIVE Europe cooperation project, based upon research and the transfer of knowledge among the spheres of art, technology and social space. It is led by the City of Roeselare, Idensitat, Dear Hunter and Aalborg Universitet. The project focuses on two local contexts (Krottegem in Roeselare and Sant Andreu in Barcelona), as a critical reflection upon cultural identity in relation to the concepts of community and silence.
+SOUNDS OF OUR CITIES was a CREATIVE Europe cooperation project, based upon research and the transfer of knowledge among the spheres of art, technology and social space. It is led by the City of Roeselare, Idensitat, Dear Hunter and Aalborg Universitet. The project focuses on two local contexts (Krottegem in Roeselare and Sant Andreu in Barcelona), as a critical reflection upon cultural identity in relation to the concepts of community and silence.
 
 The project begun with an open call that offered a residence to 10 artists (5 to Roeselare and 5 in Barcelona). Selected projects were developed within each city’s social context as well as through a residence. Within the framework of SoOC, various mediation activities are taking place throughout the chosen locations, and two exhibitions held in each city at [](https://soocities.github.io/)
 
