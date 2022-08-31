@@ -15,11 +15,11 @@ The following MATLAB-based external resource is a good place to think about the 
 
 * [MATLAB Excellence in Innovation Projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
-# 1. Mobile App for Exploration of Local Resources
+# {#1} Mobile App for Exploration of Local Resources 
 
 Many small business owners struggle for customer attention / discovery in the greater Copenhagen Area. By using recommendation-based algorithms on mobile platforms, can you design and evaluate a mobile app to provide small businesses value over the more common, chain institutions?
 
-![1661949836948](image/MED_Project_Catalog/1661949836948.png){: height="256" }
+![1661949836948](image/MED_Project_Catalog/1661949836948.png){:height="256px" }
 
 *Mockup image After Krupa, Maria, 2022, "Impact of gamification on user's engagement and exploration of local cafes in Copenhagen Greater Area", Master's Thesis, Aalborg University Copenhagen*
 
@@ -39,16 +39,14 @@ Gamification can enhance user engagement on a mobile application, and encourage 
 
 Regularizing breath have many proven health and psychology benefits. It is also a backbone of many completative practices, such as meditation or martial arts. Can technology help in regularizing people's breath?
 
-| ![1661951671374](image/MED_Project_Catalog/1661951671374.png) | ![1661951604801](image/MED_Project_Catalog/1661951604801.png) |
-| ----------------------------------------------------------- | ----------------------------------------------------------- |
-
+![1661951671374](image/MED_Project_Catalog/1661951671374.png)![1661951604801](image/MED_Project_Catalog/1661951604801.png)
 *Left: A vest-based breath regularization app, right: a microphone-based breath regularization app. After Guruvayurappan, Vatsal, "An audio-visual breathing application and its benefits on human psychology (mental health)", 2021, Master's Thesis, Aalborg University Copenhagen*
 
 ## Variations / Ideas
 
 - Gamification: subtle narrative, timer, badges, points, or leader boards
 - Evaluation:  Interviews, physilogical logs,
-- Microphone-based recognition
+- Microphone, Gyroscope, IMU, or Camera-based recognition
 - Machine Learning (for MED7 and above)
 - Augmented, Virtual, or Extended Reality, including native or Web-based XR
 - Gradio, Flask, or Streamlit Deployment
