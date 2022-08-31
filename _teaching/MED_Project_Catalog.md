@@ -18,6 +18,7 @@ The following MATLAB-based external resource is a good place to think about the 
 # Mobile App for Exploration of Local Resources
 
 Many small business owners struggle for customer attention / discovery in the greater Copenhagen Area. By using recommendation-based algorithms on mobile platforms, can you design and evaluate a mobile app to provide small businesses value over the more common, chain institutions?
+
 <div align="middle">
 <img src="image/MED_Project_Catalog/1661949836948.png" height="512">
 </div>
@@ -39,6 +40,7 @@ Gamification can enhance user engagement on a mobile application, and encourage 
 # Design, Deployment, and Evaluation of an Audio-Visual Breathing App
 
 Regularizing breath have many proven health and psychology benefits. It is also a backbone of many completative practices, such as meditation or martial arts. Can technology help in regularizing people's breath?
+
 <div align="middle">
   <img src="image/MED_Project_Catalog/1661951671374.png" height="200">
   <img src="image/MED_Project_Catalog/1661951604801.png" height="200"> 
@@ -60,3 +62,29 @@ Regularizing breath have many proven health and psychology benefits. It is also 
 * The users find it easy to practice breathing exercises with the help of the designed application.
 * If audio-visual feedback for the breath input is provided to the user, then they will be able to focus on their breathing in appropriate manner.
 * Breathing exercises are effective in reducing anxiety
+
+# Marker-based / Markerless Augmented Reality on Mobile Devices
+
+Can you help the cultural / creative sectors (CSSs) to reach new audiences using digital technologies. especially Augmented Reality? In collaboration with national / international CCS you will design digital applications for various devices, which will form connections between locations, personal experiences and artistic projects.
+
+<div align="middle">
+<img src="https://stemkoski.github.io/AR-Examples/images/demo/portal-view-AR.png" height="384">
+</div>
+
+*An augmented reality "portal to another world" effect. Portal renders above a Kanji marker. Video preview [here](https://www.youtube.com/watch?v=-gZ3Kv9juYg). After [https://stemkoski.github.io/AR-Examples/](https://stemkoski.github.io/AR-Examples/). See also Dourado, Lima, 2021, "[Time's Running Out](https://projekter.aau.dk/projekter/da/studentthesis/times-running-out-exploring-user-interaction-of-locationbased-timelimited-augmented-reality-experiences-in-urban-environments(8606727a-9767-4f58-98cd-7546d9a25d4f).html)! Exploring User Interaction of Location-Based, Time-Limited, Augmented Reality Experiences In Urban Environments", MSc Thesis, Aalborg University Copenhagen*
+
+## Variations / Ideas
+
+- Gamification: timer, game characters, leader boards
+- Evaluation:  Interviews, physilogical logs, correlation analysis
+- Markerless Augmented Reality using [ARCore](https://developers.google.com/ar) or [ARKit](https://developer.apple.com/augmented-reality/)
+- Machine Learning (for MED7 and above)
+- 3D Sound Spatialization using [3DTune-In](https://github.com/3DTune-In) tools
+
+## Example Hypotheses (P1)
+
+* Fear of Missing Out (FoMO) and scarcity are positively related to continuance intention using Augmented Reality
+* FoMO and scarcity decrease enjoyment
+* General FoMO is positively related to scarcity
+* Audio/Visual Presence increases enjoyment
+* Audio/Visual adoption increases enjoyment
