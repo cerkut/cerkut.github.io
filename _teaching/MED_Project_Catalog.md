@@ -36,12 +36,12 @@ Many small business owners struggle for customer attention / discovery in the gr
 
 Gamification can enhance user engagement on a mobile application, and encourage users to explore small businesses within the Greater CPH Area.
 
-# Design, Deployment, and Evaluation of an Audio-Visual Breathing App {#2}
+# Design, Deployment, and Evaluation of an Audio-Visual Breathing App
 
 Regularizing breath have many proven health and psychology benefits. It is also a backbone of many completative practices, such as meditation or martial arts. Can technology help in regularizing people's breath?
 <div align="middle">
-  <img src="image/MED_Project_Catalog/1661951671374.png" height="200" />
-  <img src="image/MED_Project_Catalog/1661951604801.png" height="200" /> 
+  <img src="image/MED_Project_Catalog/1661951671374.png" height="200">
+  <img src="image/MED_Project_Catalog/1661951604801.png" height="200"> 
 </div>
 
 *Left: A vest-based breath regularization app, right: a microphone-based breath regularization app. After Guruvayurappan, Vatsal, "An audio-visual breathing application and its benefits on human psychology (mental health)", 2021, Master's Thesis, Aalborg University Copenhagen*
