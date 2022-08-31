@@ -19,7 +19,7 @@ The following MATLAB-based external resource is a good place to think about the 
 
 Many small business owners struggle for customer attention / discovery in the greater Copenhagen Area. By using recommendation-based algorithms on mobile platforms, can you design and evaluate a mobile app to provide small businesses value over the more common, chain institutions?
 
-![1661949836948](image/MED_Project_Catalog/1661949836948.png)
+![1661949836948](image/MED_Project_Catalog/1661949836948.png){: height="256" }
 
 *Mockup image After Krupa, Maria, 2022, "Impact of gamification on user's engagement and exploration of local cafes in Copenhagen Greater Area", Master's Thesis, Aalborg University Copenhagen*
 
