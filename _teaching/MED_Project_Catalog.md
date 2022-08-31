@@ -15,12 +15,12 @@ The following MATLAB-based external resource is a good place to think about the 
 
 * [MATLAB Excellence in Innovation Projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
-# Mobile App for Exploration of Local Resources {#1}
+# Mobile App for Exploration of Local Resources
 
 Many small business owners struggle for customer attention / discovery in the greater Copenhagen Area. By using recommendation-based algorithms on mobile platforms, can you design and evaluate a mobile app to provide small businesses value over the more common, chain institutions?
-<p align="middle">
+<div align="middle">
 <img src="image/MED_Project_Catalog/1661949836948.png" height="512">
-</p>
+</div>
 
 *Mockup image After Krupa, Maria, 2022, "Impact of gamification on user's engagement and exploration of local cafes in Copenhagen Greater Area", Master's Thesis, Aalborg University Copenhagen*
 
@@ -39,10 +39,10 @@ Gamification can enhance user engagement on a mobile application, and encourage 
 # Design, Deployment, and Evaluation of an Audio-Visual Breathing App {#2}
 
 Regularizing breath have many proven health and psychology benefits. It is also a backbone of many completative practices, such as meditation or martial arts. Can technology help in regularizing people's breath?
-<p float="left">
-  <img src="image/MED_Project_Catalog/1661951671374.png" height="384" />
-  <img src="image/MED_Project_Catalog/1661951604801.png" height="384" /> 
-</p>
+<div align="middle">
+  <img src="image/MED_Project_Catalog/1661951671374.png" height="200" />
+  <img src="image/MED_Project_Catalog/1661951604801.png" height="200" /> 
+</div>
 
 *Left: A vest-based breath regularization app, right: a microphone-based breath regularization app. After Guruvayurappan, Vatsal, "An audio-visual breathing application and its benefits on human psychology (mental health)", 2021, Master's Thesis, Aalborg University Copenhagen*
 
