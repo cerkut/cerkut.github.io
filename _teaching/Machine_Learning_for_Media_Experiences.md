@@ -4,7 +4,7 @@ collection: teaching
 type: "MSc"
 permalink: /teaching/Machine_Learning_for_Media_Experiences
 venue: "Aalborg University"
-date: 2022-09-31
+date: 2022-08-31
 location: "Copenhagen, Denmark"
 ---
 I am super excited to orchestrate and teach the new course Machine Learning for Media Experiences with [George Palamas](https://vbn.aau.dk/en/persons/141622), [Henrique Galvan Debarba](https://vbn.aau.dk/en/persons/153014), and many guests.
