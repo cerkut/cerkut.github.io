@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "I work on sonic and embodied interaction: model-based, neural sound and motion synthesis. Currently I am looking into foundational models and MLOps from an academic point of view."
   location         : "Copenhagen, Denmark"
-  employer         : # "https://melcph.create.aau.dk"
+  employer         : "https://melcph.create.aau.dk"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cumhur+erkut"
   googlescholar    : "https://scholar.google.dk/citations?user=NPYFs5EAAAAJ&hl=en"
   email            : "cer@create.aau.dk"
@@ -97,7 +97,7 @@ author:
   facebook         : "cumhur.erkut"
   foursquare       :
   github           : "cerkut"
-  google_plus      : #"https://patents.google.com/?inventor=Cumhur+Erkut"
+  google_patents   : "https://patents.google.com/?inventor=Cumhur+Erkut"
   keybase          :
   instagram        : cerkut_dsmc
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             : 
-  youtube          : "@cerkut"
+  youtube          : "cerkut"
   wikipedia        :
 
 
