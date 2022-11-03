@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cumhur Erkut, Dr. Sc. (Tech)"
   avatar           : "profile.jpeg"
-  bio              : "I work on sonic and embodied interaction: model-based, neural sound and motion synthesis. Currently I am looking into academic MLOps."
+  bio              : "I work on sonic and embodied interaction: model-based, neural sound and motion synthesis. Currently I am looking into foundational models and MLOps from an academic point of view."
   location         : "Copenhagen, Denmark"
   employer         : # "https://melcph.create.aau.dk"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cumhur+erkut"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             : 
-  youtube          : "Cumhur.Erkut"
+  youtube          : "@cerkut"
   wikipedia        :
 
 
