@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: https://huggingface.co/spaces/cerkut # An array of links to social media profiles
 
 
 # Analytics
@@ -84,7 +84,6 @@ author:
   avatar           : "profile.jpeg"
   bio              : "I work on sonic and embodied interaction: model-based, neural sound and motion synthesis. Currently I am looking into foundational models and MLOps from an academic point of view."
   location         : "Copenhagen, Denmark"
-  employer         : "https://melcph.create.aau.dk"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cumhur+erkut"
   googlescholar    : "https://scholar.google.dk/citations?user=NPYFs5EAAAAJ&hl=en"
   email            : "cer@create.aau.dk"
