@@ -6,13 +6,13 @@ tags:
   - audio processing
   - editor
 ---
-
 I realized that the audio generation now renders the audio to iPyWidget.
 
-```
+```python
 import IPython.display as ipd
 import numpy as np
 fs = 16000.
 ipd.Audio(np.sin(2\*np.pi\*440\*np.arange(5 \* fs)/fs), rate=fs)
 ```
-How cool is this? 
+
+How cool is this?
