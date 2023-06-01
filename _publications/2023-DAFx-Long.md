@@ -9,5 +9,5 @@ paperurl: 'TBA'
 citation: 'Anders R. Bargum, Stefania Serafin, Cumhur Erkut, and Julian D. Parker. 2023. “Differentiable Allpass Filters for Phase Response Estimation and Automatic Signal Alignment”. Proc. DAFx 2023'
 ---
 - [Read the paper ](https://ieeexplore.ieee.org/document/9954902 "ArXiV")(Preprint)
-- Sound examples: https://abargum.github.io
-- License: http://creativecommons.org/licenses/by/4.0/
+- [Sound examples](https://abargum.github.io)
+- [License: http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/])
