@@ -14,6 +14,6 @@ I have a PhD on [acoustics and audio signal processing](http://legacy.spa.aalto.
 
 I am insterested in *Machine Learning Operations* or [MLOps](https://ml-ops.org), for short. With MLOps, I want to design, build and manage reproducible, testable, and evolvable ML-powered software that can work in real-time. I manage the  [Machine Learning Workstation](https://aalborg-university.gitbook.io/machine-learning-workstation) with 3 Titan X GPUs at AAU-Copenhagen, and am an avid user of [CLAAUDIA research data services](https://www.claaudia.aau.dk/) and [UCloud](https://cloud.sdu.dk/app/dashboard).
 
-I have affiliated with the [Pioneer Center for AI](https://www.aicentre.dk/people/cumhur-erkut), serve in the steering commitee of [Movement and Computing (MOCO)](https://www.movementcomputing.org/about/) and int program commitee of [EAAI Mentored Undergraduate Research Challenge](https://www.yetanotherfreedman.com/resources/challenge_haaisam.html).
+I have affiliated with the [Pioneer Center for AI](https://www.aicentre.dk/people/cumhur-erkut), serve in the steering commitee of [Movement and Computing (MOCO)](https://www.movementcomputing.org/about/) and in the program commitee of [EAAI Mentored Undergraduate Research Challenge](https://www.yetanotherfreedman.com/resources/challenge_haaisam.html).
 
 
