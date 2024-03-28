@@ -1,14 +1,24 @@
 ---
+layout: about
+title: About
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: 
+nav_order: 1
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>A.C. Meyers Vænge 15,</p>
+    <p>DK-2450 Copenhagen SV, Denmark</p>
+news: false  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-I am a researcher and lecturer at the [Multisensory Experience Lab](https://melcph.create.aau.dk/) of the [Aalborg University Copenhagen](https://www.en.cph.aau.dk/). I explore [Sound and Music Computing](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sound_and_music_computing&after_author=100AAIXz__8J&astart=20), [Embodied Interaction](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:embodied_interaction&after_author=hMMWAH72__8J&astart=10), [Sound Synthesis](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sound_synthesis) and Audio Processing with Machine Learning for [Extended Reality](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:extended_reality&after_author=SUYOAHv1__8J&astart=10). 
+
+I am an Associate Professor at the [Aalborg University Copenhagen](https://www.en.cph.aau.dk/). I explore [Sound and Music Computing](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sound_and_music_computing&after_author=100AAIXz__8J&astart=20), [Embodied Interaction](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:embodied_interaction&after_author=hMMWAH72__8J&astart=10), [Sound Synthesis](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sound_synthesis) and Audio Processing with Machine Learning for [Extended Reality](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:extended_reality&after_author=SUYOAHv1__8J&astart=10), with my colleagues at [Multisensory Experience Lab](https://melcph.create.aau.dk/)
 
 I have a PhD on [acoustics and audio signal processing](http://legacy.spa.aalto.fi/), with minor PhD studies [Information Systems (Machine Learning)](http://www.cis.hut.fi/) and general studies on Extended Reality. I have participated in national (Finland, Denmark, and Turkey) and international projects (EU Framework Programs 5-7, and Horizon programs). Between 2007 and 2012, I conducted independent research as an Academy Research Fellow on [sonic interaction design](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sonic_interaction_design) (Schema-SID, #120583, Academy of Finland), together with the FP7 IC601 SID project on the same theme. During this period, I worked on the emerging theme of rhythmic interaction, with real-time probabilistic machine learning models.
 

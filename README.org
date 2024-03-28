@@ -1,0 +1,8 @@
+https://github.com/cerkut/cerkut.github.io/tree/old-academic-pages
+#+BEGIN_SRC sh
+bundle exec jekyll liveserve
+#+END_SRC
+
+
+#+RESULTS:
+* Check 
