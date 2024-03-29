@@ -3,10 +3,12 @@ title: "Wellbeing beyond expectations with an Edge Intelligence Infrastructure"
 collection: talks
 type: "Talk"
 permalink: /talks/2024-03-14-AAL-Wellbeing
-venue: "Sound and Music Computing Conference (SMC'22), St. Ethienne, France"
+venue: " DIALOGUE WORKSHOP: MISSION WELLBEING OF CHILDREN AND YOUNG PEOPLE, Aalborg University Innovation Hub"
 date: 2024-03-14
-location: "Online"
+location: "Aalborg, Denmark"
 ---
+
+
 In 2024, in many occasions I have pitched for an [Edge Intelligence](https://viso.ai/edge-ai/edge-intelligence-deep-learning-with-edge-computing/) infrastructure that can connect our labs and people's homes.
 
 The last was the DIALOGUE WORKSHOP 14 MARCH 2024 - MISSION WELLBEING OF CHILDREN AND YOUNG PEOPLE at Aalborg. 
