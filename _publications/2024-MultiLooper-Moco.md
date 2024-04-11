@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-MultiLooper-Moco
 excerpt: 'Accepted: *a soma-design exercise towards active inference of movement and sound* ...'
 date: 2024-06-01
-venue: 'Proc DAFx 2023, Copenhagen, Denmark'
+venue: 'Proc MOCO 2024, Utrecht, the Netherlands'
 paperurl: ''
 citation: 'Pelin Kiliboz and Cumhur Erkut, 2024. “Multimodal Looper: A Live-Looping System for Gestural and Audio-visual Improvisation” in Proc MOCO 2024, Utrecht, The Netherlands'
 ---
