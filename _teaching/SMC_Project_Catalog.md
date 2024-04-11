@@ -16,6 +16,34 @@ The following MATLAB-based external resources are good places to think about the
 * [MATLAB Excellence in Innovation Projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 * [MATLAB Annual Audio Plugin Competition Submissions](https://se.mathworks.com/matlabcentral/fileexchange/?q=tag:%22aescomp%22&sort=date_desc_updated)
 
+# Classical Electronic Music for Modern AI
+
+<div align="middle">
+<img src="https://juanalonso.github.io/ddsp_fm/img/anim_vae01.gif 
+" height="384">
+</div>
+
+🚀 [Juan Alonso Moreno](https://github.com/juanalonso) has developed a differentiable FM synthesizer using the DDSP framework in his 2021 SMC Master thesis 
+
+- Audio https://juanalonso.github.io/ddsp_fm/
+- Code https://github.com/juanalonso/ddsp_fm
+
+[Franco Caspe](https://fcaspe.github.io/), a PhD student from QMUL has interesting related projects. 
+
+💿 DATA: Miller S Puckette [in his Pd Repertory Project](https://msp.ucsd.edu/pdrp/) provides example study patches of important electronic / computer music projects. [Stefano Fasciani (U. Oslo)](https://github.com/stefanofasciani/DGMD) is actively working on a dataset generator for musical devices. 
+
+Starting from these models 🚀 and data 💿, can you design and evaluate an end-to-end differentiable synthesizer? 
+
+## References
+
+Caspe, Franco, Andrew McPherson, and Mark Sandler. 2022. “DDX7: Differentiable FM Synthesis of Musical Instrument Sounds.” arXiv. https://doi.org/10.48550/arxiv.2208.06169. 
+
+Lazzarini, Victor, Damián Keller, and Nemanja Radivojević. 2023. “Issues of Ubiquitous Music Archaeology: Shared Knowledge, Simulation, Terseness, and Ambiguity in Early Computer Music.” Frontiers in Signal Processing 3: 1132672. https://doi.org/10.3389/frsip.2023.1132672.
+
+Lazzarini, Victor, and Joseph Timoney. 2024. “Theory and Practice of Higher-Order Frequency Modulation Synthesis.” Journal of New Music Research ahead-of-print (ahead-of-print): 1–16. https://doi.org/10.1080/09298215.2024.2312236.
+
+Zattra, Laura. 2007. “The Assembling of Stria by John Chowning: A Philological Investigation.” Computer Music Journal 31 (3): 38–64. https://doi.org/10.1162/comj.2007.31.3.38.
+
 # Marker-based / Markerless Augmented Reality on Mobile Devices
 
 Can you help the cultural / creative sectors (CSSs) to reach new audiences using digital technologies. especially Augmented Reality? In collaboration with national / international CCS you will design digital applications for various devices, which will form connections between locations, personal experiences and artistic projects.
