@@ -4,7 +4,7 @@ collection: teaching
 type: "Supervision"
 permalink: /teaching/SMC_Project_Catalog
 venue: "Aalborg University"
-date: 2022-08-31
+date: 2024-04-11
 location: "Copenhagen, Denmark"
 ---
 This is a container for semester project ideas for the SMC students.
@@ -25,8 +25,8 @@ The following MATLAB-based external resources are good places to think about the
 
 🚀 [Juan Alonso Moreno](https://github.com/juanalonso) has developed a differentiable FM synthesizer using the DDSP framework in his 2021 SMC Master thesis 
 
-- Audio https://juanalonso.github.io/ddsp_fm/
-- Code https://github.com/juanalonso/ddsp_fm
+- Audio [https://juanalonso.github.io/ddsp_fm/](https://juanalonso.github.io/ddsp_fm/)
+- Code [https://juanalonso.github.io/ddsp_fm/](https://github.com/juanalonso/ddsp_fm)
 
 [Franco Caspe](https://fcaspe.github.io/), a PhD student from QMUL has interesting related projects. 
 
