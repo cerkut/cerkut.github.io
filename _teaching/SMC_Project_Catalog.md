@@ -4,7 +4,7 @@ collection: teaching
 type: "Supervision"
 permalink: /teaching/SMC_Project_Catalog
 venue: "Aalborg University"
-date: 2024-04-11
+date: 2024-08-20
 location: "Copenhagen, Denmark"
 ---
 This is a container for semester project ideas for the SMC students.
@@ -43,6 +43,17 @@ Lazzarini, Victor, Damián Keller, and Nemanja Radivojević. 2023. “Issues of 
 Lazzarini, Victor, and Joseph Timoney. 2024. “Theory and Practice of Higher-Order Frequency Modulation Synthesis.” Journal of New Music Research ahead-of-print (ahead-of-print): 1–16. https://doi.org/10.1080/09298215.2024.2312236.
 
 Zattra, Laura. 2007. “The Assembling of Stria by John Chowning: A Philological Investigation.” Computer Music Journal 31 (3): 38–64. https://doi.org/10.1162/comj.2007.31.3.38.
+
+# Quantum Sound and Music Computing
+Objective: Explore the intersection of quantum computing and music, focusing on the development of new musical instruments and compositions. 
+
+## Key References:
+
+Miranda, E. R. (2022). Quantum Computer Music, Foundations, Methods and Advanced Concepts. [Springer](https://link.springer.com/book/10.1007/978-3-031-13909-3)
+
+Miranda, E. R. 2024. “The Advent of Quantum Computer Music: Mapping the Field.” Reports on Progress in Physics 87 (8): 086001. https://doi.org/10.1088/1361-6633/ad627a.
+
+[MATLAB Quantum Computing Documentation](https://se.mathworks.com/help/releases/R2024a/matlab/quantum-computing.html?s_tid=CRUX_topnav)
 
 # Marker-based / Markerless Augmented Reality on Mobile Devices
 
