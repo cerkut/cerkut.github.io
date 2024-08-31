@@ -28,7 +28,7 @@ The following MATLAB-based external resources are good places to think about the
 - Audio [https://juanalonso.github.io/ddsp_fm/](https://juanalonso.github.io/ddsp_fm/)
 - Code [https://juanalonso.github.io/ddsp_fm/](https://github.com/juanalonso/ddsp_fm)
 
-[Franco Caspe](https://fcaspe.github.io/), a PhD student from QMUL has interesting related projects. 
+[Franco Caspe](https://fcaspe.github.io/), a PhD student from QMUL has interesting related projects. There is a [new book and repo](https://github.com/yeeking/ai-enhanced-audio-book) by Yee-King you can use to combine the power of deep learning and the real-time capabilities of the JUCE platform.
 
 💿 DATA: Miller S Puckette [in his Pd Repertory Project](https://msp.ucsd.edu/pdrp/) provides example study patches of important electronic / computer music projects. [Stefano Fasciani (U. Oslo)](https://github.com/stefanofasciani/DGMD) is actively working on a dataset generator for musical devices. 
 
@@ -42,10 +42,25 @@ Lazzarini, Victor, Damián Keller, and Nemanja Radivojević. 2023. “Issues of 
 
 Lazzarini, Victor, and Joseph Timoney. 2024. “Theory and Practice of Higher-Order Frequency Modulation Synthesis.” Journal of New Music Research ahead-of-print (ahead-of-print): 1–16. https://doi.org/10.1080/09298215.2024.2312236.
 
+Yee-King, M. J. (2024). Build ai-enhanced audio plugins with C++. London, UK: Routledge. DOI: 10.4324/9781003365495. Repo: https://github.com/yeeking/ai-enhanced-audio-book 
+
 Zattra, Laura. 2007. “The Assembling of Stria by John Chowning: A Philological Investigation.” Computer Music Journal 31 (3): 38–64. https://doi.org/10.1162/comj.2007.31.3.38.
 
 # Quantum Sound and Music Computing
-Objective: Explore the intersection of quantum computing and music, focusing on the development of new musical instruments and compositions. 
+Denmark has a rich history of innovation in Quantum research, and aims to a big player in Quantum Computing. There is a [growing community, a national strategy, talent programs, and resources available](https://dqc.dk/) for the next generation of Quantum Computing and Quantum Machine Learning professionals. Outside of Denmark, startups like [Moth Quantum](https://mothquantum.com/) strive to enable the next era of music, gaming and the arts with quantum computing technology.
+
+
+<div align="middle">
+<img src="https://refikanadol.com/wp-content/uploads/2020/12/TROSS_NGVTRNL_1511-Edit-Edit-Edit-2_fullres-2096x1400.jpg" height="384">
+<br>Image linked from https://refikanadol.com/works/quantummemories/  
+<br>
+<br>
+</div>
+
+
+
+**Objective**: Explore the intersection of quantum and creative computing in sound and music, focusing on the development of new musical instruments and compositions, using the knowledge, skills, and competencies you will gain in three semester courses. 
+
 
 ## Key References:
 
