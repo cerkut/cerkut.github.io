@@ -4,13 +4,15 @@ collection: teaching
 type: "MSc"
 permalink: /teaching/Machine_Learning_for_Media_Experiences
 venue: "Aalborg University"
-date: 2022-08-31
+date: 2024-08-31
 location: "Copenhagen, Denmark"
 ---
-I am super excited to orchestrate and teach the new course Machine Learning for Media Experiences with [George Palamas](https://vbn.aau.dk/en/persons/141622), [Henrique Galvan Debarba](https://vbn.aau.dk/en/persons/153014), and many guests.
+I am super excited for the new edition of Machine Learning for Media Experiences, with the TA Mubarik Jamal Muuse.
 
-The formal study plan description of the module can be found here [https://moduler.aau.dk/course/2022-2023/MSNMEDM1222?lang=da-DK](https://moduler.aau.dk/course/2022-2023/MSNMEDM1222?lang=da-DK)
+We will run the course mostly flipped, with three important workshops:
 
-We will mainly follow Microsoft's ML for beginners, from our own fork at [https://github.com/SMC-AAU-CPH/ML-For-Beginners](https://github.com/SMC-AAU-CPH/ML-For-Beginners) but complement it with individual material at each session in line with the curriculum.
+- A full day introduction and workshop on 5.9 @ 2.0.004 (Laborotarium)
+- A full 2-day hands-on workshop on 25/26 September @ 2.0.004 (Laborotarium)
+- A full 3-day workshop and project initiation on 9, 10 and 11 October @ Manufakturet.
 
-Our first session is September 2, Friday.
+The self-study material between and after the workshops is enlisted within each workshop. Our first session is September 5, Thursday
