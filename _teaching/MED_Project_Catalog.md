@@ -4,16 +4,32 @@ collection: teaching
 type: "Supervision"
 permalink: /teaching/MED_Project_Catalog
 venue: "Aalborg University"
-date: 2022-08-31
+date: 2024-08-31
 location: "Copenhagen, Denmark"
 ---
 This is a container for semester project ideas for the MED students.
 
 The MED1-6 students should consider classical Signal Processing or AR/VR projects, whereas MED7 and above who take / took the Machine Learning Course (MLME) could also consider Machine Learning projects.
 
-The following MATLAB-based external resource is a good place to think about the scope, content, context, and value of semester projects.
+The following MATLAB-based external resource is a good place to think about the scope, content, context, and value of semester projects: [MATLAB Excellence in Innovation Projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
 
-* [MATLAB Excellence in Innovation Projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
+# Quantum Computing and Quantul Machine Learning
+Denmark has a rich history of innovation in Quantum research, and aims to a big player in Quantum Computing. There is a [growing community, a national strategy, talent programs, and resources available](https://dqc.dk/) for the next generation of Quantum Computing and Quantum Machine Learning professionals. Outside of Denmark, startups like [Moth Quantum](https://mothquantum.com/) strive to enable the next era of music, gaming and the arts with quantum computing technology.
+
+<div align="middle">
+<img src="https://refikanadol.com/wp-content/uploads/2020/12/TROSS_NGVTRNL_1511-Edit-Edit-Edit-2_fullres-2096x1400.jpg" height="384">
+<br>Image linked from https://refikanadol.com/works/quantummemories/  
+<br>
+<br>
+</div>
+
+
+
+**Objective**: Explore the intersection of quantum computing, machine learning and creative computing, focusing on the development of new narratives, interactive computer graphics application, or even wearable and mobile devices. 
+
+## Key Reference:
+
+Miranda, Eduardo R. 2022. Quantum Computing in the Arts and Humanities, An Introduction to Core Concepts, Theory and Applications. https://doi.org/10.1007/978-3-030-95538-0.
 
 # Mobile App for Exploration of Local Resources
 
