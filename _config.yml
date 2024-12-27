@@ -75,22 +75,19 @@ github_username: cerkut # your GitHub user name
 gitlab_username: cerkut # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: cerkut # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: NPYFs5EAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: 2245025542 # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0003-0750-1919     # your ORCID ID
-medium_username: # your Medium username
-orcid_id: # your ORCID ID
-osf_id: # your OSF ID
+medium_username: cumhurerkut # your Medium username
+osf_id: jnhxg # your OSF ID
 pinterest_id: # your pinterest id
-publons_id: # your ID on Publons
+publons_id: 654081 # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-scopus_id: # your profile on Scopus
-semanticscholar_id: # your Semantic Scholar ID
+scopus_id: 6507065675 # your profile on Scopus
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
@@ -103,7 +100,6 @@ work_url: # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: cerkut # your zotero username
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
