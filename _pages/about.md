@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+👯 If you lande here for cookiecutters / packages for ...
+- ML Engineering: check https://github.com/fmind/mlops-python-package
+- AI Engineering: check https://github.com/callmesora/llmops-python-package
+- Quantum ML/AI: please check back later when I finish updating my Qiskit to > v1
+
 I am an Asoociate Professor, researcher and lecturer at the [Multisensory Experience Lab](https://melcph.create.aau.dk/) of the [Aalborg University Copenhagen](https://www.en.cph.aau.dk/). I explore [Sound and Music Computing](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sound_and_music_computing&after_author=100AAIXz__8J&astart=20), [Embodied Interaction](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:embodied_interaction&after_author=hMMWAH72__8J&astart=10), [Sound Synthesis](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sound_synthesis) and Audio Processing with Machine Learning for [Extended Reality](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:extended_reality&after_author=SUYOAHv1__8J&astart=10). 
 
 I have a PhD on [acoustics and audio signal processing](http://legacy.spa.aalto.fi/), with minor PhD studies [Information Systems (Machine Learning)](http://www.cis.hut.fi/) and general studies on Extended Reality. I have participated in national (Finland, Denmark, and Turkey) and international projects (EU Framework Programs 5-7, and Horizon programs). Between 2007 and 2012, I conducted independent research as an Academy Research Fellow on [sonic interaction design](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sonic_interaction_design) (Schema-SID, #120583, Academy of Finland), together with the FP7 IC601 SID project on the same theme. During this period, I worked on the emerging theme of rhythmic interaction, with real-time probabilistic machine learning models.
