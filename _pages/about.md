@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👯 If you lande here for cookiecutters / packages for ...
+👯 If you landed here for cookiecutters / packages for ...
 - ML Engineering: check https://github.com/fmind/mlops-python-package
 - AI Engineering: check https://github.com/callmesora/llmops-python-package
 - Quantum ML/AI: please check back later when I finish updating my Qiskit to > v1
