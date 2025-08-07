@@ -5,6 +5,7 @@ title: cuer lab
 description: Continual Unified Ecosystems Research Laboratory of AI, Edge, IoT, XR, and Computating Continuum
 nav: true
 nav_order: 4
+
 ---
 ![]({{ "https://deniseholt.us/wp-content/uploads/2025/06/Internet-Protocol-Progression-1-1536x862.png" | absolute_url }}){:style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
 
