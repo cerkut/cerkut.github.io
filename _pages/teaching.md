@@ -25,7 +25,7 @@ toc:
 In designing and developing interactive media systems and technology, we often look for interesting patterns and trends. This course presents theoretical concepts and practical tools for **analyzing data for multimedia applications** and solving **machine learning problems.**
 
 - Formal Description: [https://moduler.aau.dk/course/MSNMEDM1222](https://moduler.aau.dk/course/MSNMEDM1222)
-- Moodle (AAU access only): 2025: [55991](http://moodle.aau.dk/course/view.php?id=55991) 2024: [52521](52521)
+- Moodle (AAU access only): 2025: [55991](http://moodle.aau.dk/course/view.php?id=55991) 2024: [52521](http://moodle.aau.dk/course/view.php?id=52521 "2024 ed")
 
 I am excited for the 2025/26 edition of Machine Learning for Media Experiences, with the TA Signe Henriksen.
 
