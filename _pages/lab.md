@@ -40,7 +40,7 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 
 # Student Projects finalized at the cuer lab
 
-{% bibliography %}
+{% bibliography _bibliography/export.bib %}
 
 <iframe src="https://aaudk-my.sharepoint.com/personal/cer_create_aau_dk/_layouts/15/Doc.aspx?sourcedoc={9abebb4e-734b-4d6e-a94c-c395191f8c05}&action=embedview" style="width: 100%; height: 600px; border: none;"
   frameborder="0">
