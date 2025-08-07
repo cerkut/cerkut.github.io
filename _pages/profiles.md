@@ -3,7 +3,7 @@ layout: page
 permalink: /people/
 title: collaboration
 description: members and collaborators of the cuer lab
-nav: true
+nav: false
 nav_order: 7
 
 # profiles:
