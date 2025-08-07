@@ -2,7 +2,7 @@
 ---
 
 @string{aps = {American Physical Society,}}
-
+@string{dax = {Digital Audio Effects Conf. (DAFx)}}
 @book{einstein1920relativity,
   title={Proceedings of the 11th Conference on Digital Audio Effects},
   author={J. Pakarinen and C. Erkut and H. Penttinen and V. Välimäki},
@@ -72,7 +72,8 @@ doi = {10.48550/arxiv.2408.16546},
 arxiv = {2408.16546}, 
 supp = {https://rave-for-speech-audio.github.io/}, 
 keywords = {}, 
-booktitle = {Proc. Intl. Conf. Digital Audio Fx (DAFx)},
+booktitle = dax,
+abbr = {DAFx},
 month = sep,
 preview = {dafx24.png}
 }
@@ -521,11 +522,10 @@ year = {2004},
 rating = {3}, 
 author = {Karjalainen, Matti and Pakarinen, Jyri and Erkut, Cumhur and Esquef, Paulo A A and Välimäki, Vesa}, 
 title = {{Recent Advances in Physical Modeling with K- and W-Techniques}}, 
-urldate = {0}, 
-pages = {1 6}, 
-series = {Proc. Intl. Conf. Digital Audio Effects (DAFx)}, 
-keywords = {}, 
-month = {09}
+pages = {1--6}, 
+booktitle = dax, 
+abbr = {DAFx},
+month = {09},
 }
 @inproceedings{Jylha:2013vq, 
 year = {2013}, 
@@ -837,16 +837,15 @@ local-url = {file://localhost/Users/cer/bibliography/bibtex-pdfs/Fehr-2015.pdf}
 }
 @inproceedings{Jylha:2008kc, 
 year = {2008}, 
-rating = {0}, 
 author = {Jylhä, Antti and Erkut, Cumhur}, 
 title = {{Interring the Hand Configuration from Hand Clapping Sounds}}, 
 doi = {10.1111/2041-210x.12224/full}, 
 url = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.218.9002\&rep=rep1\&type=pdf}, 
 abstract = {{ABSTRACT In this paper, a technique for inferring the configuration of a clapper's hands from a hand clapping sound is described. The method was developed based on analysis of synthetic and recorded hand clap sounds, labeled with the corresponding hand  }}, 
-urldate = {0}, 
 series = {Proc. Intl. Conf. Digital Audio Effects (DAFx)}, 
-keywords = {}
+keywords = {Bayesian, Generative Model}
 }
+
 @techreport{Erkut:2016wi, 
 year = {2016}, 
 rating = {0}, 
@@ -1239,21 +1238,18 @@ local-url = {file://localhost/Users/cer/bibliography/bibtex-pdfs/Erkut-2013.pdf}
 }
 @article{Rabenstein:2007ug, 
 year = {2007}, 
-rating = {0}, 
 title = {{Blocked-Based Physical Modeling for Digital Sound Synthesis}}, 
 author = {Rabenstein, Rudolf and Petrausch, Stefan and Sarti, Augusto and Sanctis, Giovanni De and Erkut, Cumhur and Karjalainen, Matti}, 
 journal = {IEEE Signal Processing Magazine}, 
 issn = {1053-5888}, 
 doi = {10.1109/msp.2007.323263}, 
-url = {http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=4117928}, 
 abstract = {{Block-based physical modeling is a methodology for modeling physical systems with different subsystems. It is an important concept for the physical modeling of real or virtual musical instruments where different components may be modeled according to different paradigms. Connecting systems of diverse nature in the discrete-time domain requires a common interconnection strategy. This contribution presents suitable interconnection strategies that incorporate a wide range of modeling blocks and considers the automatic implementation of block-based structures. Software environments are presented, which allow to build complex sound synthesis systems without burdening the user with problems of block compatibility.}}, 
 pages = {42--54}, 
 number = {2}, 
 volume = {24}, 
 language = {English}, 
-note = {gary: resonators mistuned for DAFx?}, 
-keywords = {}
 }
+
 @article{Erkut:0a22, 
 year = {2018}, 
 title = {{Mobile AR In and Out: Towards Delay-Based Modeling of Acoustic Scenes}}, 
@@ -1652,21 +1648,25 @@ abstract = {{Virtual analog (VA) audio effects are increasingly based on neural 
 keywords = {dsp},
 code = {https://github.com/abargum/diff-apf},
 supp = {https://abargum.github.io},
-booktitle = {Proc. International Conf. Digital Audio Effects (DAFx)},
-address = {Copenhagen, Denmark}
+booktitle = dax,
+address = {Copenhagen, Denmark},
+preview = {dafx23.png},
+abbr = {DAFx}
 }
 
 @inproceedings{SUD23-DAFx, 
 year = {2023}, 
 title = {{Vocal Timbre Effects with Differentiable Digital Signal Processing}}, 
 author = {Südholt, David and Erkut, Cumhur}, 
-booktitle = {Proc. International Conf. Digital Audio Effects (DAFx)},
-address = {Copenhagen, Denmark}, 
+booktitle = dax,
+address = {Copenhagen, Denmark},
+preview = {dafx23.png},
 doi = {10.48550/arxiv.2306.10886}, 
 arXiv = {2306.10886}, 
 abstract = {{We explore two approaches to creatively altering vocal timbre using Differentiable Digital Signal Processing (DDSP). The first approach is inspired by classic cross-synthesis techniques. A pretrained DDSP decoder predicts a filter for a noise source and a harmonic distribution, based on pitch and loudness information extracted from the vocal input. Before synthesis, the harmonic distribution is modified by interpolating between the predicted distribution and the harmonics of the input. We provide a real-time implementation of this approach in the form of a Neutone model. In the second approach, autoencoder models are trained on datasets consisting of both vocal and instrument training data. To apply the effect, the trained autoencoder attempts to reconstruct the vocal input. We find that there is a desirable "sweet spot" during training, where the model has learned to reconstruct the phonetic content of the input vocals, but is still affected by the timbre of the instrument mixed into the training data. After further training, that effect disappears. A perceptual evaluation compares the two approaches. We find that the autoencoder in the second approach is able to reconstruct intelligible lyrical content without any explicit phonetic information provided during training.}}, 
 code = {https://github.com/dsuedholt/ddsp_xsynth},
-supp = {https://dsuedholt.github.io/ddsp-vocal-effects/}
+supp = {https://dsuedholt.github.io/ddsp-vocal-effects/},
+abbr = {DAFx}
 }
 
 
