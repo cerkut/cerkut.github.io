@@ -5,8 +5,6 @@ title: cuer lab
 description: Continual Unified Ecosystems Research Laboratory
 nav: true
 nav_order: 4
-bibliography:
-  - _bibliography/export.bib
 ---
 
 ![]({{ "https://deniseholt.us/wp-content/uploads/2025/06/Internet-Protocol-Progression-1-1536x862.png" | absolute_url }}){:style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
@@ -39,8 +37,6 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 * [Synthesis Center,](http://synthesis.ame.asu.edu) Arizona State University, [Xin Wei Sha](https://search.asu.edu/profile/2202759)
 
 # Student Projects finalized at the cuer lab
-
-{% bibliography _bibliography/export.bib %}
 
 <iframe src="https://aaudk-my.sharepoint.com/personal/cer_create_aau_dk/_layouts/15/Doc.aspx?sourcedoc={9abebb4e-734b-4d6e-a94c-c395191f8c05}&action=embedview" style="width: 100%; height: 600px; border: none;"
   frameborder="0">
