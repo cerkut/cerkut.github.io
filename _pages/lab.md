@@ -37,7 +37,4 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 * [Synthesis Center,](http://synthesis.ame.asu.edu) Arizona State University, [Xin Wei Sha](https://search.asu.edu/profile/2202759)
 
 # Student Projects finalized at the cuer lab
-
-<iframe src="https://aaudk-my.sharepoint.com/personal/cer_create_aau_dk/_layouts/15/Doc.aspx?sourcedoc={9abebb4e-734b-4d6e-a94c-c395191f8c05}&action=embedview" style="width: 100%; height: 600px; border: none;"
-  frameborder="0">
-  This is an embedded Microsoft Office document, powered by Office.</iframe>
+<iframe src="https://1drv.ms/w/c/75a911fd17e35e91/IQR_OVxNFfLKRZUcG7IWZKZfAQ5G45M6HdxM77mzngKPnfw" style="width: 100%; height: 600px; border: none;" frameborder="0"></iframe>
