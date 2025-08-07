@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://aau.dk'>Aalborg University Copenhagen</a>
+subtitle: Associate Professor, <a href='https://aau.dk'>Aalborg University Copenhagen</a>
 
 profile:
   align: right
