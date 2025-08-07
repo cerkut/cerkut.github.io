@@ -1,0 +1,675 @@
+
+* al-folio
+:PROPERTIES:
+:CUSTOM_ID: al-folio
+:END:
+
+[[https://alshedivat.github.io/al-folio/][[[file:readme_preview/al-folio-preview.png]]]]
+
+*A simple, clean, and responsive [[https://jekyllrb.com/][Jekyll]] theme for academics.*
+
+--------------
+
+[[https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml][[[https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg]]]]
+[[#maintainers][[[https://img.shields.io/badge/maintainers-4-success.svg]]]]
+[[https://github.com/alshedivat/al-folio/graphs/contributors/][[[https://img.shields.io/github/contributors/alshedivat/al-folio.svg]]]]
+[[https://hub.docker.com/r/amirpourmand/al-folio][[[https://img.shields.io/docker/v/amirpourmand/al-folio?sort=semver&label=docker%20image&color=blueviolet]]]]
+[[https://hub.docker.com/r/amirpourmand/al-folio][[[https://img.shields.io/docker/image-size/amirpourmand/al-folio?sort=date&label=docker%20image%20size&color=blueviolet]]]]
+[[https://hub.docker.com/r/amirpourmand/al-folio][[[https://img.shields.io/docker/pulls/amirpourmand/al-folio?color=blueviolet]]]]
+
+[[https://github.com/alshedivat/al-folio/releases/latest][[[https://img.shields.io/github/v/release/alshedivat/al-folio]]]]
+[[https://github.com/alshedivat/al-folio/blob/master/LICENSE][[[https://img.shields.io/github/license/alshedivat/al-folio?color=blue]]]]
+[[https://github.com/alshedivat/al-folio][[[https://img.shields.io/github/stars/alshedivat/al-folio]]]]
+[[https://github.com/alshedivat/al-folio/fork][[[https://img.shields.io/github/forks/alshedivat/al-folio]]]]
+
+** User community
+:PROPERTIES:
+:CUSTOM_ID: user-community
+:END:
+The vibrant community of *al-folio* users is growing! Academics around
+the world use this theme for their homepages, blogs, lab pages, as well
+as webpages for courses, workshops, conferences, meetups, and more.
+Check out the community webpages below. Feel free to add your own
+page(s) by sending a PR.
+
+#+begin_html
+  <table>
+#+end_html
+
+#+begin_html
+  <tr>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+Academics
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ★
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  </tr>
+#+end_html
+
+#+begin_html
+  <tr>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+Labs
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+★ ★ ★ ★ ★ ★ ★
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  </tr>
+#+end_html
+
+#+begin_html
+  <tr>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+Courses
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+CMU PGM (S-19) CMU DeepRL (S-21, F-21, S-22, F-22, S-23, F-23) CMU MMML
+(F-20, F-22) CMU AMMML (S-22, S-23) CMU ASI (S-23) CMU Distributed
+Systems (S-24)
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  </tr>
+#+end_html
+
+#+begin_html
+  <tr>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+Conferences & workshops
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  <td>
+#+end_html
+
+ICLR Blog Post Track (2023, 2024) ML Retrospectives (NeurIPS: 2019,
+2020; ICML: 2020) HAMLETS (NeurIPS: 2020) ICBINB (NeurIPS: 2020, 2021)
+Neural Compression (ICLR: 2021) Score Based Methods (NeurIPS: 2022)
+Images2Symbols (CogSci: 2022) Medical Robotics Junior Faculty Forum
+(ISMR: 2023) Beyond Vision: Physics meets AI (ICIAP: 2023) Workshop on
+Diffusion Models (NeurIPS: 2023)
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  </tr>
+#+end_html
+
+#+begin_html
+  </table>
+#+end_html
+
+** Lighthouse PageSpeed Insights
+:PROPERTIES:
+:CUSTOM_ID: lighthouse-pagespeed-insights
+:END:
+*** Desktop
+:PROPERTIES:
+:CUSTOM_ID: desktop
+:END:
+[[https://htmlpreview.github.io/?https://github.com/alshedivat/al-folio/blob/master/lighthouse_results/desktop/alshedivat_github_io_al_folio_.html][[[file:lighthouse_results/desktop/pagespeed.svg]]]]
+
+Run the test yourself:
+[[https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=desktop][Google
+Lighthouse PageSpeed Insights]]
+
+*** Mobile
+:PROPERTIES:
+:CUSTOM_ID: mobile
+:END:
+[[https://htmlpreview.github.io/?https://github.com/alshedivat/al-folio/blob/master/lighthouse_results/mobile/alshedivat_github_io_al_folio_.html][[[file:lighthouse_results/mobile/pagespeed.svg]]]]
+
+Run the test yourself:
+[[https://pagespeed.web.dev/report?url=https%3A%2F%2Falshedivat.github.io%2Fal-folio%2F&form_factor=mobile][Google
+Lighthouse PageSpeed Insights]]
+
+** Table Of Contents
+:PROPERTIES:
+:CUSTOM_ID: table-of-contents
+:END:
+- [[#al-folio][al-folio]]
+  - [[#user-community][User community]]
+  - [[#lighthouse-pagespeed-insights][Lighthouse PageSpeed Insights]]
+    - [[#desktop][Desktop]]
+    - [[#mobile][Mobile]]
+  - [[#table-of-contents][Table Of Contents]]
+  - [[#getting-started][Getting started]]
+  - [[#installing][Installing]]
+  - [[#customizing][Customizing]]
+  - [[#features][Features]]
+    - [[#lightdark-mode][Light/Dark Mode]]
+    - [[#cv][CV]]
+    - [[#people][People]]
+    - [[#publications][Publications]]
+    - [[#collections][Collections]]
+    - [[#layouts][Layouts]]
+      - [[#the-iconic-style-of-distill][The iconic style of Distill]]
+      - [[#full-support-for-math--code][Full support for math & code]]
+      - [[#photos-audio-video-and-more][Photos, Audio, Video and more]]
+    - [[#other-features][Other features]]
+      - [[#githubs-repositories-and-user-stats][GitHub's repositories
+        and user stats]]
+      - [[#theming][Theming]]
+      - [[#social-media-previews][Social media previews]]
+      - [[#atom-rss-like-feed][Atom (RSS-like) Feed]]
+      - [[#related-posts][Related posts]]
+      - [[#code-quality-checks][Code quality checks]]
+  - [[#faq][FAQ]]
+  - [[#contributing][Contributing]]
+    - [[#maintainers][Maintainers]]
+    - [[#all-contributors][All Contributors]]
+  - [[#star-history][Star History]]
+  - [[#license][License]]
+
+** Getting started
+:PROPERTIES:
+:CUSTOM_ID: getting-started
+:END:
+
+Want to learn more about Jekyll? Check out [[https://www.taniarascia.com/make-a-static-website-with-jekyll/][this tutorial]]. 
+
+Why Jekyll? Read [[https://karpathy.github.io/2014/07/01/switching-to-jekyll/][Andrej Karpathy's blog post]]!
+
+** Installing
+:PROPERTIES:
+:CUSTOM_ID: installing
+:END:
+For installation details please refer to [[file:INSTALL.md]].
+
+** Customizing
+:PROPERTIES:
+:CUSTOM_ID: customizing
+:END:
+For customization details please refer to [[file:CUSTOMIZE.md]].
+
+** Features
+:PROPERTIES:
+:CUSTOM_ID: features
+:END:
+*** Light/Dark Mode
+:PROPERTIES:
+:CUSTOM_ID: lightdark-mode
+:END:
+This template has a built-in light/dark mode. It detects the user
+preferred color scheme and automatically switches to it. You can also
+manually switch between light and dark mode by clicking on the sun/moon
+icon in the top right corner of the page.
+
+#+begin_html
+  <p align="center">
+#+end_html
+
+#+begin_html
+  </p>
+#+end_html
+
+--------------
+
+*** CV
+:PROPERTIES:
+:CUSTOM_ID: cv
+:END:
+There are currently 2 different ways of generating the CV page content.
+The first one is by using a json file located in
+[[file:assets/json/resume.json]]. It is a
+[[https://jsonresume.org/][known standard]] for creating a CV
+programmatically. The second one, currently used as a fallback when the
+json file is not found, is by using a yml file located in
+[[file:_data/cv.yml]]. This was the original way of creating the CV page
+content and since it is more human readable than a json file we decided
+to keep it as an option.
+
+What this means is, if there is no resume data defined in
+[[file:_config.yml]] and loaded via a json file, it will load the
+contents of [[file:_data/cv.yml]] as fallback.
+
+[[https://alshedivat.github.io/al-folio/cv/][[[file:readme_preview/cv.png]]]]
+
+--------------
+
+*** People
+:PROPERTIES:
+:CUSTOM_ID: people
+:END:
+You can create a people page if you want to feature more than one
+person. Each person can have its own short bio, profile picture, and you
+can also set if every person will appear at the same or opposite sides.
+
+[[https://alshedivat.github.io/al-folio/people/][[[file:readme_preview/people.png]]]]
+
+--------------
+
+*** Publications
+:PROPERTIES:
+:CUSTOM_ID: publications
+:END:
+Your publications' page is generated automatically from your BibTex
+bibliography. Simply edit [[file:_bibliography/papers.bib]]. You can
+also add new =*.bib= files and customize the look of your publications
+however you like by editing [[file:_pages/publications.md]]. By default,
+the publications will be sorted by year and the most recent will be
+displayed first. You can change this behavior and more in the
+=Jekyll Scholar= section in [[file:_config.yml]] file.
+
+You can add extra information to a publication, like a PDF file in the
+[[file:assets/pdf/]] directory and add the path to the PDF file in the
+BibTeX entry with the =pdf= field. Some of the supported fields are:
+=abstract=, =altmetric=, =arxiv=, =bibtex_show=, =blog=, =code=,
+=dimensions=, =doi=, =eprint=, =html=, =isbn=, =pdf=, =pmid=, =poster=,
+=slides=, =supp=, =video=, and =website=.
+
+[[https://alshedivat.github.io/al-folio/publications/][[[file:readme_preview/publications.png]]]]
+
+--------------
+
+*** Collections
+:PROPERTIES:
+:CUSTOM_ID: collections
+:END:
+This Jekyll theme implements =collections= to let you break up your work
+into categories. The theme comes with two default collections: =news=
+and =projects=. Items from the =news= collection are automatically
+displayed on the home page. Items from the =projects= collection are
+displayed on a responsive grid on projects page.
+
+[[https://alshedivat.github.io/al-folio/projects/][[[file:readme_preview/projects.png]]]]
+
+You can easily create your own collections, apps, short stories,
+courses, or whatever your creative work is. To do this, edit the
+collections in the [[file:_config.yml]] file, create a corresponding
+folder, and create a landing page for your collection, similar to
+=_pages/projects.md=.
+
+--------------
+
+*** Layouts
+:PROPERTIES:
+:CUSTOM_ID: layouts
+:END:
+*al-folio* comes with stylish layouts for pages and blog posts.
+
+**** The iconic style of Distill
+:PROPERTIES:
+:CUSTOM_ID: the-iconic-style-of-distill
+:END:
+The theme allows you to create blog posts in the
+[[https://distill.pub/][distill.pub]] style:
+
+[[https://alshedivat.github.io/al-folio/blog/2021/distill/][[[file:readme_preview/distill.png]]]]
+
+For more details on how to create distill-styled posts using =<d-*>=
+tags, please refer to
+[[https://alshedivat.github.io/al-folio/blog/2021/distill/][the
+example]].
+
+**** Full support for math & code
+:PROPERTIES:
+:CUSTOM_ID: full-support-for-math-code
+:END:
+*al-folio* supports fast math typesetting through
+[[https://www.mathjax.org/][MathJax]] and code syntax highlighting using
+[[https://github.com/jwarby/jekyll-pygments-themes][GitHub style]]. Also
+supports [[https://www.chartjs.org/][chartjs charts]],
+[[https://mermaid-js.github.io/mermaid/#/][mermaid diagrams]], and
+[[https://tikzjax.com/][TikZ figures]].
+
+#+begin_html
+  <p align="center">
+#+end_html
+
+#+begin_html
+  </p>
+#+end_html
+
+**** Photos, Audio, Video and more
+:PROPERTIES:
+:CUSTOM_ID: photos-audio-video-and-more
+:END:
+Photo formatting is made simple using
+[[https://getbootstrap.com/docs/4.4/layout/grid/][Bootstrap's grid
+system]]. Easily create beautiful grids within your blog posts and
+project pages, also with support for
+[[https://alshedivat.github.io/al-folio/blog/2023/videos/][video]] and
+[[https://alshedivat.github.io/al-folio/blog/2023/audios/][audio]]
+embeds:
+
+#+begin_html
+  <p align="center">
+#+end_html
+
+#+begin_html
+  </p>
+#+end_html
+
+--------------
+
+*** Other features
+:PROPERTIES:
+:CUSTOM_ID: other-features
+:END:
+**** GitHub's repositories and user stats
+:PROPERTIES:
+:CUSTOM_ID: githubs-repositories-and-user-stats
+:END:
+*al-folio* uses
+[[https://github.com/anuraghazra/github-readme-stats][github-readme-stats]]
+and
+[[https://github.com/ryo-ma/github-profile-trophy][github-profile-trophy]]
+to display GitHub repositories and user stats on the =/repositories/=
+page.
+
+[[https://alshedivat.github.io/al-folio/repositories/][[[file:readme_preview/repositories.png]]]]
+
+Edit the =_data/repositories.yml= and change the =github_users= and
+=github_repos= lists to include your own GitHub profile and repositories
+to the =/repositories/= page.
+
+You may also use the following codes for displaying this in any other
+pages.
+
+#+begin_example
+<!-- code for GitHub users -->
+{% if site.data.repositories.github_users %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %} {% include repository/repo_user.liquid username=user %} {% endfor %}
+</div>
+{% endif %}
+
+<!-- code for GitHub trophies -->
+{% if site.repo_trophies.enabled %} {% for user in site.data.repositories.github_users %} {% if site.data.repositories.github_users.size > 1 %}
+<h4>{{ user }}</h4>
+{% endif %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo_trophies.liquid username=user %}
+</div>
+{% endfor %} {% endif %}
+
+<!-- code for GitHub repositories -->
+{% if site.data.repositories.github_repos %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+</div>
+{% endif %}
+#+end_example
+
+--------------
+
+**** Theming
+:PROPERTIES:
+:CUSTOM_ID: theming
+:END:
+A variety of beautiful theme colors have been selected for you to choose
+from. The default is purple, but you can quickly change it by editing
+the =--global-theme-color= variable in the =_sass/_themes.scss= file.
+Other color variables are listed there as well. The stock theme color
+options available can be found at [[file:_sass/_variables.scss]]. You
+can also add your own colors to this file assigning each a name for ease
+of use across the template.
+
+--------------
+
+**** Social media previews
+:PROPERTIES:
+:CUSTOM_ID: social-media-previews
+:END:
+*al-folio* supports preview images on social media. To enable this
+functionality you will need to set =serve_og_meta= to =true= in your
+[[file:_config.yml]]. Once you have done so, all your site's pages will
+include Open Graph data in the HTML head element.
+
+You will then need to configure what image to display in your site's
+social media previews. This can be configured on a per-page basis, by
+setting the =og_image= page variable. If for an individual page this
+variable is not set, then the theme will fall back to a site-wide
+=og_image= variable, configurable in your [[file:_config.yml]]. In both
+the page-specific and site-wide cases, the =og_image= variable needs to
+hold the URL for the image you wish to display in social media previews.
+
+--------------
+
+**** Atom (RSS-like) Feed
+:PROPERTIES:
+:CUSTOM_ID: atom-rss-like-feed
+:END:
+It generates an Atom (RSS-like) feed of your posts, useful for Atom and
+RSS readers. The feed is reachable simply by typing after your homepage
+=/feed.xml=. E.g. assuming your website mountpoint is the main folder,
+you can type =yourusername.github.io/feed.xml=
+
+--------------
+
+**** Related posts
+:PROPERTIES:
+:CUSTOM_ID: related-posts
+:END:
+By default, there will be a related posts section on the bottom of the
+blog posts. These are generated by selecting the =max_related= most
+recent posts that share at least =min_common_tags= tags with the current
+post. If you do not want to display related posts on a specific post,
+simply add =related_posts: false= to the front matter of the post. If
+you want to disable it for all posts, simply set =enabled= to false in
+the =related_blog_posts= section in [[file:_config.yml]].
+
+--------------
+
+**** Code quality checks
+:PROPERTIES:
+:CUSTOM_ID: code-quality-checks
+:END:
+Currently, we run some checks to ensure that the code quality and
+generated site are good. The checks are done using GitHub Actions and
+the following tools:
+
+- [[https://prettier.io/][Prettier]] - check if the formatting of the
+  code follows the style guide
+- [[https://lychee.cli.rs/][lychee]] - check for broken links
+- [[https://github.com/dequelabs/axe-core][Axe]] (need to run
+  manually) - do some accessibility testing
+
+We decided to keep =Axe= runs manual because fixing the issues are not
+straightforward and might be hard for people without web development
+knowledge.
+
+** FAQ
+:PROPERTIES:
+:CUSTOM_ID: faq
+:END:
+For frequently asked questions, please refer to [[file:FAQ.md]].
+
+** Contributing
+:PROPERTIES:
+:CUSTOM_ID: contributing
+:END:
+Contributions to al-folio are very welcome! Before you get started,
+please take a look at [[file:CONTRIBUTING.md][the guidelines]].
+
+If you would like to improve documentation or fix a minor inconsistency
+or bug, please feel free to send a PR directly to =master=. For more
+complex issues/bugs or feature requests, please open an issue using the
+appropriate template.
+
+*** Maintainers
+:PROPERTIES:
+:CUSTOM_ID: maintainers
+:END:
+Our most active contributors are welcome to join the maintainers team.
+If you are interested, please reach out!
+
+#+begin_html
+  <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+#+end_html
+
+#+begin_html
+  <!-- prettier-ignore-start -->
+#+end_html
+
+#+begin_html
+  <!-- markdownlint-disable -->
+#+end_html
+
+#+begin_html
+  <table>
+#+end_html
+
+#+begin_html
+  <tbody>
+#+end_html
+
+#+begin_html
+  <tr>
+#+end_html
+
+#+begin_html
+  <td align="center" valign="top" width="14.28%">
+#+end_html
+
+Maruan
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  <td align="center" valign="top" width="14.28%">
+#+end_html
+
+Rohan Deb Sarkar
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  <td align="center" valign="top" width="14.28%">
+#+end_html
+
+Amir Pourmand
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  <td align="center" valign="top" width="14.28%">
+#+end_html
+
+George
+
+#+begin_html
+  </td>
+#+end_html
+
+#+begin_html
+  </tr>
+#+end_html
+
+#+begin_html
+  </tbody>
+#+end_html
+
+#+begin_html
+  </table>
+#+end_html
+
+#+begin_html
+  <!-- markdownlint-restore -->
+#+end_html
+
+#+begin_html
+  <!-- prettier-ignore-end -->
+#+end_html
+
+#+begin_html
+  <!-- ALL-CONTRIBUTORS-LIST:END -->
+#+end_html
+
+*** All Contributors
+:PROPERTIES:
+:CUSTOM_ID: all-contributors
+:END:
+
+** Star History
+:PROPERTIES:
+:CUSTOM_ID: star-history
+:END:
+
+** License
+:PROPERTIES:
+:CUSTOM_ID: license
+:END:
+The theme is available as open source under the terms of the [[https://github.com/alshedivat/al-folio/blob/master/LICENSE][MIT License]].
+
+Originally, *al-folio* was based on the [[https://github.com/bogoli/-folio][*folio theme]] (published by [[https://liabogoev.com][Lia Bogoev]] and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
+
+* TODO bibliograpy styles other than apa that support doi
+
+* scholar index
+
+
+* biblio cleanup
+:LOGBOOK:
+CLOCK: [2024-03-28 Thu 20:35]--[2024-03-28 Thu 21:01] =>  0:26
+:END:
+
