@@ -2,6 +2,10 @@
   - firstname: ["Anders", "A.", "A. R.", "Anders R."]
     url: https://www.linkedin.com/in/anders-bargum-b887a81a7
 
+"cemgil":
+  - firstname: ["Ali Taylan", "Taylan", "T.", "A. T."]
+    url: https://www.linkedin.com/in/ali-taylan-cemgil-b26833131    
+
 "podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
