@@ -3,9 +3,12 @@
 
 @string{aps = {American Physical Society,}}
 @string{dax = {Digital Audio Effects Conf. (DAFx)}}
+
+
+
 @book{einstein1920relativity,
   title={Proceedings of the 11th Conference on Digital Audio Effects},
-  author={J. Pakarinen and C. Erkut and H. Penttinen and V. Välimäki},
+  author={Jyri Pakarinen and Cumhur Erkut and Henri Penttinen and Vesa Välimäki},
   year={2008},
   publisher={Helsinki University of Technology},
   isbn={978-951-22-9516-6},
@@ -61,6 +64,34 @@
   DATE_ADDED =	 {Thu Jul 3 07:58:04 2025},
   month =	 3,
   preview = {avatars.png}
+}
+
+@Unpublished{Erkut-2025-Voice-DASDAGA,
+  author = 	 {Cumhur Erkut},
+  title = 	 {Voice Synthesis, Transformations, and Sound Effects: A portfolio},
+  note = 	 {Presented at DAS-DAGA, Annual Meeting on Acoustics, Session: Audio Signal Analysis, AI and other Tools in Musical Acoustics },
+  month = 	 mar,
+  year = 	 2025,
+  poster = {DASDAGA25-Poster-Erkut.pdf},
+  isbn = {978-3-939296-23-2},
+  website = {https://www.das-daga2025.eu},  
+}
+
+@InProceedings{Polak-2025-DAGA,
+  author = 	 {Maria Polak and Cumhur Erkut},
+  title = 	 {Low-Latency Pitch-Shifting with {STN} Decomposition},
+  booktitle = {Proc. DAS-DAGA},
+  year = 	 2025,
+  editor = 	 {Torsten Dau and Bastian Epp},
+  pages = 	 {476--479},
+  bibtex_show = {true},
+  month = 	 mar,
+  address = 	 {Copenhagen, Denmark},
+  isbn = {978-3-939296-23-2},
+  website = {https://www.das-daga2025.eu},
+  poster = {DASDAGA25-Poster-Polak.pdf},
+  code = {https://github.com/mariapolak/STN-based-Pitch-Shifting},
+  abstract = {A new approach for low-latency pitch-shifting of audio signals is presented. The proposed solution integrates fuzzy Signal-Transient-Noise (STN) decomposition into the processing pipeline. By separating input audio into harmonic, transient, and noise components, the system can apply specialized pitch-shifting techniques for each stream, addressing common pitch-shifting artifacts such as transient smearing and phasiness. The proposed method employs a phase vocoder for sines, preserves transients and processes noise with a Noise Morphing algorithm. Changes to the Fuzzy STN and Noise Morphing algorithms needed for online processing are proposed. Implemented as a VST audio plug-in, the system supports pitch adjustments across a broad range of semitones with user-configurable parameters. Evaluation, in the form of a blind listening test and an informal interview, reveals limitations in audio quality compared to state-of-the-art commercial solutions. However, the alignment with emerging music trends suggests potential for artistic applications. The study concludes with recommendations for improving audio quality, reducing computational overhead, and expanding evaluation methodologies.}
 }
 
 
