@@ -20,7 +20,8 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 
 - [Anders R Bargum: Industrial PhD Student at Heka VR](https://www.linkedin.com/in/anders-bargum-b887a81a7/)
 - [Signe T Henriksen: Collaborator in Machine Learning for Media Experiences and new AI Engineering EVU](https://www.linkedin.com/in/signe-toftgaard-henriksen/)
-- [Ganga Katwal: Lab intern, Multimedia Design, Digital Marketing, Motion Graphics](https://www.linkedin.com/in/ganga-katwal-1a0197206/ "Intern")
+- [Ganga Katwal: Lab intern, Multimedia Design, Digital Marketing, Motion Graphics](https://www.linkedin.com/in/ganga-katwal-1a0197206/ "Intern1")
+- [Martin S Bivolov: Lab intern, Reinforcement Learning, Motion Sensors, Stroke Rehabilitation](https://www.linkedin.com/in/martin-bivolov-10bb8b188/ "Intern2")
 
 # internal collaboration
 
