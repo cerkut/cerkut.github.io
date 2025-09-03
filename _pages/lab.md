@@ -22,6 +22,7 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 - [Signe T Henriksen: Collaborator in Machine Learning for Media Experiences and new AI Engineering EVU](https://www.linkedin.com/in/signe-toftgaard-henriksen/)
 - [Ganga Katwal: Lab intern, Multimedia Design, Digital Marketing, Motion Graphics](https://www.linkedin.com/in/ganga-katwal-1a0197206/ "Intern1")
 - [Martin S Bivolov: Lab intern, Reinforcement Learning, Motion Sensors, Stroke Rehabilitation](https://www.linkedin.com/in/martin-bivolov-10bb8b188/ "Intern2")
+- [Mubarik Jamal Muuse: TA in SPIS, overall Edge AI wizard](https://www.linkedin.com/in/mubarik-jamal-muuse-9b98b1342/)
 
 # internal collaboration
 
@@ -35,6 +36,10 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 * [Bellardita Lab](https://in.ku.dk/research/bellardita-lab/), KU Neuroscience, [Carmelo Bellardita](https://in.ku.dk/research/bellardita-lab/?pure=en/persons/602173)
 * [Pioneer Center for Artificial Intelligence ](https://www.aicentre.dk)
 * [Synthesis Center,](http://synthesis.ame.asu.edu) Arizona State University, [Xin Wei Sha](https://search.asu.edu/profile/2202759)
+
+# welcome to the lab
+
+Read cuer's [welcome](welcome.md)
 
 # student projects finalized at the lab
 
