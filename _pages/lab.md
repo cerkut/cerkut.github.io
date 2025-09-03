@@ -39,7 +39,7 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 
 # welcome to the lab
 
-Read cuer [welcome]({{ '/welcome' | relative_url }}).
+Read cuer [welcome]({{ '../welcome' | relative_url }}).
 
 # student projects finalized at the lab
 

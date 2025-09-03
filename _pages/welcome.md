@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /welcome/
+---
+
 # Starter's Guide for students at cuer
 
 *After [https://biaslab.github.io/research/starter-guide](https://biaslab.github.io/research/starter-guide), written by Bert de Vries*.
@@ -5,8 +10,6 @@
 This document is a starter’s guide for students who do an internship, semester project, or thesis at the cuer lab. For the duration of your project you will become part of our team of graduate students. I discuss here our research mission, our way of working, the tools we use and provide some links to key scientific papers that relate to our research. 
 
 This guide is always a work in progress and each project will have its own goals and dynamics. Still, generally speaking, I would appreciate if you have a look at the links and think about the issues that I raise here. Talk to me when you have questions or ideas to improve this document.
-
-## Research
 
 ### Mission 
 
@@ -16,10 +19,9 @@ We aim to develop such a support tool, and our methods are inspired by theories 
 
 At cuer, we build efficient tools using AIF, test them in-silica or with real users in physical / virtual worlds, and deploy them on the Spatial Web. Our methods are just as easily applicable to digital twins, XR AVATARS, or other cyber/physical systems.
 
+<!-- ![]({{ "https://deniseholt.us/wp-content/uploads/2025/06/Internet-Protocol-Progression-1-1536x862.png" | absolute_url }}){:style="width:100%; display:block; margin-left:auto; margin-right:auto;"} -->
 
-![]({{ "https://deniseholt.us/wp-content/uploads/2025/06/Internet-Protocol-Progression-1-1536x862.png" | absolute_url }}){:style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
-
-<p style="text-align:center; font-size:0.9em; color:gray;">Progression to Web 3.0, Image hosted at deniseholt.us</p>
+<!-- <p style="text-align:center; font-size:0.9em; color:gray;">Progression to Web 3.0, Image hosted at deniseholt.us</p> -->
 
 
 ### Methodology
