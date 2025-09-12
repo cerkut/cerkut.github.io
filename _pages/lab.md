@@ -6,6 +6,7 @@ description: Continual Unified Ecosystems Research Laboratory of AI, Edge, IoT, 
 nav: true
 nav_order: 4
 ---
+
 ![]({{ "https://deniseholt.us/wp-content/uploads/2025/06/Internet-Protocol-Progression-1-1536x862.png" | absolute_url }}){:style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
 
 <p style="text-align:center; font-size:0.9em; color:gray;">Progression to Web 3.0, Image hosted at deniseholt.us</p>
@@ -26,16 +27,16 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 
 # internal collaboration
 
-* [Multisensory Experience Lab](https://melcph.create.aau.dk "MEL"), [Stefania Serafin](https://vbn.aau.dk/en/persons/107881)
-* [Augmented Performance Lab](https://apl.create.aau.dk/ "APL"), [Dan Overholt](https://vbn.aau.dk/en/persons/dano)
+- [Multisensory Experience Lab](https://melcph.create.aau.dk "MEL"), [Stefania Serafin](https://vbn.aau.dk/en/persons/107881)
+- [Augmented Performance Lab](https://apl.create.aau.dk/ "APL"), [Dan Overholt](https://vbn.aau.dk/en/persons/dano)
 
 # external collaboration
 
-* [ADIN Lab](https://adinlab.github.io), SDU Adaptive Intelligence Laboratory, [Melih Kandemir](https://melihkandemir.github.io)
-* [ILAB,](https://chrismathys.com) AU Inference, learning, and action in the brain, [Chris Mathys](https://www.au.dk/en/chmathys@cas.au.dk)
-* [Bellardita Lab](https://in.ku.dk/research/bellardita-lab/), KU Neuroscience, [Carmelo Bellardita](https://in.ku.dk/research/bellardita-lab/?pure=en/persons/602173)
-* [Pioneer Center for Artificial Intelligence ](https://www.aicentre.dk)
-* [Synthesis Center,](http://synthesis.ame.asu.edu) Arizona State University, [Xin Wei Sha](https://search.asu.edu/profile/2202759)
+- [ADIN Lab](https://adinlab.github.io), SDU Adaptive Intelligence Laboratory, [Melih Kandemir](https://melihkandemir.github.io)
+- [ILAB,](https://chrismathys.com) AU Inference, learning, and action in the brain, [Chris Mathys](https://www.au.dk/en/chmathys@cas.au.dk)
+- [Bellardita Lab](https://in.ku.dk/research/bellardita-lab/), KU Neuroscience, [Carmelo Bellardita](https://in.ku.dk/research/bellardita-lab/?pure=en/persons/602173)
+- [Pioneer Center for Artificial Intelligence ](https://www.aicentre.dk)
+- [Synthesis Center,](http://synthesis.ame.asu.edu) Arizona State University, [Xin Wei Sha](https://search.asu.edu/profile/2202759)
 
 # welcome to the lab
 

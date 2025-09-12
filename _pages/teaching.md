@@ -8,15 +8,16 @@ nav_order: 5
 toc:
   sidebar: left
 ---
+
 ## postgraduate courses (third cycle, PhD)
 
-* (5 ECTS, English) Lecture on **Machine Learning and Audio Signal Processing** in Autumn Series in Acoustics (TU Eindhoven, NL), organized by Marteen Hornix, Silvin Willemsen, and others (2023). The school included a range of activities and lectures. See
-  * [https://assaeindhoven.org/assa2023/](https://assaeindhoven.org/assa2023)
-  * Courseware at [https://github.com/SMC-AAU-CPH/AI-Music-Workshop-23](https://github.com/SMC-AAU-CPH/AI-Music-Workshop-23)
+- (5 ECTS, English) Lecture on **Machine Learning and Audio Signal Processing** in Autumn Series in Acoustics (TU Eindhoven, NL), organized by Marteen Hornix, Silvin Willemsen, and others (2023). The school included a range of activities and lectures. See
+  - [https://assaeindhoven.org/assa2023/](https://assaeindhoven.org/assa2023)
+  - Courseware at [https://github.com/SMC-AAU-CPH/AI-Music-Workshop-23](https://github.com/SMC-AAU-CPH/AI-Music-Workshop-23)
 
-- (2.5 ECTS, English) Lecture on **RT-MLops** in MLops Summer school (DTU - Technical University of Denmark), organized by Nicki Skafte Detlefsen (2022). The school included a range of activities: lectures, discussion sessions, poster session, a hackathon, and social events.
+* (2.5 ECTS, English) Lecture on **RT-MLops** in MLops Summer school (DTU - Technical University of Denmark), organized by Nicki Skafte Detlefsen (2022). The school included a range of activities: lectures, discussion sessions, poster session, a hackathon, and social events.
   - Courseware at [https://skaftenicki.github.io/dtu_mlops](https://skaftenicki.github.io/dtu_mlops/)
-- (5 ECTS, English) “**Virtual, Augmented, and Mixed Realities**” for PhD Students in Denmark: 5 double lectures (2x45), study hours (group work on selected topics), and a final workshop. The total number of students: 15 (2019). Co-orgxanization with Professor Stefania Serafin, and Associate Professor Rolf Nordahl, Assistant Professor Michele Geronazzo, and Associate Professor Niels Christian Nilsson.
+* (5 ECTS, English) “**Virtual, Augmented, and Mixed Realities**” for PhD Students in Denmark: 5 double lectures (2x45), study hours (group work on selected topics), and a final workshop. The total number of students: 15 (2019). Co-orgxanization with Professor Stefania Serafin, and Associate Professor Rolf Nordahl, Assistant Professor Michele Geronazzo, and Associate Professor Niels Christian Nilsson.
 
 ## graudate courses (second cycle, MSc)
 
@@ -31,14 +32,14 @@ I am excited for the 2025/26 edition of Machine Learning for Media Experiences, 
 
 We will run the course mostly flipped, with two important workshops:
 
-* A full day introduction and workshop on 8.9 @ @ Manufakturet.
-* A full day hands-on workshop and project initiation on 17.11 @ 2.0.004
+- A full day introduction and workshop on 8.9 @ @ Manufakturet.
+- A full day hands-on workshop and project initiation on 17.11 @ 2.0.004
 
 The self-study material between and after the workshops is enlisted within each workshop.
 
 #### Signal Processing for Interactive Sytems, Spring Term, 2024-
 
-* (5 ECTS, English): 7 double lectures (2x45), and study hours (group work on selected topics), a full-day workshop. Courseware at [https://smc-aau-cph.github.io/SPIS](https://smc-aau-cph.github.io/SPIS/)/
+- (5 ECTS, English): 7 double lectures (2x45), and study hours (group work on selected topics), a full-day workshop. Courseware at [https://smc-aau-cph.github.io/SPIS](https://smc-aau-cph.github.io/SPIS/)/
 
 ## basic degree courses (first cycle, BSc)
 
@@ -51,7 +52,7 @@ Traditional and contemporary AI on Game Engines Unity and Unreal (plus onnx and 
 
 ## professional education courses (EVU)
 
-#### Signal Processing for AI Engineering, Fall term, 2026
+#### Signal Processing for AI Engineering, Fall term, 2027
 
 Module 50040, approved by Uddannelses- og Forskningsministeriet (UFM, Ministry of Education and Research, Denmark), in preperation.
 

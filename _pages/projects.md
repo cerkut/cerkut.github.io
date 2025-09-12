@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+
 #### MAT-DYN-NET: Mathematical models for interacting dynamics on networks
 
 **Erkut, C.** (MC Member, Denmark), **04/10/2019 → 29/02/2024:** [https://mat-dyn-net.eu/](https://mat-dyn-net.eu)

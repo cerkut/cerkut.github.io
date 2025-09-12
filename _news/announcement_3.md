@@ -4,6 +4,7 @@ date: 2025-09-10 13:59:00-0400
 inline: true
 related_posts: false
 ---
+
 <!-- Change inline: false for a linked, separate news item. -->
 
 A belated gratitude to [CLAAUDIA](https://www.researcher.aau.dk/contact/claaudia) for empowering my graduate students with HPC training last year.
