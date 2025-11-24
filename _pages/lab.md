@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /lab/
-title: cuer lab
-description: Continual Unified Ecosystems Research Laboratory of AI, Edge, IoT, XR, and Computing Continuum
+title: cuer collective
+description: Continual Unified Ecosystems Research Collective of AI, Edge, IoT, XR, and Computing Continuum
 nav: true
 nav_order: 4
 ---
@@ -11,7 +11,7 @@ nav_order: 4
 
 <p style="text-align:center; font-size:0.9em; color:gray;">Progression to Web 3.0, Image hosted at deniseholt.us</p>
 
-The lab focuses on Edge Intelligence and Spatial Web Standard to develop interactive tools that generate and process multimodal data. We train, evaluate, and engineer Generative AI models under the Active Inference framework. The continual training under uncertainty is performed on-prem, or using national HPC, including Quantum Hubs. The lab’s technical equipment includes Edge-enabled sensors and GPU/CPU-based AI edge computing platforms. With this infrastructure, we explore real-time human performances with XR Avatars, AI-enabled interfaces, reactive surfaces, and 3D spatial interaction.
+The collective focuses on Edge Intelligence and Spatial Web Standard to develop interactive tools that generate and process multimodal data. We train, evaluate, and engineer Generative AI models under the Active Inference framework. The continual training under uncertainty is performed on-prem, or using national HPC, including Quantum Hubs. The collective’s technical equipment includes Edge-enabled sensors and GPU/CPU-based AI edge computing platforms. With this infrastructure, we explore real-time human performances with XR Avatars, AI-enabled interfaces, reactive surfaces, and 3D spatial interaction.
 
 These new technologies correspond to the full stack of Web 3.0 and can be applied in various fields, such as health (therapy and rehabilitation), embodied interaction and soma design, sonic interaction design, and cutting-edge media technologies.
 
@@ -20,15 +20,17 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 # members
 
 - [Anders R Bargum: Industrial PhD Student at Heka VR](https://www.linkedin.com/in/anders-bargum-b887a81a7/)
-- [Signe T Henriksen: Collaborator in Machine Learning for Media Experiences and new AI Engineering EVU](https://www.linkedin.com/in/signe-toftgaard-henriksen/)
+- [Tony Thai Do: MSc, Certified Azure Specialist, ollama and RAG tamer](https://www.linkedin.com/in/tony-thai-do)
+- [Mubarik Jamal Muuse: TA in SPIS, overall Edge AI wizard](https://www.linkedin.com/in/mubarik-jamal-muuse-9b98b1342/)
+- [Ömer Emin Çınar, Assistant Professor, Visiting Erasmus+ KA131 academic mobility fellow](https://www.linkedin.com/in/omeremincinar/)
 - [Ganga Katwal: Lab intern, Multimedia Design, Digital Marketing, Motion Graphics](https://www.linkedin.com/in/ganga-katwal-1a0197206/ "Intern1")
 - [Martin S Bivolov: Lab intern, Reinforcement Learning, Motion Sensors, Stroke Rehabilitation](https://www.linkedin.com/in/martin-bivolov-10bb8b188/ "Intern2")
-- [Mubarik Jamal Muuse: TA in SPIS, overall Edge AI wizard](https://www.linkedin.com/in/mubarik-jamal-muuse-9b98b1342/)
 
-# internal collaboration
 
-- [Multisensory Experience Lab](https://melcph.create.aau.dk "MEL"), [Stefania Serafin](https://vbn.aau.dk/en/persons/107881)
-- [Augmented Performance Lab](https://apl.create.aau.dk/ "APL"), [Dan Overholt](https://vbn.aau.dk/en/persons/dano)
+# internal colcollectiveoration
+
+- [Multisensory Experience collective](https://melcph.create.aau.dk "MEL"), [Stefania Serafin](https://vbn.aau.dk/en/persons/107881)
+- [Augmented Performance collective](https://apl.create.aau.dk/ "APL"), [Dan Overholt](https://vbn.aau.dk/en/persons/dano)
 
 # external collaboration
 
@@ -37,6 +39,7 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 - [Bellardita Lab](https://in.ku.dk/research/bellardita-lab/), KU Neuroscience, [Carmelo Bellardita](https://in.ku.dk/research/bellardita-lab/?pure=en/persons/602173)
 - [Pioneer Center for Artificial Intelligence ](https://www.aicentre.dk)
 - [Synthesis Center,](http://synthesis.ame.asu.edu) Arizona State University, [Xin Wei Sha](https://search.asu.edu/profile/2202759)
+- 
 
 # welcome to the lab
 
