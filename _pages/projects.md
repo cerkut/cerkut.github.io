@@ -9,7 +9,16 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-#### MAT-DYN-NET: Mathematical models for interacting dynamics on networks
+
+#### mSPACE 
+
+CA24122 - multiscale Stochastics, Patterns, and Analysis of Combinatorial Environments 
+
+**Erkut, C.** (WG1 Member), **19/09/2025 → 28/09/2029:** [https://www.cost.eu/actions/CA24122/](https://www.cost.eu/actions/CA24122)
+
+#### MAT-DYN-NET
+
+CA18232 Mathematical models for interacting dynamics on networks
 
 **Erkut, C.** (MC Member, Denmark), **04/10/2019 → 29/02/2024:** [https://mat-dyn-net.eu/](https://mat-dyn-net.eu)
 
