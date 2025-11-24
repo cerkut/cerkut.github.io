@@ -6,7 +6,6 @@ description: Continual Unified Ecosystems Research Collective of AI, Edge, IoT, 
 nav: true
 nav_order: 4
 ---
-
 ![]({{ "https://deniseholt.us/wp-content/uploads/2025/06/Internet-Protocol-Progression-1-1536x862.png" | absolute_url }}){:style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
 
 <p style="text-align:center; font-size:0.9em; color:gray;">Progression to Web 3.0, Image hosted at deniseholt.us</p>
@@ -26,12 +25,6 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 - [Ganga Katwal: Lab intern, Multimedia Design, Digital Marketing, Motion Graphics](https://www.linkedin.com/in/ganga-katwal-1a0197206/ "Intern1")
 - [Martin S Bivolov: Lab intern, Reinforcement Learning, Motion Sensors, Stroke Rehabilitation](https://www.linkedin.com/in/martin-bivolov-10bb8b188/ "Intern2")
 
-
-# internal colcollectiveoration
-
-- [Multisensory Experience collective](https://melcph.create.aau.dk "MEL"), [Stefania Serafin](https://vbn.aau.dk/en/persons/107881)
-- [Augmented Performance collective](https://apl.create.aau.dk/ "APL"), [Dan Overholt](https://vbn.aau.dk/en/persons/dano)
-
 # external collaboration
 
 - [ADIN Lab](https://adinlab.github.io), SDU Adaptive Intelligence Laboratory, [Melih Kandemir](https://melihkandemir.github.io)
@@ -39,9 +32,9 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 - [Bellardita Lab](https://in.ku.dk/research/bellardita-lab/), KU Neuroscience, [Carmelo Bellardita](https://in.ku.dk/research/bellardita-lab/?pure=en/persons/602173)
 - [Pioneer Center for Artificial Intelligence ](https://www.aicentre.dk)
 - [Synthesis Center,](http://synthesis.ame.asu.edu) Arizona State University, [Xin Wei Sha](https://search.asu.edu/profile/2202759)
-- 
+- [Active Inference Institute ](https://www.activeinference.institute "An open-science institute")
 
-# welcome to the lab
+# welcome to the cuer collective
 
 Read cuer [welcome]({{ '../welcome' | relative_url }}).
 
