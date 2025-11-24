@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cerkut
+  - abargum
 
 repo_description_lines_max: 2
 
 github_repos:
   - alshedivat/al-folio
-  - jekyll/jekyll
+  - SMC-AAU-CPH/SPIS
   - twbs/bootstrap
   - jquery/jquery
   - FortAwesome/Font-Awesome
