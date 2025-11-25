@@ -35,6 +35,6 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 
 Read cuer [welcome]({{ '../welcome' | relative_url }}).
 
-# student projects finalized at the lab
+# student projects finalized at the collective
 
 <iframe src="https://1drv.ms/w/c/75a911fd17e35e91/IQR_OVxNFfLKRZUcG7IWZKZfAQ5G45M6HdxM77mzngKPnfw" style="width: 100%; height: 600px; border: none;" frameborder="0"></iframe>
