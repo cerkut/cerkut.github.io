@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-03'
+  last_updated: '2025-12-10'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
     citations: 163
@@ -118,7 +118,7 @@ papers:
     title: System for sports activity
     year: '2010'
   NPYFs5EAAAAJ:7XUxBq3GufIC:
-    citations: 17
+    citations: 18
     title: 'Virtual reality musical instruments: Guidelines for multisensory interaction design'
     year: '2016'
   NPYFs5EAAAAJ:8k81kl-MbHgC:
@@ -266,7 +266,7 @@ papers:
     title: Calibration of physical models using artificial neural networks with application to plucked string instruments
     year: '1997'
   NPYFs5EAAAAJ:MnogvFdIBdwC:
-    citations: 213
+    citations: 215
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
   NPYFs5EAAAAJ:MtS25d97-7AC:
@@ -338,7 +338,7 @@ papers:
     title: 'Digital Waveguides vs. Wave Digital Filters in physical modeling: Theoretical and computational aspects'
     year: '2004'
   NPYFs5EAAAAJ:TNEldfgDb5MC:
-    citations: 72
+    citations: 74
     title: Apparatus for determining a spatial output multi-channel audio signal
     year: '2014'
   NPYFs5EAAAAJ:TQgYirikUcIC:
@@ -498,7 +498,7 @@ papers:
     title: Methods for modeling realistic playing in acoustic guitar synthesis
     year: '2001'
   NPYFs5EAAAAJ:d6JCS5z0ckYC:
-    citations: 224
+    citations: 225
     title: 'Virtual reality musical instruments: State of the art, design principles, and future directions'
     year: '2016'
   NPYFs5EAAAAJ:dhFuZR0502QC:
@@ -618,7 +618,7 @@ papers:
     title: Exploring Felt Qualities of Embodied Interaction with Movement and Sound
     year: '2014'
   NPYFs5EAAAAJ:mVmsd5A6BfQC:
-    citations: 33
+    citations: 34
     title: Efficient spatial sound synthesis for virtual worlds
     year: '2009'
   NPYFs5EAAAAJ:mo9XK3BEATIC:
@@ -702,7 +702,7 @@ papers:
     title: 'Digital waveguides versus finite difference structures: Equivalence and mixed modeling'
     year: '2004'
   NPYFs5EAAAAJ:u5HHmVD_uO8C:
-    citations: 288
+    citations: 289
     title: Discrete-time modelling of musical instruments
     year: '2006'
   NPYFs5EAAAAJ:ufrVoPGSRksC:
