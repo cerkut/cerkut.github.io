@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2025-12-10'
+  last_updated: '2025-12-15'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 163
+    citations: 164
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -118,7 +118,7 @@ papers:
     title: System for sports activity
     year: '2010'
   NPYFs5EAAAAJ:7XUxBq3GufIC:
-    citations: 18
+    citations: 17
     title: 'Virtual reality musical instruments: Guidelines for multisensory interaction design'
     year: '2016'
   NPYFs5EAAAAJ:8k81kl-MbHgC:
@@ -150,7 +150,7 @@ papers:
     title: 'Hydranet: A real-time waveform separation network'
     year: '2020'
   NPYFs5EAAAAJ:BKYZGPsuSFYC:
-    citations: 12
+    citations: 13
     title: 'Reimagining speech: a scoping review of deep learning-based methods for non-parallel voice conversion'
     year: '2024'
   NPYFs5EAAAAJ:BqipwSGYUEgC:
@@ -293,6 +293,10 @@ papers:
     citations: 11
     title: Auditory feedback in an interactive rhythmic tutoring system
     year: '2011'
+  NPYFs5EAAAAJ:OkrdTXRNpVkC:
+    citations: 0
+    title: 'Unified Timbre Transfer: A Compact Model for Real-Time Multi-Instrument Sound Morphing'
+    year: Unknown Year
   NPYFs5EAAAAJ:PQY3Tb_h0-cC:
     citations: 0
     title: Voice transformations using extended DSP techniques-Improving the Phase Vocoder
@@ -330,7 +334,7 @@ papers:
     title: Inferring the hand configuration from hand clapping sounds
     year: '2008'
   NPYFs5EAAAAJ:Sf6vrWCRp3YC:
-    citations: 31
+    citations: 32
     title: Embracing First-Person Perspectives in Soma-Based Design. Informatics 5, 1 (Feb. 2018), 8
     year: '2018'
   NPYFs5EAAAAJ:TFP_iSt0sucC:
@@ -674,7 +678,7 @@ papers:
     title: "Bean: a digital musical instrument for use in music therapy,\u201D"
     year: '2015'
   NPYFs5EAAAAJ:qjMakFHDy7sC:
-    citations: 100
+    citations: 101
     title: Synthesis of hand clapping sounds
     year: '2007'
   NPYFs5EAAAAJ:qxL8FJ1GzNcC:
