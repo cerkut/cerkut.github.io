@@ -4,16 +4,6 @@ permalink: /blog/
 title: blog
 nav: false
 nav_order: 1
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
 ---
 
 <div class="post">
@@ -102,12 +92,7 @@ pagination:
 {% endif %}
 
   <ul class="post-list">
-
-    {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
-    {% else %}
-      {% assign postlist = site.posts %}
-    {% endif %}
+    {% assign postlist = site.posts %}
 
     {% for post in postlist %}
 
@@ -188,9 +173,5 @@ pagination:
     {% endfor %}
 
   </ul>
-
-{% if page.pagination.enabled %}
-{% include pagination.liquid %}
-{% endif %}
 
 </div>
