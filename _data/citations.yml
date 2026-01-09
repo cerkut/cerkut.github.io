@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2025-12-24'
+  last_updated: '2026-01-09'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 164
+    citations: 165
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
-    citations: 10
+    citations: 11
     title: 'Rhythmic interaction in VR: interplay between sound design and editing'
     year: '2017'
   NPYFs5EAAAAJ:-ZoC36zw86wC:
@@ -126,7 +126,7 @@ papers:
     title: Audiovisual content generation controlled by physiological signals for clinical and artistic applications
     year: '2007'
   NPYFs5EAAAAJ:8rLWgkbgOXQC:
-    citations: 16
+    citations: 17
     title: 'Heigh ho: Rhythmicity in sonic interaction'
     year: '2013'
   NPYFs5EAAAAJ:9ZlFYXVOiuMC:
@@ -402,7 +402,7 @@ papers:
     title: Sonic Interactions in Virtual Environments
     year: '2024'
   NPYFs5EAAAAJ:WTQy_8Ay2UsC:
-    citations: 10
+    citations: 9
     title: Virtual Reality and the senses
     year: '2017'
   NPYFs5EAAAAJ:WTSGYGHz1bkC:
@@ -566,7 +566,7 @@ papers:
     title: 'Simulation of rhythmic learning: a case study'
     year: '2010'
   NPYFs5EAAAAJ:hqOjcs7Dif8C:
-    citations: 28
+    citations: 30
     title: Acoustical analysis of tanbur, a Turkish long-necked lute
     year: '1999'
   NPYFs5EAAAAJ:ibZ2AwG9z6wC:
@@ -709,6 +709,10 @@ papers:
     citations: 289
     title: Discrete-time modelling of musical instruments
     year: '2006'
+  NPYFs5EAAAAJ:uQdrZ3qaPmcC:
+    citations: 0
+    title: 'Neural Audio Synthesis for Sound Effects: A Scope Review'
+    year: '2025'
   NPYFs5EAAAAJ:ufrVoPGSRksC:
     citations: 21
     title: Model-based sound synthesis of tanbur, a Turkish long-necked lute
