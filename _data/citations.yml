@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-02-13'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 165
+    citations: 170
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -50,7 +50,7 @@ papers:
     title: Explorations of Singing Voice Synthesis using DDSP
     year: '2021'
   NPYFs5EAAAAJ:2osOgNQ5qMEC:
-    citations: 85
+    citations: 86
     title: Acoustical analysis and model-based sound synthesis of the kantele
     year: '2002'
   NPYFs5EAAAAJ:35N4QoGY0k4C:
@@ -73,10 +73,6 @@ papers:
     citations: 5
     title: Extraction, mapping, and evaluation of expressive acoustic features for adaptive digital audio effects
     year: '2017'
-  NPYFs5EAAAAJ:43LB_KcVqeAC:
-    citations: 29
-    title: Embracing First-Person Perspectives in Soma-Based Design. Informatics, 5 (1)
-    year: '2018'
   NPYFs5EAAAAJ:4DMP91E08xMC:
     citations: 3
     title: 'Towards physics-based control and sound synthesis of multi-agent systems: Application to synthetic hand clapping'
@@ -158,7 +154,7 @@ papers:
     title: "Cembalon \xE4\xE4nen analyysi ja synteesi"
     year: '2003'
   NPYFs5EAAAAJ:C5mqfHIFIucC:
-    citations: 8
+    citations: 7
     title: Incorporating Virtual Reality in an Embodied Interaction Course
     year: '2018'
   NPYFs5EAAAAJ:CC3C2HR4nz8C:
@@ -194,13 +190,9 @@ papers:
     title: "Sonic Interaction Design with Physiological Interfaces in the eNTERFACE\u201907 Workshop"
     year: Unknown Year
   NPYFs5EAAAAJ:ExNiBuTMO9IC:
-    citations: 7
+    citations: 8
     title: 'Reimagining speech: A scoping review of deep learning-powered voice conversion'
     year: '2023'
-  NPYFs5EAAAAJ:FtNbRaqWXr4C:
-    citations: 5
-    title: Embracing First-Person Perspectives in Soma-Based Design. Informatics 5, 1 (2018)
-    year: '2018'
   NPYFs5EAAAAJ:G7txJ4jiatkC:
     citations: 1
     title: 'High-Density Sonification: Overview Information in Auditory Data Explorations'
@@ -266,7 +258,7 @@ papers:
     title: Calibration of physical models using artificial neural networks with application to plucked string instruments
     year: '1997'
   NPYFs5EAAAAJ:MnogvFdIBdwC:
-    citations: 215
+    citations: 216
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
   NPYFs5EAAAAJ:MtS25d97-7AC:
@@ -296,7 +288,7 @@ papers:
   NPYFs5EAAAAJ:OkrdTXRNpVkC:
     citations: 0
     title: 'Unified Timbre Transfer: A Compact Model for Real-Time Multi-Instrument Sound Morphing'
-    year: Unknown Year
+    year: '2025'
   NPYFs5EAAAAJ:PQY3Tb_h0-cC:
     citations: 0
     title: Voice transformations using extended DSP techniques-Improving the Phase Vocoder
@@ -333,10 +325,6 @@ papers:
     citations: 27
     title: Inferring the hand configuration from hand clapping sounds
     year: '2008'
-  NPYFs5EAAAAJ:Sf6vrWCRp3YC:
-    citations: 32
-    title: Embracing First-Person Perspectives in Soma-Based Design. Informatics 5, 1 (Feb. 2018), 8
-    year: '2018'
   NPYFs5EAAAAJ:TFP_iSt0sucC:
     citations: 1
     title: 'Digital Waveguides vs. Wave Digital Filters in physical modeling: Theoretical and computational aspects'
@@ -374,7 +362,7 @@ papers:
     title: Microphone-based electronic wind instrument by feature extraction from breath signals
     year: '2018'
   NPYFs5EAAAAJ:UeHWp8X0CEIC:
-    citations: 77
+    citations: 78
     title: Sound synthesis of the harpsichord using a computationally efficient physical model
     year: '2004'
   NPYFs5EAAAAJ:UebtZRa9Y70C:
@@ -398,7 +386,7 @@ papers:
     title: 'Sound and music computing: Research trends and some key issues'
     year: '2007'
   NPYFs5EAAAAJ:WGv8Og3F3KgC:
-    citations: 11
+    citations: 12
     title: Sonic Interactions in Virtual Environments
     year: '2024'
   NPYFs5EAAAAJ:WTQy_8Ay2UsC:
@@ -418,7 +406,7 @@ papers:
     title: Sonic interaction design with physiological interfaces in a workshop setting
     year: '2008'
   NPYFs5EAAAAJ:Wqn_fehR_TUC:
-    citations: 13
+    citations: 14
     title: Real-time timbre transfer and sound synthesis using ddsp
     year: '2021'
   NPYFs5EAAAAJ:XR3BWSlh_xcC:
@@ -442,7 +430,7 @@ papers:
     title: Audio-tactile interaction at the nodes of a block-based physical sound synthesis model
     year: '2008'
   NPYFs5EAAAAJ:YsMSGLbcyi4C:
-    citations: 29
+    citations: 30
     title: Compilation of unified physical models for efficient sound synthesis
     year: '2003'
   NPYFs5EAAAAJ:ZJ-noXUx9mkC:
@@ -502,9 +490,13 @@ papers:
     title: Methods for modeling realistic playing in acoustic guitar synthesis
     year: '2001'
   NPYFs5EAAAAJ:d6JCS5z0ckYC:
-    citations: 226
+    citations: 230
     title: 'Virtual reality musical instruments: State of the art, design principles, and future directions'
     year: '2016'
+  NPYFs5EAAAAJ:dHRcJqc9SEQC:
+    citations: 0
+    title: 'Neural Audio Synthesis for Sound Effects: A Scope Review'
+    year: Unknown Year
   NPYFs5EAAAAJ:dhFuZR0502QC:
     citations: 12
     title: Design and evaluation of human-computer rhythmic interaction in a tutoring system
@@ -589,10 +581,6 @@ papers:
     citations: 0
     title: An Experimental Study in Generative Music for Exercising to Ease Perceived Exertion by use of Heart Beat Rate as a Control Parameter
     year: '2017'
-  NPYFs5EAAAAJ:k6nH7jlkaTkC:
-    citations: 5
-    title: Embracing First-Person Perspectives in Soma-Based Design. Informatics 5, 1 (March 2018), 8
-    year: '2018'
   NPYFs5EAAAAJ:kNdYIx-mwKoC:
     citations: 10
     title: 'Methods for modeling realistic playing in plucked-string synthesis: analysis, control and synthesis'
@@ -665,6 +653,10 @@ papers:
     citations: 4
     title: Multi-kinect skeleton fusion for enactive games
     year: '2016'
+  NPYFs5EAAAAJ:q82PccF7nXcC:
+    citations: 5
+    title: others. 2018. Embracing First-Person Perspectives in Soma-Based Design
+    year: Unknown Year
   NPYFs5EAAAAJ:qUcmZB5y_30C:
     citations: 1
     title: Measuring and evaluating a louder design of the musical instrument kantele
@@ -678,7 +670,7 @@ papers:
     title: "Bean: a digital musical instrument for use in music therapy,\u201D"
     year: '2015'
   NPYFs5EAAAAJ:qjMakFHDy7sC:
-    citations: 101
+    citations: 102
     title: Synthesis of hand clapping sounds
     year: '2007'
   NPYFs5EAAAAJ:qxL8FJ1GzNcC:
@@ -729,10 +721,6 @@ papers:
     citations: 1
     title: Mobile Probes for Special Needs
     year: '2013'
-  NPYFs5EAAAAJ:wH03y5nBhxsC:
-    citations: 7
-    title: Embracing First-Person Perspectives in Soma-Based Design. Informatics 5, 1 (2018), 8
-    year: '2018'
   NPYFs5EAAAAJ:wgKq3sYidysC:
     citations: 0
     title: Perceptual Coherence as an Analytic for Procedural Music and Audio Mappings in Virtual Space............................... 27 Robert Hamilton
