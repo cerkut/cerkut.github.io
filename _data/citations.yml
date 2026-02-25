@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-25'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 170
+    citations: 171
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -265,10 +265,6 @@ papers:
     citations: 215
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
-  NPYFs5EAAAAJ:MtS25d97-7AC:
-    citations: 0
-    title: and Exemplars
-    year: '2022'
   NPYFs5EAAAAJ:NMxIlDl6LWMC:
     citations: 1
     title: Physically-Based Synthesis Modeling of Xylophones for Auditory-Tactile Virtual Environments
@@ -622,7 +618,7 @@ papers:
     title: Efficient spatial sound synthesis for virtual worlds
     year: '2009'
   NPYFs5EAAAAJ:mo9XK3BEATIC:
-    citations: 3
+    citations: 4
     title: Physics-based sound synthesis
     year: '2005'
   NPYFs5EAAAAJ:n1qY4L4uFdgC:
