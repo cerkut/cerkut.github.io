@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-06'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
     citations: 171
@@ -78,7 +78,7 @@ papers:
     title: 'Towards physics-based control and sound synthesis of multi-agent systems: Application to synthetic hand clapping'
     year: '2006'
   NPYFs5EAAAAJ:4TOpqqG69KYC:
-    citations: 6
+    citations: 7
     title: An Interactive Bio-Music Improvisation System
     year: '2008'
   NPYFs5EAAAAJ:4Wrxgq2JVp0C:
@@ -146,7 +146,7 @@ papers:
     title: 'Hydranet: A real-time waveform separation network'
     year: '2020'
   NPYFs5EAAAAJ:BKYZGPsuSFYC:
-    citations: 14
+    citations: 15
     title: 'Reimagining speech: a scoping review of deep learning-based methods for non-parallel voice conversion'
     year: '2024'
   NPYFs5EAAAAJ:BqipwSGYUEgC:
@@ -262,7 +262,7 @@ papers:
     title: Calibration of physical models using artificial neural networks with application to plucked string instruments
     year: '1997'
   NPYFs5EAAAAJ:MnogvFdIBdwC:
-    citations: 215
+    citations: 216
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
   NPYFs5EAAAAJ:NMxIlDl6LWMC:
@@ -546,7 +546,7 @@ papers:
     title: Immersive audio programming in a virtual reality sandbox
     year: '2019'
   NPYFs5EAAAAJ:gnsKu8c89wgC:
-    citations: 39
+    citations: 40
     title: How can soundscapes affect the preferred walking pace?
     year: '2016'
   NPYFs5EAAAAJ:h-xndbdg2koC:
