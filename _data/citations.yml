@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-30'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 174
+    citations: 176
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -14,7 +14,7 @@ papers:
     title: 'Generative Choreographies: The Performance Dramaturgy of the Machine.'
     year: '2020'
   NPYFs5EAAAAJ:-qpA3cGbmHsC:
-    citations: 2
+    citations: 3
     title: Structuring design and evaluation of an interactive installation through swarms of light rays with human-artifact model
     year: '2016'
   NPYFs5EAAAAJ:-w1eE4La9_EC:
@@ -78,7 +78,7 @@ papers:
     title: 'Towards physics-based control and sound synthesis of multi-agent systems: Application to synthetic hand clapping'
     year: '2006'
   NPYFs5EAAAAJ:4TOpqqG69KYC:
-    citations: 7
+    citations: 8
     title: An Interactive Bio-Music Improvisation System
     year: '2008'
   NPYFs5EAAAAJ:4Wrxgq2JVp0C:
@@ -146,7 +146,7 @@ papers:
     title: 'Hydranet: A real-time waveform separation network'
     year: '2020'
   NPYFs5EAAAAJ:BKYZGPsuSFYC:
-    citations: 15
+    citations: 16
     title: 'Reimagining speech: a scoping review of deep learning-based methods for non-parallel voice conversion'
     year: '2024'
   NPYFs5EAAAAJ:BqipwSGYUEgC:
@@ -194,7 +194,7 @@ papers:
     title: "Sonic Interaction Design with Physiological Interfaces in the eNTERFACE\u201907 Workshop"
     year: Unknown Year
   NPYFs5EAAAAJ:ExNiBuTMO9IC:
-    citations: 9
+    citations: 10
     title: 'Reimagining speech: A scoping review of deep learning-powered voice conversion'
     year: '2023'
   NPYFs5EAAAAJ:G7txJ4jiatkC:
@@ -262,7 +262,7 @@ papers:
     title: Calibration of physical models using artificial neural networks with application to plucked string instruments
     year: '1997'
   NPYFs5EAAAAJ:MnogvFdIBdwC:
-    citations: 220
+    citations: 222
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
   NPYFs5EAAAAJ:NMxIlDl6LWMC:
@@ -490,7 +490,7 @@ papers:
     title: Methods for modeling realistic playing in acoustic guitar synthesis
     year: '2001'
   NPYFs5EAAAAJ:d6JCS5z0ckYC:
-    citations: 226
+    citations: 227
     title: 'Virtual reality musical instruments: State of the art, design principles, and future directions'
     year: '2016'
   NPYFs5EAAAAJ:dHRcJqc9SEQC:
