@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-15'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 186
+    citations: 185
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -10,7 +10,7 @@ papers:
     title: 'Rhythmic interaction in VR: interplay between sound design and editing'
     year: '2017'
   NPYFs5EAAAAJ:-ZoC36zw86wC:
-    citations: 9
+    citations: 11
     title: 'Generative Choreographies: The Performance Dramaturgy of the Machine.'
     year: '2020'
   NPYFs5EAAAAJ:-qpA3cGbmHsC:
@@ -166,7 +166,7 @@ papers:
     title: The effects of ecological auditory feedback on rhythmic walking interaction
     year: '2015'
   NPYFs5EAAAAJ:Cy13deThEpcC:
-    citations: 3
+    citations: 4
     title: 'Multimodal Looper: A Live-Looping System for Gestural and Audio-visual Improvisation'
     year: '2024'
   NPYFs5EAAAAJ:DwFgw5hZUzMC:
@@ -206,7 +206,7 @@ papers:
     title: Acoustics of tanbur, a Turkish long-necked lute
     year: '1999'
   NPYFs5EAAAAJ:IjCSPb-OGe4C:
-    citations: 67
+    citations: 68
     title: Blocked-based physical modeling for digital sound synthesis
     year: '2007'
   NPYFs5EAAAAJ:J6OZcwVsj5AC:
@@ -262,7 +262,7 @@ papers:
     title: Calibration of physical models using artificial neural networks with application to plucked string instruments
     year: '1997'
   NPYFs5EAAAAJ:MnogvFdIBdwC:
-    citations: 232
+    citations: 233
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
   NPYFs5EAAAAJ:NMxIlDl6LWMC:
@@ -366,7 +366,7 @@ papers:
     title: Microphone-based electronic wind instrument by feature extraction from breath signals
     year: '2018'
   NPYFs5EAAAAJ:UeHWp8X0CEIC:
-    citations: 77
+    citations: 78
     title: Sound synthesis of the harpsichord using a computationally efficient physical model
     year: '2004'
   NPYFs5EAAAAJ:UebtZRa9Y70C:
@@ -490,7 +490,7 @@ papers:
     title: Methods for modeling realistic playing in acoustic guitar synthesis
     year: '2001'
   NPYFs5EAAAAJ:d6JCS5z0ckYC:
-    citations: 236
+    citations: 237
     title: 'Virtual reality musical instruments: State of the art, design principles, and future directions'
     year: '2016'
   NPYFs5EAAAAJ:dHRcJqc9SEQC:
@@ -542,7 +542,7 @@ papers:
     title: Semiacoustic Sound Exploration with the Sound of Touch
     year: '2013'
   NPYFs5EAAAAJ:gL9scSG3K_gC:
-    citations: 6
+    citations: 7
     title: Immersive audio programming in a virtual reality sandbox
     year: '2019'
   NPYFs5EAAAAJ:gnsKu8c89wgC:
@@ -558,7 +558,7 @@ papers:
     title: A structured design and evaluation model with application to rhythmic interaction displays
     year: '2011'
   NPYFs5EAAAAJ:hMod-77fHWUC:
-    citations: 2
+    citations: 3
     title: 'Simulation of rhythmic learning: a case study'
     year: '2010'
   NPYFs5EAAAAJ:hqOjcs7Dif8C:
@@ -698,11 +698,11 @@ papers:
     title: 'Digital waveguides versus finite difference structures: Equivalence and mixed modeling'
     year: '2004'
   NPYFs5EAAAAJ:u5HHmVD_uO8C:
-    citations: 291
+    citations: 292
     title: Discrete-time modelling of musical instruments
     year: '2006'
   NPYFs5EAAAAJ:uQdrZ3qaPmcC:
-    citations: 1
+    citations: 2
     title: 'Neural Audio Synthesis for Sound Effects: A Scope Review'
     year: '2025'
   NPYFs5EAAAAJ:ufrVoPGSRksC:
