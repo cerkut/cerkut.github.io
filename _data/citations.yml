@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-22'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 185
+    citations: 186
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -62,7 +62,7 @@ papers:
     title: Model order selection techniques for the loop filter design of virtual string instruments
     year: '2001'
   NPYFs5EAAAAJ:3pYxbvHKFu8C:
-    citations: 2
+    citations: 3
     title: 'A study of movement-sound within extended reality: Skeleton conductor'
     year: '2019'
   NPYFs5EAAAAJ:3s1wT3WcHBgC:
@@ -114,7 +114,7 @@ papers:
     title: System for sports activity
     year: '2010'
   NPYFs5EAAAAJ:7XUxBq3GufIC:
-    citations: 19
+    citations: 20
     title: 'Virtual reality musical instruments: Guidelines for multisensory interaction design'
     year: '2016'
   NPYFs5EAAAAJ:8k81kl-MbHgC:
@@ -146,7 +146,7 @@ papers:
     title: 'Hydranet: A real-time waveform separation network'
     year: '2020'
   NPYFs5EAAAAJ:BKYZGPsuSFYC:
-    citations: 17
+    citations: 16
     title: 'Reimagining speech: a scoping review of deep learning-based methods for non-parallel voice conversion'
     year: '2024'
   NPYFs5EAAAAJ:BqipwSGYUEgC:
@@ -262,7 +262,7 @@ papers:
     title: Calibration of physical models using artificial neural networks with application to plucked string instruments
     year: '1997'
   NPYFs5EAAAAJ:MnogvFdIBdwC:
-    citations: 233
+    citations: 236
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
   NPYFs5EAAAAJ:NMxIlDl6LWMC:
@@ -670,7 +670,7 @@ papers:
     title: 'Bean: A digital musical instrument for use in music therapy'
     year: '2015'
   NPYFs5EAAAAJ:qjMakFHDy7sC:
-    citations: 101
+    citations: 103
     title: Synthesis of hand clapping sounds
     year: '2007'
   NPYFs5EAAAAJ:qxL8FJ1GzNcC:
@@ -678,7 +678,7 @@ papers:
     title: 'Modular interactions and hybrid models: A conceptual map for model-based sound synthesis'
     year: '2005'
   NPYFs5EAAAAJ:roLk4NBRz8UC:
-    citations: 32
+    citations: 33
     title: A hand clap interface for sonic interaction with the computer
     year: '2009'
   NPYFs5EAAAAJ:rp474-M6Y4oC:
