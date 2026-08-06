@@ -26,7 +26,31 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+  after: 2025-12-31 # show only posts published from 2026 onward
 ---
+
+<style>
+  .social .contact-icons {
+    font-size: 2rem;
+  }
+
+  .social .contact-icons a img {
+    width: 2.4rem;
+    height: 2.4rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .social .contact-icons a svg {
+    width: 2.5rem;
+    height: 2.8rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .social .contact-icons a svg image {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+</style>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
