@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">CC JUCE</title>
+  <desc id="desc">A stacked Creative Commons and JUCE badge.</desc>
+  <rect width="640" height="360" rx="28" fill="#151515"/>
+  <rect x="28" y="28" width="584" height="304" rx="20" fill="#fff"/>
+  <circle cx="184" cy="142" r="74" fill="#d100b9"/>
+  <text x="184" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="78" font-weight="700" fill="#fff">CC</text>
+  <path d="M300 90h230v104H300z" fill="#151515"/>
+  <text x="415" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="4" fill="#fff">JUCE</text>
+  <text x="320" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="600" fill="#151515">ADAPTIVE DE-ESSER</text>
+</svg>
