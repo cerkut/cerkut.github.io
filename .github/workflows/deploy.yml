@@ -85,6 +85,8 @@ jobs:
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
+          python3 -m pip install --user --upgrade jupyter nbconvert
+          export PATH="$(python3 -m site --user-base)/bin:$PATH"
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Deploy 🚀

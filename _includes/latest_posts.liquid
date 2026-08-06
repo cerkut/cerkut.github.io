@@ -2,7 +2,7 @@
   {% if page.latest_posts != blank %}
     {% assign latest_posts = site.posts %}
     {% if page.latest_posts.after %}
-      {% assign latest_posts = latest_posts | where_exp: "post", "post.date >= page.latest_posts.after" %}
+      {% assign latest_posts = latest_posts | where_exp: 'post', 'post.date >= page.latest_posts.after' %}
     {% endif %}
     {% assign latest_posts_size = latest_posts | size %}
     <div

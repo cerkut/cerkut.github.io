@@ -14,12 +14,12 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 ![]({{ "/assets/img/lab-image.jpg" | relative_url }}){:style="width:100%; display:block; margin-left:auto; margin-right:auto;"}
 
 # members
+
 - [Ömer Emin Çınar, Assistant Professor, Visiting Erasmus+ KA131 academic mobility fellow](https://www.linkedin.com/in/omeremincinar/)
 - [Razvan Paisa, Postdoc, upcoming Enterprise Audio AI Expert](https://www.linkedin.com/in/razvan-paisa-23a865a6/)
 - [Anders R Bargum: Industrial PhD Student at Heka VR](https://www.linkedin.com/in/anders-bargum-b887a81a7/)
 - [Tony Thai Do: MSc, Certified Azure Specialist, ollama and RAG tamer](https://www.linkedin.com/in/tony-thai-do)
 - [Mubarik Jamal Muuse: TA in SPIS, overall Edge AI wizard](https://www.linkedin.com/in/mubarik-jamal-muuse-9b98b1342/)
-
 
 # external collaboration
 
@@ -31,6 +31,7 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 - [Active Inference Institute ](https://www.activeinference.institute "An open-science institute")
 
 # alumni
+
 - [Ganga Katwal: Lab intern, Multimedia Design, Digital Marketing, Motion Graphics](https://www.linkedin.com/in/ganga-katwal-1a0197206/ "Intern1")
 - [Martin S Bivolov: Lab intern, Reinforcement Learning, Motion Sensors, Stroke Rehabilitation](https://www.linkedin.com/in/martin-bivolov-10bb8b188/ "Intern2")
 

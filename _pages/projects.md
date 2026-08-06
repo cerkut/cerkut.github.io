@@ -9,10 +9,9 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+#### mSPACE
 
-#### mSPACE 
-
-CA24122 - multiscale Stochastics, Patterns, and Analysis of Combinatorial Environments 
+CA24122 - multiscale Stochastics, Patterns, and Analysis of Combinatorial Environments
 
 **Erkut, C.** (WG1 Member), **19/09/2025 → 28/09/2029:** [https://www.cost.eu/actions/CA24122/](https://www.cost.eu/actions/CA24122)
 
@@ -33,6 +32,5 @@ CA18232 Mathematical models for interacting dynamics on networks
 #### ImprovAIze: Using deep learning to improve real-time motion recognition and affective experiences for human-machine interaction
 
 **Jochum, E.** (PI), **Erkut, C.** (Co-PI), **Overholt, D**, **Dahl, S.**, **Palamas, G.** & **Bai, S.** ( Co-PI), **01/09/2022 → 31/12/2022:** AI for the People Bridging Project, [Videos]({{ '/about/' | relative_url }}): [https://www.youtube.com/@improvaize/videos](https://www.youtube.com/@improvaize/videos)
-
 
 💡 See the dynamic list of my projects at [https://vbn.aau.dk/en/persons/cer/projects/](https://vbn.aau.dk/en/persons/cer/projects/)

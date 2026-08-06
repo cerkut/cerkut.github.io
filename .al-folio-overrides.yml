@@ -7,4 +7,4 @@ overrides:
     upstream_path: _includes/latest_posts.liquid
     upstream_sha256: 281ecf702cf9e3073ad4568da11c65ef07e15c483e7ce439a1e8156718c8bcf4
     local_sha256: 9d2d5f2e3741008dcf3bd87f6776559d069a88560ac533f5d4c0e8a0fc3d1cd6
-    acknowledged_at: '2026-08-06'
+    acknowledged_at: "2026-08-06"
