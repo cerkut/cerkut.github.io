@@ -33,4 +33,4 @@ Your project will likely be embedded as a building block in our research plan.
 
 I expect a **professional attitude** which includes that you conduct yourself as a team player. You are at the lab, because you are contributing to the research vision of the lab: let the quality of your report and (software) code show this dedication and team play.
 
-I like the idea of *working together asynchronously*. This means we use tools like Teams, [github](https://github.com/), [Notion](https://notion.so) to share ideas and code without a strict need to be in the same physical space at the same time.
+I like the idea of _working together asynchronously_. This means we use tools like Teams, [github](https://github.com/), [Notion](https://notion.so) to share ideas and code without a strict need to be in the same physical space at the same time.
