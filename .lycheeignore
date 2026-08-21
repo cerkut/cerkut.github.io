@@ -25,3 +25,5 @@ https://www.overleaf.com/project/5bab706eaab51979c5c07209
 https://biaslab.github.io/research/starter-guide
 # Rate-limits automated requests with 429 (verified working in a browser)
 https://assaeindhoven.org/
+# Google Scholar search-author queries block non-browser clients (403/redirect loop)
+https://scholar.google.
