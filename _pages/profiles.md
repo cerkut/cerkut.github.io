@@ -34,11 +34,11 @@ nav_order: 7
 
 # internal collaboration
 
-- [Multisensory Experience Lab](https://melcph.create.aau.dk "MEL"), [Stefania Serafin](https://vbn.aau.dk/en/persons/107881)
 - [Augmented Performance Lab](https://apl.create.aau.dk/ "APL"), [Dan Overholt](https://vbn.aau.dk/en/persons/dano)
 
 # external collaboration
 
+- [Multisensory Experience Lab](https://www.melab.dk "MEL"), [Stefania Serafin](https://www.dtu.dk/person/stefania-serafin?id=230397&entity=profile)
 - [ADIN Lab](https://adinlab.github.io), SDU Adaptive Intelligence Laboratory, [Melih Kandemir](https://melihkandemir.github.io)
 - [ILAB,](https://chrismathys.com) AU Inference, learning, and action in the brain, [Chris Mathys](https://www.au.dk/en/chmathys@cas.au.dk)
 - [Bellardita Lab](https://in.ku.dk/research/bellardita-lab/), KU Neuroscience, [Carmelo Bellardita](https://in.ku.dk/research/bellardita-lab/?pure=en/persons/602173)

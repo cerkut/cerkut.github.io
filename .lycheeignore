@@ -14,3 +14,12 @@ https://www.reddit.com/
 README.md
 docs/SEO.md
 docs/SHOWCASE.md
+# AAU staff/profile links reject bot user agents with 403 (verified working in a browser)
+https://www.au.dk/en/chmathys@cas.au.dk
+https://vbn.aau.dk/en/persons/cer/projects/
+# COST Action ended in 2024; site's TLS certificate has expired
+https://mat-dyn-net.eu/
+# Private Overleaf project link, requires authentication
+https://www.overleaf.com/project/5bab706eaab51979c5c07209
+# Page removed from biaslab.github.io with no replacement found
+https://biaslab.github.io/research/starter-guide

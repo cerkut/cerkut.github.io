@@ -6,6 +6,7 @@ description: Continual Unified Ecosystems Research Collective of AI, Edge, IoT, 
 nav: true
 nav_order: 4
 ---
+
 The collective focuses on Edge Intelligence and Spatial Web Standard to develop interactive tools that generate and process multimodal data. We train, evaluate, and engineer Generative AI models under the Active Inference framework. The continual training under uncertainty is performed on-prem, or using national HPC, including Quantum Hubs. The collective’s technical equipment includes Edge-enabled sensors and GPU/CPU-based AI edge computing platforms. With this infrastructure, we explore real-time human performances with XR Avatars, AI-enabled interfaces, reactive surfaces, and 3D spatial interaction.
 
 These new technologies correspond to the full stack of Web 3.0 and can be applied in various fields, such as health (therapy and rehabilitation), embodied interaction and soma design, sonic interaction design, and cutting-edge media technologies.

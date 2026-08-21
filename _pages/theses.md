@@ -11,6 +11,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 <div id="theses-list" class="publications" markdown="1">
 
 ## 2026
+
 {: .bibliography}
 
 #### Sound2Serum: Neural Sound Matching System for Serum 2
@@ -20,6 +21,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > #Neural Audio Synthesis, Sound Matching, Student thesis
 
 ## 2025
+
 {: .bibliography}
 
 #### FirstImpress: LLM-Powered Multi-Agent Interview System
@@ -29,21 +31,21 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > #Embodied Conversational Agents Job Interview, Adaptive Media
 > Systems, Term paper
 
-#### Adaptive Desser Application 
+#### Adaptive Desser Application
 
 > Biliousis, S. — Medialogy, Master, Sound and Music Specialization (Master
 > Programme) 1. term, 2025
 >
 > #Juce, Adaptive Media Systems, Term paper
 
-#### How to MakeGuides? Media technologies for regenerative creativity 
+#### How to MakeGuides? Media technologies for regenerative creativity
 
 > Mieciek, M. J — Medialogy, Master, (Master Programme) 4. term, 2025
 >
 > #AI-based guide making, Mixed-methods, Understanding Users. Student
 > thesis
 
-#### Pose Poet AI: Human AI collaboration in Pose-based poet generation 
+#### Pose Poet AI: Human AI collaboration in Pose-based poet generation
 
 > Georgiev, B. — Medialogy, Master, (Master Programme) 4. term, 2025 — #AI-based movement tracking, AI-based poem generation, UI/UX, Student
 > thesis
@@ -109,6 +111,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Master Thesis and HD Thesis
 
 ## 2024
+
 {: .bibliography}
 
 #### AI - Spelling In Image Generative Models
@@ -207,6 +210,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Master Thesis and HD Thesis
 
 ## 2023
+
 {: .bibliography}
 
 #### Danseuddannelsessystem for at lære nye dansebevægelser: AI-Based Movement Tracking and Real-time Feedback
@@ -246,6 +250,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Term paper
 
 ## 2022
+
 {: .bibliography}
 
 #### AudioConv: A new source separation metric
@@ -303,6 +308,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Master Thesis and HD Thesis
 
 ## 2021
+
 {: .bibliography}
 
 #### An audio-visual breathing application and its benefits on human psychology (mental health)
@@ -378,6 +384,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Term paper
 
 ## 2020
+
 {: .bibliography}
 
 #### Acoustic Drum-Kit Source Separation with Inter-Limb Onset Detection for Timing Analysis and Training
@@ -426,7 +433,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 
 > Christie Anne Jeannine Laurent — Sound and Musik, (Master Programme) 4. Term, 2020
 >
-> Student thesis: Master thesis (including HD thesis) @ [Projekter](https://projekter.aau.dk/projekter/da/studentthesis/modelbased-analysis-and-synthesis-of-aging-effects-on-human-voice-production(d1b44391-e543-430f-866e-518da0b1e0e9).html)
+> Student thesis: Master thesis (including HD thesis) @ [Projekter](<https://projekter.aau.dk/projekter/da/studentthesis/modelbased-analysis-and-synthesis-of-aging-effects-on-human-voice-production(d1b44391-e543-430f-866e-518da0b1e0e9).html>)
 
 #### Singing DDSP
 
@@ -441,6 +448,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Term paper
 
 ## 2019
+
 {: .bibliography}
 
 #### ASDF-RNN: An Investigation into Raw Audio Synthesis From Dance Features Using a Probabilistic Deep Encoder-RNN-Decoder Topology
@@ -486,6 +494,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Master thesis (including HD thesis)
 
 ## 2018
+
 {: .bibliography}
 
 #### Exploring Human-Architecture Interactions Through Soma-based Workshop
@@ -525,6 +534,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Term paper
 
 ## 2017
+
 {: .bibliography}
 
 #### Applying Embodied Metaphors for Manipulating Audio Parameters
@@ -624,6 +634,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Master thesis (including HD thesis)
 
 ## 2016
+
 {: .bibliography}
 
 #### Acoustic condition monitoring of a wind turbine
@@ -669,6 +680,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Term paper
 
 ## 2015
+
 {: .bibliography}
 
 #### An Experimental Study in Generative Music for Exercising to Ease Perceived Exertion by use of Heart Beat Rate as a Control Parameter.
@@ -738,6 +750,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Term paper
 
 ## 2014
+
 {: .bibliography}
 
 #### A Mobile Sensor Based Approach to Egocentric Reactive Music for Running
@@ -801,6 +814,7 @@ Listing of student theses supervised at the collective. A report generated in Pu
 > Student thesis: Term paper
 
 ## 2013
+
 {: .bibliography}
 
 #### HUDless Health Representation in First Person Games
