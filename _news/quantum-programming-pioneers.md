@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "I'm excited to be one of the first 1,000 Quantum Programming Pioneers!"
 date: 2026-08-21 09:00:00-0400
 inline: false
 ---
