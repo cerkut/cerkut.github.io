@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-24'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 194
+    citations: 201
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -22,7 +22,7 @@ papers:
     title: Sonification of Human Activities
     year: '2013'
   NPYFs5EAAAAJ:0EnyYjriUFMC:
-    citations: 15
+    citations: 12
     title: An overview of new techniques and effects in model-based sound synthesis
     year: '2001'
   NPYFs5EAAAAJ:0Kh4an1R61UC:
@@ -41,8 +41,12 @@ papers:
     citations: 5
     title: A differentiable neural network approach to parameter estimation of reverberation
     year: '2022'
+  NPYFs5EAAAAJ:2MdNiwGT7yoC:
+    citations: 0
+    title: An Interactive Bio-Music Improvisation System
+    year: '2008'
   NPYFs5EAAAAJ:2P1L_qKh6hAC:
-    citations: 51
+    citations: 49
     title: Parametric time-frequency representation of spatial sound in virtual worlds
     year: '2012'
   NPYFs5EAAAAJ:2SFquFhkCoYC:
@@ -50,7 +54,7 @@ papers:
     title: Explorations of Singing Voice Synthesis using DDSP
     year: '2021'
   NPYFs5EAAAAJ:2osOgNQ5qMEC:
-    citations: 87
+    citations: 85
     title: Acoustical analysis and model-based sound synthesis of the kantele
     year: '2002'
   NPYFs5EAAAAJ:35N4QoGY0k4C:
@@ -58,7 +62,7 @@ papers:
     title: Design of an audio-based mobile journey planner application
     year: '2011'
   NPYFs5EAAAAJ:3fE2CSJIrl8C:
-    citations: 6
+    citations: 5
     title: Model order selection techniques for the loop filter design of virtual string instruments
     year: '2001'
   NPYFs5EAAAAJ:3pYxbvHKFu8C:
@@ -90,7 +94,7 @@ papers:
     title: "Human\u2013Technology Choreographies: Body, Movement, and Space"
     year: '2016'
   NPYFs5EAAAAJ:5nxA0vEk-isC:
-    citations: 8
+    citations: 7
     title: Production of virtual acoustic guitar music
     year: '2002'
   NPYFs5EAAAAJ:6IBXqrN-DEwC:
@@ -103,8 +107,8 @@ papers:
     year: '2023'
   NPYFs5EAAAAJ:70eg2SAEIzsC:
     citations: 0
-    title: Blocked-based physical modeling for digital sound synthesis
-    year: '2000'
+    title: Block-Based Physical Modeling for Digital Sound Synthesis
+    year: Unknown Year
   NPYFs5EAAAAJ:71d7Y1FijdoC:
     citations: 2
     title: Recent advances in exploring self-induced sonic interactions in the context of performing arts
@@ -114,7 +118,7 @@ papers:
     title: System for sports activity
     year: '2010'
   NPYFs5EAAAAJ:7XUxBq3GufIC:
-    citations: 20
+    citations: 19
     title: 'Virtual reality musical instruments: Guidelines for multisensory interaction design'
     year: '2016'
   NPYFs5EAAAAJ:8k81kl-MbHgC:
@@ -122,7 +126,7 @@ papers:
     title: Audiovisual content generation controlled by physiological signals for clinical and artistic applications
     year: '2007'
   NPYFs5EAAAAJ:8rLWgkbgOXQC:
-    citations: 17
+    citations: 19
     title: 'Heigh ho: Rhythmicity in sonic interaction'
     year: '2013'
   NPYFs5EAAAAJ:9ZlFYXVOiuMC:
@@ -134,7 +138,7 @@ papers:
     title: 'LichtGestalt: interaction with sound through swarms of light rays'
     year: '2015'
   NPYFs5EAAAAJ:9yKSN-GCB0IC:
-    citations: 80
+    citations: 77
     title: Extraction of physical and expressive parameters for model-based sound synthesis of the classical guitar
     year: '2000'
   NPYFs5EAAAAJ:AkvegQHRDQ8C:
@@ -146,23 +150,23 @@ papers:
     title: 'Hydranet: A real-time waveform separation network'
     year: '2020'
   NPYFs5EAAAAJ:BKYZGPsuSFYC:
-    citations: 16
+    citations: 18
     title: 'Reimagining speech: a scoping review of deep learning-based methods for non-parallel voice conversion'
     year: '2024'
   NPYFs5EAAAAJ:BqipwSGYUEgC:
-    citations: 2
+    citations: 1
     title: "Cembalon \xE4\xE4nen analyysi ja synteesi"
     year: '2003'
   NPYFs5EAAAAJ:C5mqfHIFIucC:
-    citations: 8
-    title: Incorporating Virtual Reality in an Embodied Interaction Course
+    citations: 9
+    title: Incorporating virtual reality in an embodied interaction course
     year: '2018'
   NPYFs5EAAAAJ:CC3C2HR4nz8C:
     citations: 9
     title: From ecological sounding artifacts towards sonic artifact ecologies
     year: '2016'
   NPYFs5EAAAAJ:CMPXdcK5v8EC:
-    citations: 21
+    citations: 19
     title: The effects of ecological auditory feedback on rhythmic walking interaction
     year: '2015'
   NPYFs5EAAAAJ:Cy13deThEpcC:
@@ -174,7 +178,7 @@ papers:
     title: Embodied interaction through movement in a course work
     year: '2017'
   NPYFs5EAAAAJ:DwWRdx-KAo4C:
-    citations: 9
+    citations: 10
     title: Indirection between movement and sound in an interactive sound installation
     year: '2015'
   NPYFs5EAAAAJ:E2bRg1zSkIsC:
@@ -185,10 +189,6 @@ papers:
     citations: 0
     title: 'PRODUCT SOUND DESIGN: PAST, PRESENT, AND FUTURE'
     year: Unknown Year
-  NPYFs5EAAAAJ:EcS_2O1c4Q0C:
-    citations: 0
-    title: (and Sound) of SiMPE
-    year: '2013'
   NPYFs5EAAAAJ:EsrhoZGmrkoC:
     citations: 0
     title: "Sonic Interaction Design with Physiological Interfaces in the eNTERFACE\u201907 Workshop"
@@ -206,7 +206,7 @@ papers:
     title: Acoustics of tanbur, a Turkish long-necked lute
     year: '1999'
   NPYFs5EAAAAJ:IjCSPb-OGe4C:
-    citations: 68
+    citations: 65
     title: Blocked-based physical modeling for digital sound synthesis
     year: '2007'
   NPYFs5EAAAAJ:J6OZcwVsj5AC:
@@ -230,7 +230,7 @@ papers:
     title: Research Article Real-Time Recognition of Percussive Sounds by a Model-Based Method
     year: '2011'
   NPYFs5EAAAAJ:K-tzbvM8PMoC:
-    citations: 11
+    citations: 10
     title: Latent space explorations of singing voice synthesis using DDSP
     year: '2021'
   NPYFs5EAAAAJ:KKBjqD86ppkC:
@@ -242,7 +242,7 @@ papers:
     title: Basic exploration of narration and performativity for sounding interactive commodities
     year: '2010'
   NPYFs5EAAAAJ:LkGwnXOMwfcC:
-    citations: 18
+    citations: 16
     title: Model-based synthesis of the ud and the Renaissance lute
     year: '2001'
   NPYFs5EAAAAJ:LzOrNEA7mwcC:
@@ -262,7 +262,7 @@ papers:
     title: Calibration of physical models using artificial neural networks with application to plucked string instruments
     year: '1997'
   NPYFs5EAAAAJ:MnogvFdIBdwC:
-    citations: 240
+    citations: 243
     title: Embracing first-person perspectives in soma-based design
     year: '2018'
   NPYFs5EAAAAJ:NMxIlDl6LWMC:
@@ -282,7 +282,7 @@ papers:
     title: Acknowledgement to Reviewers of MTI in 2018
     year: '2019'
   NPYFs5EAAAAJ:O3NaXMp0MMsC:
-    citations: 9
+    citations: 10
     title: Auditory feedback in an interactive rhythmic tutoring system
     year: '2011'
   NPYFs5EAAAAJ:OkrdTXRNpVkC:
@@ -332,7 +332,7 @@ papers:
   NPYFs5EAAAAJ:TNEldfgDb5MC:
     citations: 75
     title: Apparatus for determining a spatial output multi-channel audio signal
-    year: '2011'
+    year: '2014'
   NPYFs5EAAAAJ:TQgYirikUcIC:
     citations: 0
     title: The sound of many real and virtual hands clapping
@@ -350,7 +350,7 @@ papers:
     title: RAVE for Speech
     year: '2024'
   NPYFs5EAAAAJ:Tyk-4Ss8FVUC:
-    citations: 65
+    citations: 61
     title: Commuted waveguide synthesis of the clavichord
     year: '2003'
   NPYFs5EAAAAJ:UEFpDhwOD2kC:
@@ -358,7 +358,7 @@ papers:
     title: Sonic Interactions in Virtual Reality
     year: '2019'
   NPYFs5EAAAAJ:ULOm3_A8WrAC:
-    citations: 5
+    citations: 6
     title: Loop filter design techniques for virtual string instruments
     year: '2001'
   NPYFs5EAAAAJ:UY3hNwcQ290C:
@@ -366,11 +366,11 @@ papers:
     title: Microphone-based electronic wind instrument by feature extraction from breath signals
     year: '2018'
   NPYFs5EAAAAJ:UeHWp8X0CEIC:
-    citations: 78
+    citations: 69
     title: Sound synthesis of the harpsichord using a computationally efficient physical model
     year: '2004'
   NPYFs5EAAAAJ:UebtZRa9Y70C:
-    citations: 20
+    citations: 19
     title: 'From expressive notation to model-based sound synthesis: a case study of the acoustic guitar'
     year: '1999'
   NPYFs5EAAAAJ:V63Ir2N1OTwC:
@@ -382,11 +382,11 @@ papers:
     title: "\xC4\xE4nekk\xE4\xE4mm\xE4n kanteleen suunnittelu ja analyysi"
     year: '2005'
   NPYFs5EAAAAJ:W7OEmFMy1HYC:
-    citations: 28
+    citations: 26
     title: Aspects in analysis and model-based sound synthesis of plucked string instruments
     year: '2002'
   NPYFs5EAAAAJ:WF5omc3nYNoC:
-    citations: 41
+    citations: 39
     title: 'Sound and music computing: Research trends and some key issues'
     year: '2007'
   NPYFs5EAAAAJ:WGv8Og3F3KgC:
@@ -414,15 +414,15 @@ papers:
     title: Real-time timbre transfer and sound synthesis using ddsp
     year: '2021'
   NPYFs5EAAAAJ:XR3BWSlh_xcC:
-    citations: 2
+    citations: 1
     title: Design of an audio-based journey planner application
     year: '2011'
   NPYFs5EAAAAJ:XUAslYVNQLQC:
-    citations: 8
+    citations: 10
     title: Towards the design and evaluation of delay-based modeling of acoustic scenes in mobile augmented reality
     year: '2018'
   NPYFs5EAAAAJ:Y0pCki6q_DkC:
-    citations: 35
+    citations: 33
     title: Finite difference method vs. digital waveguide method in string instrument modeling and synthesis
     year: '2002'
   NPYFs5EAAAAJ:YFjsv_pBGBYC:
@@ -434,35 +434,31 @@ papers:
     title: Audio-tactile interaction at the nodes of a block-based physical sound synthesis model
     year: '2008'
   NPYFs5EAAAAJ:YsMSGLbcyi4C:
-    citations: 29
+    citations: 30
     title: Compilation of unified physical models for efficient sound synthesis
     year: '2003'
   NPYFs5EAAAAJ:ZJ-noXUx9mkC:
-    citations: 17
-    title: Pruning Deep Neural Network Models of Guitar Distortion Effects.
-    year: '2023'
+    citations: 18
+    title: Pruning deep neural network models of guitar distortion effects
+    year: '2022'
   NPYFs5EAAAAJ:ZeXyd9-uunAC:
     citations: 0
     title: CHI'08 Sonic Interaction Design workshop
     year: Unknown Year
   NPYFs5EAAAAJ:Zph67rFs4hoC:
-    citations: 13
+    citations: 12
     title: New designs for the kantele with improved sound radiation
     year: '2003'
   NPYFs5EAAAAJ:_FxGoFyzp5QC:
-    citations: 22
+    citations: 19
     title: Simulation of plucked strings exhibiting tension modulation driving force
     year: '1999'
   NPYFs5EAAAAJ:_kc_bZDykSQC:
     citations: 4
     title: Recent advances in physical modeling with K-and W-techniques
     year: '2004'
-  NPYFs5EAAAAJ:_u2aKJ9e-CoC:
-    citations: 0
-    title: Audiovisual content generation controlled by physiological signals for clinical and artistic applications
-    year: '2007'
   NPYFs5EAAAAJ:anDooRL1HQEC:
-    citations: 34
+    citations: 35
     title: An investigation on the impact of auditory and haptic feedback on rhythmic walking interactions
     year: '2016'
   NPYFs5EAAAAJ:aqlVkmm33-oC:
@@ -486,21 +482,13 @@ papers:
     title: 'ZiZi: The Affectionate Couch and the Interactive Affect Design Diagram'
     year: '2013'
   NPYFs5EAAAAJ:d1gkVwhDpl0C:
-    citations: 103
+    citations: 101
     title: Methods for modeling realistic playing in acoustic guitar synthesis
     year: '2001'
   NPYFs5EAAAAJ:d6JCS5z0ckYC:
-    citations: 245
+    citations: 241
     title: 'Virtual reality musical instruments: State of the art, design principles, and future directions'
     year: '2016'
-  NPYFs5EAAAAJ:dHRcJqc9SEQC:
-    citations: 1
-    title: 'Neural Audio Synthesis for Sound Effects: A Scope Review'
-    year: '2026'
-  NPYFs5EAAAAJ:ddB7do2jUx8C:
-    citations: 0
-    title: Recent advances in physical modeling with K-and W-techniques
-    year: '2011'
   NPYFs5EAAAAJ:dhFuZR0502QC:
     citations: 11
     title: Design and evaluation of human-computer rhythmic interaction in a tutoring system
@@ -514,11 +502,11 @@ papers:
     title: Incorporating Virtual Reality with Experiential Somaesthetics in an Embodied Interaction Course
     year: '2019'
   NPYFs5EAAAAJ:eLRq4zTgah0C:
-    citations: 6
+    citations: 8
     title: 'Mobile AR in and out: Towards delay-based modeling of acoustic scenes'
     year: '2018'
   NPYFs5EAAAAJ:eQOLeE2rZwMC:
-    citations: 23
+    citations: 21
     title: 'Virtual strings based on a 1-D FDTD waveguide model: Stability, losses, and traveling waves'
     year: '2002'
   NPYFs5EAAAAJ:fF_gHTpLxhAC:
@@ -534,7 +522,7 @@ papers:
     title: Block-based physical modeling
     year: '2006'
   NPYFs5EAAAAJ:g9YHGIZn7mcC:
-    citations: 3
+    citations: 4
     title: Explorations of singing voice synthesis using DDSP
     year: '2021'
   NPYFs5EAAAAJ:gI9wzKcniAoC:
@@ -546,7 +534,7 @@ papers:
     title: Immersive audio programming in a virtual reality sandbox
     year: '2019'
   NPYFs5EAAAAJ:gnsKu8c89wgC:
-    citations: 40
+    citations: 41
     title: How can soundscapes affect the preferred walking pace?
     year: '2016'
   NPYFs5EAAAAJ:h-xndbdg2koC:
@@ -562,7 +550,7 @@ papers:
     title: 'Simulation of rhythmic learning: a case study'
     year: '2010'
   NPYFs5EAAAAJ:hqOjcs7Dif8C:
-    citations: 31
+    citations: 28
     title: Acoustical analysis of tanbur, a Turkish long-necked lute
     year: '1999'
   NPYFs5EAAAAJ:ibZ2AwG9z6wC:
@@ -582,7 +570,7 @@ papers:
     title: A case of cooperative sound design
     year: '2016'
   NPYFs5EAAAAJ:jMZTt8odoasC:
-    citations: 9
+    citations: 11
     title: 'ScatAR: a mobile augmented reality application that uses scattering delay networks for room acoustic synthesis'
     year: '2017'
   NPYFs5EAAAAJ:jtOrAYjvdewC:
@@ -590,35 +578,35 @@ papers:
     title: An Experimental Study in Generative Music for Exercising to Ease Perceived Exertion by use of Heart Beat Rate as a Control Parameter
     year: '2017'
   NPYFs5EAAAAJ:kNdYIx-mwKoC:
-    citations: 10
+    citations: 0
     title: 'Methods for modeling realistic playing in plucked-string synthesis: analysis, control and synthesis'
     year: '2000'
   NPYFs5EAAAAJ:kQqwFFzsCTwC:
     citations: 6
-    title: An investigation on the influence of soundscapes and footstep sounds in affecting preferred walking pace.
+    title: An investigation on the influence of soundscapes and footstep sounds in affecting preferred walking pace
     year: '2015'
   NPYFs5EAAAAJ:k_IJM867U9cC:
     citations: 3
     title: 'BIOACOUSTIC MODELING FOR SOUND SYNTHESIS: A CASE STUDY OF ODONTOCETI CLICKS'
     year: Unknown Year
   NPYFs5EAAAAJ:l7iSsH4_Im4C:
-    citations: 2
-    title: Exploring the Impact of AI-Generated Speech on Avatar Perception and Realism in Virtual Reality Environments
+    citations: 4
+    title: Exploring the impact of AI-generated speech on avatar perception and realism in virtual reality environments
     year: '2025'
   NPYFs5EAAAAJ:lPDSu1ZU3VAC:
     citations: 9
     title: 'Beyond Command & Control: Sketching Embodied Interaction'
     year: '2015'
   NPYFs5EAAAAJ:lSLTfruPkqcC:
-    citations: 14
-    title: Model-Based Synthesis of the Clavichord.
+    citations: 13
+    title: Model-based synthesis of the clavichord
     year: '2000'
   NPYFs5EAAAAJ:lSLsV1MU4ZUC:
-    citations: 4
+    citations: 5
     title: Exploring felt qualities of embodied interaction with movement and sound
     year: '2014'
   NPYFs5EAAAAJ:mVmsd5A6BfQC:
-    citations: 34
+    citations: 35
     title: Efficient spatial sound synthesis for virtual worlds
     year: '2009'
   NPYFs5EAAAAJ:mo9XK3BEATIC:
@@ -641,10 +629,6 @@ papers:
     citations: 0
     title: Sound and music computing at Aalborg University in Copenhagen
     year: '2014'
-  NPYFs5EAAAAJ:pZ2CosqRuhkC:
-    citations: 0
-    title: Nonlinear modeling and synthesis of the kantele a traditional Finnish string instrument
-    year: '1999'
   NPYFs5EAAAAJ:pe4chHNxNLUC:
     citations: 0
     title: SID-Sonic Interaction Design, Working Group 2
@@ -654,7 +638,7 @@ papers:
     title: Sound synthesis of plucked string instruments using a commuted waveguide model
     year: '2001'
   NPYFs5EAAAAJ:pqnbT2bcN3wC:
-    citations: 14
+    citations: 15
     title: 'Rhythmic walking interactions with auditory feedback: An exploratory study'
     year: '2012'
   NPYFs5EAAAAJ:puFLaqDw8dcC:
@@ -670,7 +654,7 @@ papers:
     title: 'SiMPE: 8th workshop on speech and sound in mobile and pervasive environments'
     year: '2013'
   NPYFs5EAAAAJ:qhW0HyKmSusC:
-    citations: 6
+    citations: 7
     title: 'Bean: A digital musical instrument for use in music therapy'
     year: '2015'
   NPYFs5EAAAAJ:qjMakFHDy7sC:
@@ -698,19 +682,19 @@ papers:
     title: 'Rhythmic walking interaction with auditory feedback: Ecological approaches in a tempo following experiment'
     year: '2015'
   NPYFs5EAAAAJ:u-x6o8ySG0sC:
-    citations: 134
+    citations: 136
     title: 'Digital waveguides versus finite difference structures: Equivalence and mixed modeling'
     year: '2004'
   NPYFs5EAAAAJ:u5HHmVD_uO8C:
-    citations: 292
+    citations: 287
     title: Discrete-time modelling of musical instruments
     year: '2006'
   NPYFs5EAAAAJ:uQdrZ3qaPmcC:
-    citations: 2
-    title: 'Neural Audio Synthesis for Sound Effects: A Scope Review'
+    citations: 3
+    title: 'Neural audio synthesis for sound effects: A scope review'
     year: '2025'
   NPYFs5EAAAAJ:ufrVoPGSRksC:
-    citations: 23
+    citations: 20
     title: Model-based sound synthesis of tanbur, a Turkish long-necked lute
     year: '2000'
   NPYFs5EAAAAJ:uoeYKOKFegwC:
@@ -729,8 +713,12 @@ papers:
     citations: 0
     title: Perceptual Coherence as an Analytic for Procedural Music and Audio Mappings in Virtual Space............................... 27 Robert Hamilton
     year: Unknown Year
+  NPYFs5EAAAAJ:wuYnf3tzzDUC:
+    citations: 0
+    title: 'Methods for modeling realistic playing in plucked-string synthesis: analysis, control and synthesis'
+    year: '2000'
   NPYFs5EAAAAJ:xlVdBZVQT58C:
-    citations: 19
+    citations: 17
     title: 'Product sound design: Form, function, and experience'
     year: '2015'
   NPYFs5EAAAAJ:xtRiw3GOFMkC:
@@ -754,6 +742,6 @@ papers:
     title: Model-based Analysis and Synthesis of Aging Effects on Human Voice Production
     year: '2020'
   NPYFs5EAAAAJ:zYLM7Y9cAGgC:
-    citations: 33
+    citations: 29
     title: "Nonlinear modeling and synthesis of the kantele\u2013a traditional Finnish string instrument"
     year: '1999'
