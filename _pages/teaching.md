@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Data Science, Machine Learning and AI Engineering courses I teach.
 nav: true
-nav_order: 5
+nav_order: 6
 toc:
   sidebar: left
 ---
