@@ -26,7 +26,6 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-  after: 2025-12-31 # show only posts published from 2026 onward
 ---
 
 <style>
