@@ -80,6 +80,10 @@ All seven `test/integration_*.sh` scripts are gated by `unit-tests.yml`; run the
 - Keep docs aligned with v1 ownership, and keep each fact in one place — link rather than restate.
 - If you create or keep local overrides of plugin-owned files, run `bundle exec al-folio upgrade overrides audit` and commit `.al-folio-overrides.yml` after review.
 
+## This fork's deviations from upstream
+
+This checkout runs at root (blank `baseurl`, not `/al-folio`), needs a Ruby toolchain fix before `bundle` works (system ruby is too old), and doesn't have ImageMagick installed. See [`CLAUDE.md`](CLAUDE.md#this-forks-runtime-notes-deviates-from-upstream-defaults-above) for the exact commands and per-entry bibliography field behavior (`website`/`note`/`bibtex_show`/`keywords`) — don't restate it here.
+
 ## Further reading
 
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — how the starter and gems fit together, silent failure modes, the v1 config contract, local overrides.
