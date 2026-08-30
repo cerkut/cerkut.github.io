@@ -11,7 +11,7 @@ nav: false
 
 > Frandsen, M. — Medialogy, Master, (Master Programme) 2. semester, 2026
 >
-> #Spatial Audio, Haptic Feedback, Term paper — <a href="{{ '/theses/' | relative_url }}#frandsen" title="@report{RefWorks:frandsen2026multimodal,&#10;  author = {Frandsen, Marios},&#10;  title = {Multimodal Feedback In Virtual Reality: Evaluating the effect of spatial audio and haptic feedback on task performance, cognitive load and immersion.},&#10;  year = {2026},&#10;}">(Frandsen, 2026)</a>
+> #Spatial Audio, Haptic Feedback, Term paper — <a href="/theses/#frandsen" title="@report{RefWorks:frandsen2026multimodal,&#10;  author = {Frandsen, Marios},&#10;  title = {Multimodal Feedback In Virtual Reality: Evaluating the effect of spatial audio and haptic feedback on task performance, cognitive load and immersion.},&#10;  year = {2026},&#10;}">(Frandsen, 2026)</a>
 
 #### Multimodal Looper: Interactive Visual Music through Gestures
 
