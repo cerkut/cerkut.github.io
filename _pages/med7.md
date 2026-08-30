@@ -9,7 +9,7 @@ nav: false
 
 > Hansen K. — Sound and Music Computing, (Master Programme) 4. Term, 2026
 >
-> #Neural Audio Synthesis, Sound Matching, Student thesis
+> #Neural Audio Synthesis, Sound Matching, Student thesis — <a href="/theses/#sound2serum" title="@mscthesis{RefWorks:hansen2026sound2serum,&#10;  author = {Hansen, Kevin Thor},&#10;  title = {Sound2Serum - Neural Sound Matching System for Serum 2},&#10;  year = {2026},&#10;}">(Hansen, 2026)</a>
 
 #### FirstImpress: LLM-Powered Multi-Agent Interview System
 
