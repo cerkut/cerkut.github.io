@@ -7,50 +7,21 @@ toc:
   sidebar: left
 ---
 
-## Sound2Serum: Neural Sound Matching System for Serum 2
+## Adaptive Systems with Interaction tasks
 
-> Hansen K. — Sound and Music Computing, (Master Programme) 4. Term, 2026
->
-> #Neural Audio Synthesis, Sound Matching, Student thesis — <a href="/theses/#sound2serum" title="@mscthesis{RefWorks:hansen2026sound2serum,&#10;  author = {Hansen, Kevin Thor},&#10;  title = {Sound2Serum - Neural Sound Matching System for Serum 2},&#10;  year = {2026},&#10;}">(Hansen, 2026)</a>
+Design and evaluate adaptive desktop. mobile, virtual, augmented, or extended reality applications that support subtle, embodied, task-defined interactions. Evaluate the effect of visual, audiotory and haptic feedback on task performance, cognitive load and immersion. (Optional: Compare your evaluation to a theoretical model [1]).
 
-## FirstImpress: LLM-Powered Multi-Agent Interview System
+{% include figure.liquid loading="eager" path="assets/img/publication_preview/InteractiveInference.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-> Axelsen, S. I., Iuel, NCMF, Khan, S, Muuse MJ, Ndikumana H. — Medialogy, Master, (Master Programme) 1. term, 2025
->
-> #Embodied Conversational Agents Job Interview, Adaptive Media Systems, Term paper
+_In this experimental setup, the white bar in the center of the screen helped participants perceive the correct distance 𝑆. They needed to match the size of this bar with the lead car’s bumper while driving. Here, it is wider than the lead car’s bumper indicating that the participant needs to accelerate._
 
-## Enhancing Weather Visualization with Augmented Reality: Bridging Data and Intuition
+[1] Vertegaal, Roel, Timothy Merritt, Saul Greenberg, Aneesh P Tarun, Zhen Li, and Zafeirios Fountas. 2025. “Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction.” arXiv. [doi:10.48550/arxiv.2502.05935](https://doi.org/10.48550/arXiv.2502.05935).
 
-> Isaksen, H. A. — Medialogy, Master, (Master Programme) 1. term, 2024
->
-> AR. Student thesis: Term paper
+## Older Project Ideas
 
-## Fixed-wing Drone Simulation for Pilot Training of Case-specific Emergency Scenarios
-
-> Arnbjerg, M. L., Hansen, A. B. & Kaiser, A. L. — Medialogy, Bachelor, (Bachelor Programme) 6. term, 2024
->
-> VR; Student thesis: Bachelor project. Confidential
-
-## Open Project Ideas
-
-This is a container for semester project ideas for the MED students. The MED1-6 students should consider classical Signal Processing or AR/VR projects, whereas MED7 and above who take / took the Machine Learning Course (MLME) could also consider Machine Learning projects.
+This is a container for semester project ideas for the MED Msc students.
 
 The following MATLAB-based external resource is a good place to think about the scope, content, context, and value of semester projects: [MATLAB Excellence in Innovation Projects](https://github.com/mathworks/MathWorks-Excellence-in-Innovation)
-
-### Quantum Computing and Quantum Machine Learning
-
-Denmark has a rich history of innovation in Quantum research, and aims to a big player in Quantum Computing. There is a [growing community, a national strategy, talent programs, and resources available](https://dqc.dk/) for the next generation of Quantum Computing and Quantum Machine Learning professionals. Outside of Denmark, startups like [Moth Quantum](https://mothquantum.com/) strive to enable the next era of music, gaming and the arts with quantum computing technology.
-
-<div align="middle">
-<img src="https://refikanadol.com/wp-content/uploads/2020/12/TROSS_NGVTRNL_1511-Edit-Edit-Edit-2_fullres-2096x1400.jpg" height="384">
-<br>Image linked from https://refikanadol.com/works/quantummemories/
-</div>
-
-**Objective**: Explore the intersection of quantum computing, machine learning and creative computing, focusing on the development of new narratives, interactive computer graphics application, or even wearable and mobile devices.
-
-#### Key Reference
-
-Miranda, Eduardo R. 2022. Quantum Computing in the Arts and Humanities, An Introduction to Core Concepts, Theory and Applications. https://doi.org/10.1007/978-3-030-95538-0.
 
 ### Mobile App for Exploration of Local Resources
 
