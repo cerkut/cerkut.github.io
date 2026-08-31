@@ -9,15 +9,15 @@ toc:
 
 ## Immersive Installations with Interaction tasks
 
+Design and evaluate virtual, augmented, or extended reality applications that support subtle, embodied, task-defined interactions.
+
 {% include figure.liquid loading="eager" path="assets/img/publication_preview/InteractiveInference.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-In this experimental setup, the white bar in the center of the screen helped participants perceive the correct distance 𝑆. They needed to match the size of this bar with the lead car’s bumper while driving. Here, it is wider than the lead car’s bumper indicating that the participant needs to accelerate.
-
-Design and evaluate virtual, augmented, or extended reality applications that support subtle, embodied, task-defined interactions.
+*In this experimental setup, the white bar in the center of the screen helped participants perceive the correct distance 𝑆. They needed to match the size of this bar with the lead car’s bumper while driving. Here, it is wider than the lead car’s bumper indicating that the participant needs to accelerate.*
 
 #### Multimodal Feedback In Virtual Reality: Evaluating the effect of visual, audiotory and haptic feedback on task performance, cognitive load and immersion
 
-Vertegaal, Roel, Timothy Merritt, Saul Greenberg, Aneesh P Tarun, Zhen Li, and Zafeirios Fountas. 2025. “Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction.” arXiv. doi:10.48550/arxiv.2502.05935.
+Vertegaal, Roel, Timothy Merritt, Saul Greenberg, Aneesh P Tarun, Zhen Li, and Zafeirios Fountas. 2025. “Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction.” arXiv. [doi:10.48550/arxiv.2502.05935](https://doi.org/10.48550/arXiv.2502.05935). 
 
 #### Multimodal Looper: Interactive Visual Music through Gestures
 
