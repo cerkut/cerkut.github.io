@@ -3,15 +3,21 @@ layout: page
 permalink: /med5/
 title: "MED5: Immersive Experiences"
 nav: false
+toc:
+  sidebar: left
 ---
 
-## Immersive Installations
+## Immersive Installations with Interaction tasks
 
-#### Multimodal Feedback In Virtual Reality: Evaluating the effect of spatial audio and haptic feedback on task performance, cognitive load and immersion
+{% include figure.liquid loading="eager" path="assets/img/publication_preview/InteractiveInference.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
-> Frandsen, M. — Medialogy, Master, (Master Programme) 2. semester, 2026
->
-> #Spatial Audio, Haptic Feedback, Term paper — <a href="/theses/#frandsen" title="@report{RefWorks:frandsen2026multimodal,&#10;  author = {Frandsen, Marios},&#10;  title = {Multimodal Feedback In Virtual Reality: Evaluating the effect of spatial audio and haptic feedback on task performance, cognitive load and immersion.},&#10;  year = {2026},&#10;}">(Frandsen, 2026)</a>
+In this experimental setup, the white bar in the center of the screen helped participants perceive the correct distance 𝑆. They needed to match the size of this bar with the lead car’s bumper while driving. Here, it is wider than the lead car’s bumper indicating that the participant needs to accelerate.
+
+Design and evaluate virtual, augmented, or extended reality applications that support subtle, embodied, task-defined interactions.
+
+#### Multimodal Feedback In Virtual Reality: Evaluating the effect of visual, audiotory and haptic feedback on task performance, cognitive load and immersion
+
+Vertegaal, Roel, Timothy Merritt, Saul Greenberg, Aneesh P Tarun, Zhen Li, and Zafeirios Fountas. 2025. “Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction.” arXiv. doi:10.48550/arxiv.2502.05935.
 
 #### Multimodal Looper: Interactive Visual Music through Gestures
 
@@ -32,5 +38,13 @@ nav: false
 > Georgiev, B. — Medialogy, Master, (Master Programme) 4. term, 2025
 >
 > #AI-based movement tracking, AI-based poem generation, UI/UX, Student thesis
+
+## Embodied Avatars
+
+{% include figure.liquid loading="eager" path="assets/img/publication_preview/firstimpress.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+Design and evaluate one or more interactive conversational agents with our without LLM backend.
+
+Related work: <a href="/publications/#firstimpress">FirstImpress</a>, <a href="/publications/#avatar perception">Bargum & Hansen</a>, <a href="/publications/#isaar">ISAAR paper</a>.
 
 See the full [listing of student theses]({{ '../theses' | relative_url }}) (2013–2026).
