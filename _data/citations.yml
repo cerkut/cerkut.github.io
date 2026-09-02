@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-09-02'
 papers:
   NPYFs5EAAAAJ:-BKJ5vZJwzMC:
-    citations: 201
+    citations: 203
     title: 'Sonic interactions in virtual reality: State of the art, current challenges, and future directions'
     year: '2018'
   NPYFs5EAAAAJ:-LHtoeeytlUC:
@@ -54,7 +54,7 @@ papers:
     title: Explorations of Singing Voice Synthesis using DDSP
     year: '2021'
   NPYFs5EAAAAJ:2osOgNQ5qMEC:
-    citations: 85
+    citations: 86
     title: Acoustical analysis and model-based sound synthesis of the kantele
     year: '2002'
   NPYFs5EAAAAJ:35N4QoGY0k4C:
@@ -534,7 +534,7 @@ papers:
     title: Immersive audio programming in a virtual reality sandbox
     year: '2019'
   NPYFs5EAAAAJ:gnsKu8c89wgC:
-    citations: 41
+    citations: 42
     title: How can soundscapes affect the preferred walking pace?
     year: '2016'
   NPYFs5EAAAAJ:h-xndbdg2koC:
