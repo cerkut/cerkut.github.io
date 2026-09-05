@@ -53,7 +53,7 @@ If you already publish a notebook — on `marimo.app` or your own WASM host — 
 
 {% al_marimo_embed src="https://marimo.app/l/30o11k" height="700px" caption="MLME 26: Jupyter to marimo transition" %}
 
-The frame is sandboxed **without** `allow-same-origin`, so the embedded notebook cannot reach this page's storage or cookies. That's also why the box above can stay blank: without access to its own origin's storage, marimo's in-browser Python runtime can't cache the WASM interpreter it needs to boot, so the notebook's outer chrome loads but the cells never render. If that happens, [open the notebook directly on marimo.app](https://marimo.app/l/30o11k){:target="_blank" rel="noopener"} instead.
+`al_marimo` 1.0.0 sandboxes this frame **without** `allow-same-origin`, on the theory that the embedded notebook shouldn't reach this page's storage or cookies. In practice that also blocks marimo's own in-browser Python runtime from reaching *its own* origin's storage to cache the WASM interpreter it needs to boot — the notebook's outer chrome loads, but the cells never render. [`_plugins/al_marimo_sandbox_override.rb`](https://github.com/cerkut/cerkut.github.io/blob/master/_plugins/al_marimo_sandbox_override.rb) patches that back in for this site; see [al-org-dev/al-marimo#1](https://github.com/al-org-dev/al-marimo/issues/1) for the upstream fix. If you're reading this on a site without that override, [open the notebook directly on marimo.app](https://marimo.app/l/30o11k){:target="_blank" rel="noopener"} instead.
 
 ## marimo vs. Jupyter
 
