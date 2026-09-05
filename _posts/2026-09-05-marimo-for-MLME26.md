@@ -53,11 +53,11 @@ If you already publish a notebook — on `marimo.app` or your own WASM host — 
 
 {% al_marimo_embed src="https://marimo.app/l/30o11k" height="700px" caption="MLME 26: Jupyter to marimo transition" %}
 
-The frame is sandboxed **without** `allow-same-origin`, so the embedded notebook cannot reach this page's storage or cookies.
+The frame is sandboxed **without** `allow-same-origin`, so the embedded notebook cannot reach this page's storage or cookies. That's also why the box above can stay blank: without access to its own origin's storage, marimo's in-browser Python runtime can't cache the WASM interpreter it needs to boot, so the notebook's outer chrome loads but the cells never render. If that happens, [open the notebook directly on marimo.app](https://marimo.app/l/30o11k){:target="_blank" rel="noopener"} instead.
 
 ## marimo vs. Jupyter
 
-marimo replaces Jupyter's top-to-bottom, JSON-based notebooks with reactive execution stored as plain `.py` files: editing a cell auto-reruns every dependent cell, so the file you commit is git-diffable and actually reproducible. Jupyter still wins for non-Python kernels and its larger widget/extension ecosystem. See [marimo as a Jupyter alternative](https://marimo.io/features/vs-jupyter-alternative) for the full comparison.
+marimo replaces Jupyter's top-to-bottom, JSON-based notebooks with reactive execution stored as plain `.py` files: editing a cell auto-reruns every dependent cell, so the file you commit is git-diffable and actually reproducible. Jupyter still wins for non-Python kernels and its larger widget/extension ecosystem. See [marimo as a Jupyter alternative](https://marimo.io/features/vs-jupyter-alternative) for the full comparison, and [Algorithmic Trading with marimo and Jupyter, with 6 Great Extensions](https://medium.com/coding-nexus/algorithmic-trading-with-marimo-and-jupyter-with-6-great-extensions-5fb9ccffa82d) for a hands-on look at using both together.
 
 ## A note on what this loads
 
