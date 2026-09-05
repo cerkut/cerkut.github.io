@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with marimo snippets
-date: 2025-04-28 12:00:00
-description: running Python in the browser with marimo
+title: a post with marimo snippets, for MLME26
+date: 2026-09-05 00:01:00
+description: running Python in the browser with marimo, ahead of MLME 26
 tags: code formatting
 categories: sample-posts
 marimo: true
@@ -54,6 +54,10 @@ If you already publish a notebook — on `marimo.app` or your own WASM host — 
 {% al_marimo_embed src="https://marimo.app/l/30o11k" height="700px" caption="MLME 26: Jupyter to marimo transition" %}
 
 The frame is sandboxed **without** `allow-same-origin`, so the embedded notebook cannot reach this page's storage or cookies.
+
+## marimo vs. Jupyter
+
+marimo replaces Jupyter's top-to-bottom, JSON-based notebooks with reactive execution stored as plain `.py` files: editing a cell auto-reruns every dependent cell, so the file you commit is git-diffable and actually reproducible. Jupyter still wins for non-Python kernels and its larger widget/extension ecosystem. See [marimo as a Jupyter alternative](https://marimo.io/features/vs-jupyter-alternative) for the full comparison.
 
 ## A note on what this loads
 
