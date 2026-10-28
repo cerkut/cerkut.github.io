@@ -21,6 +21,8 @@ We are interested in digital signal processing (DSP) systems, in particular in t
 
 ### Methodology
 
+We work under [Open Innovation](https://en.wikipedia.org/wiki/Open_innovation).
+
 I may ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Let's accept it, you’re doing research now. Find a simpler question that will put you on the path to an answer. Doing research is a _continuous process_ of adaptation in both posing the questions and proposing solutions. In other words, if you can’t find the answer, change the question! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues.
 
 ### Expectations and Deliverables
