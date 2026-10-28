@@ -22,6 +22,11 @@ These new technologies correspond to the full stack of Web 3.0 and can be applie
 
 # external collaboration
 
+- [Elif Vatanoğlu-Lutz, Prof. Dr.](https://www.linkedin.com/in/prof-dr-elif-vatano%C4%9Flu-lutz-7b623034/), Yeditepe University, Istanbul, Türkiye
+- [Elif Polat Hopcan](https://linkedin.com/in/elif-polat-hopcan), Associate Professor of Educational Technology and AI in Education, Istanbul University, Türkiye
+
+### past
+
 - [ADIN Lab](https://adinlab.github.io), SDU Adaptive Intelligence Laboratory, [Melih Kandemir](https://melihkandemir.github.io)
 - [ILAB,](https://chrismathys.com) AU Inference, learning, and action in the brain, [Chris Mathys](https://www.au.dk/en/chmathys@cas.au.dk)
 - [Bellardita Lab](https://in.ku.dk/research/bellardita-lab/), KU Neuroscience, [Carmelo Bellardita](https://in.ku.dk/research/bellardita-lab/?pure=en/persons/602173)
