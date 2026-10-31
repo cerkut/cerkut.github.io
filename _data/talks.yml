@@ -1,0 +1,97 @@
+# Talks, copied from the old-academic-pages branch (_talks/*.md).
+# Rendered by _pages/talks.md, newest first.
+- title: "AI: Embrace, Adapt, Resist?"
+  type: "Panel discussion, 45 minutes"
+  venue: "Danish Sound Day 2026, Danish Sound Cluster"
+  location: "DTU Skylab, Denmark"
+  date: 2026-11-11
+  upcoming: true
+  description: >-
+    Panel with Miriam Plon Sauer (Global Chief Strategy Officer, AKQA), Cumhur Erkut (Associate Professor and AI Engineering lecturer,
+    Aalborg University) and Lars Tirsbæk (Head of Studies, Sonic College), moderated by Nick Dunkerley (Founder, Hindenburg Systems).
+    AI is changing how we develop products, produce sound and teach the next generation. Should we embrace it, adapt to it, or resist it?
+  url: "https://danishsoundcluster.dk/danish-sound-day-2026/"
+  url_label: "Event page"
+
+- title: "A new era of AI: Dozens of miniature brain models"
+  type: "Podcast interview"
+  venue: "Baris & Baris (YouTube podcast)"
+  location: "Online"
+  date: 2025-06-04
+  note: "In Turkish"
+  description: >-
+    Conversation on artificial intelligence and virtual reality, covering my academic path, my time in Finland, the links between brain
+    function and AI, deep learning, transformer architectures, the limits of large language models, data quality and synthetic data, and
+    the role of small models and statistical methods. Also covers Active Inference.
+  url: "https://www.youtube.com/watch?v=mQ1EXt6Bz4k&list=PLiSkOFR4a8sGpRa1uBqFbv3qcKMbgCrWW"
+  url_label: "Watch the episode"
+
+- title: "Sonic Interactions in Mixed Reality"
+  type: "Talk"
+  venue: "Boğaz'da Yapay Öğrenme İsmail Arı Yaz Okulu 2018 (Summer School on Machine Learning, Speech, Language and Bioinformatics)"
+  location: "Turkey"
+  date: 2018-07-03
+  note: "In Turkish"
+  description: >-
+    Sound interactions for mixed reality, presented at the İsmail Arı Summer School 2018 (2–5 July 2018).
+  url: "https://www.youtube.com/watch?v=y_UKXPvT_EU&list=PLiSkOFR4a8sGpRa1uBqFbv3qcKMbgCrWW&index=5"
+  url_label: "Watch the talk"
+
+- title: "Wellbeing beyond expectations with an Edge Intelligence Infrastructure"
+  venue: "Dialogue Workshop: Mission Wellbeing of Children and Young People, Aalborg University Innovation Hub"
+  location: "Aalborg, Denmark"
+  date: 2024-03-14
+  description: >-
+    In 2024, in many occasions I have pitched for an Edge Intelligence infrastructure that can connect our labs and people's homes.
+    The last was the Dialogue Workshop on 14 March 2024 at Aalborg. I recorded the essence of my talk at the airport while waiting
+    for a cancelled flight. It will hopefully contribute to an AAU mission project with the tentative title: Novel technologies for the
+    well being of children and the young.
+  url: "https://share.descript.com/embed/WdaIQHRiLFM"
+  url_label: "Watch the talk"
+
+- title: "Operationalizing Sound and Music with Foundational AI Models"
+  venue: "C4DM - Centre for Digital Music, Queen Mary University of London, UK"
+  location: "Online"
+  date: 2022-12-10
+  description: >-
+    Impact of MLOps on the recent work at Aalborg University and the Multisensory Experience Lab. I emphasized that there are no
+    foundational models for audio yet (but we may expect them soon), and in January 2023 they started to pour in batches!
+  url: "https://www.youtube.com/watch?v=U6YQ1wLrIDg"
+  url_label: "Watch the talk"
+
+- title: "Enhancing Sound, Music, and Movement Computing with Differentiable DSP"
+  venue: "Sound and Music Computing Conference (SMC'22), Saint-Étienne, France"
+  location: "Online"
+  date: 2022-06-09
+  description: >-
+    Impact of Differentiable Digital Signal Processing (DDSP) on the recent work at the Multisensory Experience Lab. We can deploy
+    DDSP-based real-time plugins fast because we started the work about 25 years ago, and we are implementing the principles of MLOps.
+    The talk compares this approach with what was used two decades ago with shallow-learning models, self-recorded or synthetic data,
+    and self-written code and frameworks.
+  url: "https://youtu.be/Kr_807NNYVU?t=513"
+  url_label: "Watch the talk"
+
+- title: "Multisensory Processing at MEL"
+  venue: "Danish Sound Cluster, Struer, Denmark"
+  location: "Online"
+  date: 2021-12-07
+  description: >-
+    Recent work at the Multisensory Experience Lab on physics-based audio and movement models beyond deep learning, and what is to
+    come: graphical and physics-based deep learning. The lab investigates combinations of input and output modalities in interactive
+    applications, in areas such as health, rehabilitation, education, art and entertainment. MEL focuses on physics-based deep learning
+    and differentiable programming, aiming for interpretable models that optimise well-understood signal processing algorithms with
+    structural biases rather than a generic black box.
+  url: "https://www.youtube-nocookie.com/embed/ASulDXGS988?start=4038"
+  url_label: "Watch the talk"
+  extra_link: "https://danishsoundcluster.dk/multisensory-processing"
+  extra_link_label: "More info"
+
+- title: "Towards Differentiable Sound and Music Computing"
+  venue: "AES Applications of Machine Learning in Audio"
+  location: "New York, NY, and online"
+  date: 2020-09-29
+  description: >-
+    Starting from differentiable IIR filters, I extrapolate the current state of the art in neural audio synthesis towards a research
+    agenda on Differentiable Sound and Music Computing.
+  url: "https://youtu.be/-qtjwTJgutk"
+  url_label: "Watch the talk (AES MLAA playlist)"
