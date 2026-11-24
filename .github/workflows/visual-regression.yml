@@ -62,6 +62,8 @@ jobs:
       - name: Prepare baseline worktree (v0.16.3) 🧱
         run: |
           set -euo pipefail
+          # The v0.16.3 tag lives on upstream al-folio, not on this fork.
+          git fetch --no-tags https://github.com/alshedivat/al-folio.git refs/tags/v0.16.3:refs/tags/v0.16.3
           git worktree add ../al-folio-baseline v0.16.3
           (cd ../al-folio-baseline && bundle install && npm ci)
 
