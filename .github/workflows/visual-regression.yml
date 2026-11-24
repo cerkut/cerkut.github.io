@@ -36,7 +36,8 @@ on:
 
 jobs:
   visual-regression:
-    runs-on: ubuntu-latest
+    # Playwright 1.58 has no chromium build for ubuntu-26.04 yet; pin 24.04.
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     steps:
       - name: Checkout candidate 🛎️
