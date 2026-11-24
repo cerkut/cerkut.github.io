@@ -13,19 +13,19 @@ toc:
 {% assign current_year = "" %}
 
 {% for talk in talks %}
-  {% assign year = talk.date | date: "%Y" %}
-  {% if year != current_year %}
-    {% assign current_year = year %}
+{% assign year = talk.date | date: "%Y" %}
+{% if year != current_year %}
+{% assign current_year = year %}
 
 ## {{ year }}
 
-  {% endif %}
+{% endif %}
 
-#### {{ talk.title }}{% if talk.upcoming %} *(upcoming)*{% endif %}
+#### {{ talk.title }}{% if talk.upcoming %} _(upcoming)_{% endif %}
 
 {% if talk.type %}{{ talk.type }}. {% endif %}**{{ talk.venue }}**, {{ talk.location }}, {{ talk.date | date: "%-d %B %Y" }}
 
-{% if talk.note %}*{{ talk.note }}*
+{% if talk.note %}_{{ talk.note }}_
 
 {% endif %}{{ talk.description }}
 

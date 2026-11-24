@@ -16,6 +16,7 @@ Design and evaluate virtual, augmented, or extended reality applications that su
 _In this experimental setup, the white bar in the center of the screen helped participants perceive the correct distance 𝑆. They needed to match the size of this bar with the lead car’s bumper while driving. Here, it is wider than the lead car’s bumper indicating that the participant needs to accelerate. After [1]._
 
 ### MED5 Framing:
+
 Multimodal Feedback In Virtual Reality Task: Evaluating the effect of visual, auditory and haptic feedback on task performance, cognitive load and immersion
 
 - Target users / audience: Who is the end-user or organisational persona this installation serves? (e.g. driving-assistance operators, museum visitors, clinical trainees)
@@ -25,6 +26,7 @@ Multimodal Feedback In Virtual Reality Task: Evaluating the effect of visual, au
 - Job-market link: Name the industry roles/sectors this maps to (automotive HMI, XR training, spatial simulation) so you can articulate it on a CV/portfolio.
 
 ### References
+
 [1] Vertegaal, Roel, Timothy Merritt, Saul Greenberg, Aneesh P Tarun, Zhen Li, and Zafeirios Fountas. 2025. “Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction.” arXiv. [doi:10.48550/arxiv.2502.05935](https://doi.org/10.48550/arXiv.2502.05935).
 
 ## Embodied Avatars
@@ -36,7 +38,8 @@ Design and evaluate one or more interactive conversational agents with our witho
 Related work: <a href="/publications/#firstimpress">FirstImpress</a>, <a href="/publications/#avatar perception">Bargum & Hansen</a>, <a href="/publications/#isaar">ISAAR paper</a>.
 Embodied Avatars
 
-### MED5 framing 
+### MED5 framing
+
 - Agentic AI integration: Specify whether the agent uses a local/cloud LLM at runtime and how its behavior, latency, and orchestration are controlled — not just "prompted," but engineered.
 - Architecture & version control: Document the system architecture (modular services, API boundaries) and repo/build setup (Git, CI) so the project reads as team-integration-ready.
 - Ethics & data integrity: Address conversational data handling, privacy, and bias considerations for the LLM backend (per EU AI Act).

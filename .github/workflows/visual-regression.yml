@@ -36,7 +36,8 @@ on:
 
 jobs:
   visual-regression:
-    runs-on: ubuntu-latest
+    # Playwright 1.58 has no chromium build for ubuntu-26.04 yet; pin 24.04.
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     steps:
       - name: Checkout candidate 🛎️
@@ -47,7 +48,7 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3.5"
+          ruby-version: "3.3"
           bundler-cache: true
 
       - name: Setup Node 🧰
@@ -62,6 +63,8 @@ jobs:
       - name: Prepare baseline worktree (v0.16.3) 🧱
         run: |
           set -euo pipefail
+          # The v0.16.3 tag lives on upstream al-folio, not on this fork.
+          git fetch --no-tags https://github.com/alshedivat/al-folio.git refs/tags/v0.16.3:refs/tags/v0.16.3
           git worktree add ../al-folio-baseline v0.16.3
           (cd ../al-folio-baseline && bundle install && npm ci)
 

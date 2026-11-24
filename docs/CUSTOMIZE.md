@@ -271,7 +271,6 @@ These tools are best used for:
 **Access these tools:**
 
 - **Code Wiki**: [Code Wiki for al-folio](https://codewiki.google/github.com/alshedivat/al-folio)
-- **DeepWiki**: [DeepWiki for al-folio](https://deepwiki.com/alshedivat/al-folio)
 
 ## Technology Stack
 
@@ -1228,7 +1227,7 @@ To update a library:
 1. Change the `version` number
 2. Obtain the new integrity hash for the updated library version and update the `integrity` field with the new hash. You can:
    - Check if the CDN provider (e.g., jsDelivr, cdnjs, unpkg) provides the SRI hash for the file. Many CDN sites display the SRI hash alongside the file URL.
-   - Generate the SRI hash yourself using a tool such as [SRI Hash Generator](https://www.srihash.org/) or by running the following command in your terminal:
+   - Generate the SRI hash yourself using a tool such as the SRI Hash Generator at srihash.org or by running the following command in your terminal:
 
      ```bash
      curl -sL [FILE_URL] | openssl dgst -sha384 -binary | openssl base64 -A

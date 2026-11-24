@@ -18,8 +18,9 @@ _In this experimental setup, the white bar in the center of the screen helped pa
 [1] Vertegaal, Roel, Timothy Merritt, Saul Greenberg, Aneesh P Tarun, Zhen Li, and Zafeirios Fountas. 2025. “Interactive Inference: A Neuromorphic Theory of Human-Computer Interaction.” arXiv. [doi:10.48550/arxiv.2502.05935](https://doi.org/10.48550/arXiv.2502.05935).
 
 ### MED7 Framing
+
 - Spatial Computing: State which platform(s) are targeted and the diegetic UI/UX or multi-modal interaction channels (gaze, pinch, haptics) used across them.
-- Quantitative UX & Telemetry: Formalize the performance/cognitive-load/immersion assessment as instrumented, quantitative measures (task timing, error rate, NASA-TLX or equivalent). Optional: Compare it to a theoretical model, e.g., [1]. 
+- Quantitative UX & Telemetry: Formalize the performance/cognitive-load/immersion assessment as instrumented, quantitative measures (task timing, error rate, NASA-TLX or equivalent). Optional: Compare it to a theoretical model, e.g., [1].
 - Multi-Modal Sensory Design: Document how visual/auditory/haptic channels were aligned (latency, cross-modal consistency) rather than bolted on independently.
 - Performance budgets: Specify target framerate/responsiveness per platform (desktop vs. mobile vs. XR headset) and how it was profiled.
 
@@ -50,6 +51,7 @@ _Mockup image after Krupa, Maria, 2022, "Impact of gamification on user's engage
 Gamification can enhance user engagement on a mobile application, and encourage users to explore small businesses within the Greater CPH Area.
 
 #### MED7 framing:
+
 - Stakeholder-Centric Framing: Name the small-business persona and articulate the ROI case — what value does discoverability/engagement create for them?
 - Agentic AI Integration: If using ML-based recommendation, specify how the model is trained/served and how its behavior is controlled and evaluated (not just "a recommender exists").
 - Architectural Thinking: Recommendation pipeline should be a decoupled service/module, not hardcoded into the app — enables future extension (e.g. new business categories).
@@ -85,6 +87,7 @@ _Left: A vest-based breath regularization app, right: a microphone-based breath 
 - Breathing exercises are effective in reducing anxiety
 
 #### MED7 framing
+
 - Sensor Analytics: Specify which physiological/gesture signals are captured (mic, gyroscope, IMU, camera) and how they're quantitatively validated against a breathing-regularity outcome.
 - Multi-Modal Sensory Design: Justify the audio-visual feedback mapping choice for the intended health/wellbeing effect.
 - Ethics & Data Integrity: Since this touches physiological/health-adjacent data, explicitly address consent, data storage, and privacy — a required discussion point given the sensitivity of the data type.
@@ -116,6 +119,7 @@ _An augmented reality "portal to another world" effect. Portal renders above a K
 - Audio/Visual adoption increases enjoyment
 
 #### MED7 framing
+
 - Spatial Computing: Specify ARCore/ARKit vs. markerless approach and the tracking robustness tradeoffs.
 - Stakeholder Framing: Identify the cultural/creative-sector client this serves and the audience-reach value proposition.
 - DevOps/Deployment: Document the mobile build/deployment pipeline (platform-specific packaging, version control).
