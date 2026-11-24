@@ -33,7 +33,7 @@ That's the "instinct over deliberation" part of Savi's definition. But the rest 
 
 ### Feral, not reckless
 
-Savi's feral leader says "what got me here makes me undeniable" and stops questioning the instinct. That's the part I'd cut. Research instinct still gets checked — against data, against a reviewer, against a student's confused face in the lab. The "feral" part isn't the absence of accountability; it's the absence of the *layer of process that pretends to provide it* while actually just slowing everyone down.
+Savi's feral leader says "what got me here makes me undeniable" and stops questioning the instinct. That's the part I'd cut. Research instinct still gets checked — against data, against a reviewer, against a student's confused face in the lab. The "feral" part isn't the absence of accountability; it's the absence of the _layer of process that pretends to provide it_ while actually just slowing everyone down.
 
 > Filters are dead weight and safeguards are unnecessary impediments.
 
